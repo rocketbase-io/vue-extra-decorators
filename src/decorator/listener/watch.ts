@@ -12,9 +12,9 @@ export function Watch(opts: string | WatchOptionsWithProp): TypedPropertyDecorat
   if (typeof opts === "string") opts = { prop: opts };
   const { prop } = opts;
   delete opts.prop;
-  return createDecorator((options, key) => {
+  return createDecorator((options, handler) => {
     if (!options.watch) options.watch = {};
-    if (!Array.isArray(options.watch[key])) options.watch[key] = options.watch[key] == null ? ([] as any) : [options.watch[key]];
-    (options.watch[key] as any).push({ ...(opts as any), handler: key });
+    if (!Array.isArray(options.watch[prop])) options.watch[prop] = options.watch[prop] == null ? ([] as any) : [options.watch[prop]];
+    (options.watch[prop] as any).push({ ...(opts as any), handler });
   });
 }

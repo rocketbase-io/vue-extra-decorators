@@ -1,7 +1,0 @@
-/**
- * <%= name %> v<%= version %>
- * <%= description %>
- * <%= homepage %>
- * (c) <% new Date().getFullYear() %> <%= author %>
- * @license <% license || "MIT" %>
- */

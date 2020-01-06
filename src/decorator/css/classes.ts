@@ -54,7 +54,7 @@ export function Classes(
       if (prefix) result[prefix] = true;
       for (const [key, value] of Object.entries(val))
         if (typeof value === "string") result[prefix + infix + converter([key, value], true)] = true;
-        else result[prefix + infix + converter(key, true)] = value;
+        else result[prefix + infix + converter(key, true)] = value as any;
       return result;
     });
   };

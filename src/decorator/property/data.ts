@@ -54,10 +54,10 @@ export function Data<T>(opts: DataOpts<T> = {}): TypedPropertyDecorator<T> {
   // If a literal is given, use a function returning that literal
   if (opts.literal != null) opts.default = (() => opts.literal) as any;
 
-  const { default: def, sync } = opts;
-
   // Initialize values with null so they are reactive
   if (opts.default == null) opts.default = null as any;
+
+  const { default: def, sync } = opts;
 
   // Normalize value of default to function always
   if (typeof opts.default !== "function")
@@ -72,11 +72,12 @@ export function Data<T>(opts: DataOpts<T> = {}): TypedPropertyDecorator<T> {
       return { [key]: getter.call(this) };
     };
     if (sync) {
+      const event = options.model && options.model.prop === sync ? options.model.event || "change" : `update:${sync}`;
       if (!options.watch) options.watch = {};
       if (!Array.isArray(options.watch[key])) options.watch[key] = options.watch[key] == null ? ([] as any) : [options.watch[key]];
       (options.watch[key] as any).push({
         handler(newVal: T, oldVal?: T) {
-          this.$emit(`update:${sync}`, newVal, oldVal);
+          this.$emit(event, newVal, oldVal);
         }
       });
       if (!Array.isArray(options.watch[sync])) options.watch[sync] = options.watch[sync] == null ? ([] as any) : [options.watch[sync]];

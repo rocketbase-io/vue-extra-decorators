@@ -1,6 +1,6 @@
 {
   "name": "@rocketbase/vue-extra-decorators",
-  "version": "2.0.7",
+  "version": "2.0.8",
   "description": "Additional decorators built on vue-class-component",
   "main": "dist/VueExtraDecorators.cjs.js",
   "module": "dist/VueExtraDecorators.esm.js",

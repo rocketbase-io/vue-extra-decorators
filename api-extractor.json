@@ -4,7 +4,7 @@
   "mainEntryPointFilePath": "<projectFolder>/dist/VueExtraDecorators.d.ts",
   "bundledPackages": [],
   "compiler":      { "tsconfigFilePath": "<projectFolder>/tsconfig.json" },
-  "dtsRollup":     { "enabled": true, "untrimmedFilePath": "<projectFolder>/dist/VueExtraDecorators.d.ts" },
+  "dtsRollup":     { "enabled": false, "untrimmedFilePath": "<projectFolder>/dist/VueExtraDecorators.d.ts" },
   "apiReport":     { "enabled": true, "reportFileName":    "VueExtraDecorators.api.md", "reportFolder": "<projectFolder>/dist" },
   "docModel":      { "enabled": true, "apiJsonFilePath":   "<projectFolder>/dist/VueExtraDecorators.api.json" },
   "tsdocMetadata": { "enabled": false },

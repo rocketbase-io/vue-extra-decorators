@@ -10,7 +10,7 @@ export function BusyState(id?: string) {
         getBusyStateSubscribers(this, id).push(
           (this[subscriber] = (state: Snowflake[]) => (this[key] = !!state.length))
         );
-        return { [key]: getBusyState(this, id) };
+        return { [key]: !!getBusyState(this, id).length };
       },
       destroyed(this: any): void {
         const subs = getBusyStateSubscribers(this, id);

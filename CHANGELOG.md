@@ -1,3 +1,10 @@
+## [2.1.2](https://github.com/rocketbase-io/vue-extra-decorators/compare/v2.1.1...v2.1.2) (2020-02-20)
+
+
+### Bug Fixes
+
+* update semantic release plugins, force release ([e1338ae](https://github.com/rocketbase-io/vue-extra-decorators/commit/e1338ae218ec16d2a75aae4967568308f3e19587))
+
 ## [2.1.1](https://github.com/rocketbase-io/vue-extra-decorators/compare/v2.1.0...v2.1.1) (2020-02-20)
 
 

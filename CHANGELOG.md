@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/rocketbase-io/vue-extra-decorators/compare/v2.1.2...v2.2.0) (2020-02-20)
+
+
+### Features
+
+* enable global busy states ([06f8d20](https://github.com/rocketbase-io/vue-extra-decorators/commit/06f8d207be11ec5ca11b5ef7613acc808dafb53c))
+
 ## [2.1.2](https://github.com/rocketbase-io/vue-extra-decorators/compare/v2.1.1...v2.1.2) (2020-02-20)
 
 

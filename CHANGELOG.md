@@ -1,3 +1,10 @@
+## [2.2.1](https://github.com/rocketbase-io/vue-extra-decorators/compare/v2.2.0...v2.2.1) (2020-02-20)
+
+
+### Bug Fixes
+
+* release zipped build target ([41e995e](https://github.com/rocketbase-io/vue-extra-decorators/commit/41e995e689627414451355b593a094506aac20fa))
+
 # [2.2.0](https://github.com/rocketbase-io/vue-extra-decorators/compare/v2.1.2...v2.2.0) (2020-02-20)
 
 

@@ -14,8 +14,8 @@
     "build": "rollup --config build/rollup.config.js",
     "clean": "rimraf dist temp docs coverage",
     "test": "jest",
-    "lint": "eslint --ext .ts .",
-    "lint:fix": "eslint --ext .ts --fix ."
+    "lint": "eslint --ignore-path .gitignore --ext .ts .",
+    "lint:fix": "eslint --ignore-path .gitignore --ext .ts --fix ."
   },
   "repository": {
     "type": "git",

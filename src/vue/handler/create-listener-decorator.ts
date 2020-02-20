@@ -16,7 +16,7 @@ import { createDecorator } from "vue-class-component";
 export function createListenerDecorator(
   events: string[],
   el: (cxt: any) => any,
-  dom: boolean = false,
+  dom = false,
   attachOn: string[] = ["created"],
   detachOn: string[] = ["destroyed"]
 ): TypedPropertyDecorator<AnyFunction> {

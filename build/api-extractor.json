@@ -1,12 +1,12 @@
 {
   "$schema": "https://developer.microsoft.com/json-schemas/api-extractor/v7/api-extractor.schema.json",
   "projectFolder": ".",
-  "mainEntryPointFilePath": "<projectFolder>/dist/VueExtraDecorators.d.ts",
+  "mainEntryPointFilePath": "<projectFolder>/dist/<%= name %>.d.ts",
   "bundledPackages": [],
   "compiler":      { "tsconfigFilePath": "<projectFolder>/tsconfig.json" },
-  "dtsRollup":     { "enabled": false, "untrimmedFilePath": "<projectFolder>/dist/VueExtraDecorators.d.ts" },
-  "apiReport":     { "enabled": true, "reportFileName":    "VueExtraDecorators.api.md", "reportFolder": "<projectFolder>/dist" },
-  "docModel":      { "enabled": true, "apiJsonFilePath":   "<projectFolder>/dist/VueExtraDecorators.api.json" },
+  "dtsRollup":     { "enabled": false, "untrimmedFilePath": "<projectFolder>/dist/<%= name %>.d.ts" },
+  "apiReport":     { "enabled": true,  "reportFileName":    "<%= name %>.api.md", "reportFolder": "<projectFolder>/dist" },
+  "docModel":      { "enabled": true,  "apiJsonFilePath":   "<projectFolder>/dist/<%= name %>.api.json" },
   "tsdocMetadata": { "enabled": false },
   "messages": {
     "compilerMessageReporting":  { "default": { "logLevel": "error" } },

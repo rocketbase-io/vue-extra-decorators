@@ -32,7 +32,7 @@ import { AnyFunction } from "../../types";
  *
  * @public
  */
-export function Debuffer(ms: number = 200) {
+export function Debuffer(ms = 200) {
   return (target: any, key: string, desc: TypedPropertyDescriptor<AnyFunction>) => {
     const lastCall = Symbol(`debuffer:${key}`);
 

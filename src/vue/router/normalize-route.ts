@@ -9,7 +9,10 @@ import { Vue } from "vue/types/vue";
  * @returns the normalized config.
  * @internal
  */
-export function normalizeRoute(it: Partial<RouteConfig> | string | undefined, target: Constructor<Vue | any>): RouteConfig {
+export function normalizeRoute(
+  it: Partial<RouteConfig> | string | undefined,
+  target: Constructor<Vue | any>
+): RouteConfig {
   // No route => assume class name
   if (it == null)
     it = {

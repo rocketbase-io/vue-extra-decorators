@@ -42,6 +42,6 @@ export function EveryFrame() {
     return withSideEffects(
       cxt => scheduler(cxt, key),
       cxt => cancelAnimationFrame(cxt[id])
-    )(target, key);
+    )(target, key, desc);
   };
 }

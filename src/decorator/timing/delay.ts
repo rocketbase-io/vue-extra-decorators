@@ -30,7 +30,7 @@ import { callbackToPromise } from "../../util";
  *
  * @public
  */
-export function Delay(ms: number = 1000) {
+export function Delay(ms = 1000) {
   return (target: any, key: string, desc: TypedPropertyDescriptor<AnyFunction>) => {
     wrapFunction(desc, function({ args, orig }) {
       return callbackToPromise(setTimeout, orig.bind(this, ...args), ms);

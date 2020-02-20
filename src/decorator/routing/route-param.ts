@@ -41,8 +41,16 @@ export interface RouteParamOptions<T> {
  * {@link RouteParam} {@link RouteQuery} {@link RouteName} {@link Route}
  * @public
  */
-export function RouteParam(name: string, props: RouteParamOptions<any> = {}): TypedPropertyDecorator<string | undefined> {
-  const value = props.literal != null ? () => props.literal : typeof props.default === "function" ? props.default : () => props.default;
+export function RouteParam(
+  name: string,
+  props: RouteParamOptions<any> = {}
+): TypedPropertyDecorator<string | undefined> {
+  const value =
+    props.literal != null
+      ? () => props.literal
+      : typeof props.default === "function"
+      ? props.default
+      : () => props.default;
   return calculatedProp<string | undefined>(
     function(this: any) {
       if (this.$route == null || this.$route.params[name] == null) return value ? value.call(this) : undefined;

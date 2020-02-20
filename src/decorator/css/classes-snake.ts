@@ -41,6 +41,6 @@ const converter = composeConverter(pascalToSnake, pascalToSnake);
  * {@link Classes} {@link ClassesCamel} {@link ClassesKebap} {@link ClassesPascal} {@link ClassesSnake}
  * @public
  */
-export function ClassesSnake(prefix?: string, infix: string = "--"): ReturnType<typeof Classes> {
+export function ClassesSnake(prefix?: string, infix = "--"): ReturnType<typeof Classes> {
   return Classes(prefix, infix, converter);
 }

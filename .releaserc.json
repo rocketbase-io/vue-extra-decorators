@@ -5,7 +5,7 @@
     "@semantic-release/changelog",
     "@semantic-release/release-notes-generator",
     ["@semantic-release/github", {
-      "assets": ["dist/**"]
+      "assets": ["./*.zip"]
     }],
     "@semantic-release/git",
     "@semantic-release/npm"

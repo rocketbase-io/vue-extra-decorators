@@ -12,7 +12,7 @@
   ],
   "scripts": {
     "build": "rollup --config build/rollup.config.js",
-    "clean": "rimraf dist temp docs coverage",
+    "clean": "rimraf dist temp docs coverage VueExtraDecorators.*.zip",
     "test": "jest --passWithNoTests",
     "lint": "eslint --ignore-path .gitignore --ext .ts .",
     "lint:fix": "eslint --ignore-path .gitignore --ext .ts --fix ."
@@ -51,6 +51,7 @@
     "@typescript-eslint/eslint-plugin": "^2.17.0",
     "@typescript-eslint/parser": "^2.17.0",
     "@wessberg/rollup-plugin-ts": "^1.2.13",
+    "bestzip": "^2.1.5",
     "eslint": "^6.8.0",
     "eslint-config-prettier": "^6.9.0",
     "eslint-plugin-prettier": "^3.1.2",

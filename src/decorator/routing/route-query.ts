@@ -43,7 +43,11 @@ export interface RouteQueryOptions<T> {
  */
 export function RouteQuery<T = any>(name: string, props: RouteQueryOptions<T> = {}): TypedPropertyDecorator<T> {
   const value: any =
-    props.literal != null ? () => props.literal : typeof props.default === "function" ? props.default : () => props.default;
+    props.literal != null
+      ? () => props.literal
+      : typeof props.default === "function"
+      ? props.default
+      : () => props.default;
   return calculatedProp<T>(
     function(this: any) {
       if (this.$route == null || this.$route.query[name] == null) return value ? value.call(this) : undefined;

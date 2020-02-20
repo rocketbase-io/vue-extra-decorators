@@ -43,7 +43,7 @@ import { ClassesGetter, TFunction } from "../../types";
  */
 export function Classes(
   prefix?: string,
-  infix: string = "",
+  infix = "",
   converter: TFunction<string, [string | [string, string], boolean]> = s => (typeof s === "string" ? s : s.join(""))
 ) {
   return <T>(target: any, key: string, desc: CalculatedPropertyDescriptor<ClassesGetter<T>>) => {
@@ -70,5 +70,7 @@ export function Classes(
  */
 export function composeConverter(className: TFunction<string, [string]>, memberName: TFunction<string, [string]>) {
   return (name: string | [string, string], member: boolean) =>
-    member ? memberName(Array.isArray(name) ? name[0] + name[1][0].toUpperCase() + name[1].substr(1) : name) : className(name as string);
+    member
+      ? memberName(Array.isArray(name) ? name[0] + name[1][0].toUpperCase() + name[1].substr(1) : name)
+      : className(name as string);
 }

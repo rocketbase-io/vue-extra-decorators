@@ -33,7 +33,7 @@ import { AnyFunction } from "../../types";
  *
  * @public
  */
-export function Debounce(ms: number = 200) {
+export function Debounce(ms = 200) {
   return (target: any, key: string, desc: TypedPropertyDescriptor<AnyFunction>) => {
     const timeout = Symbol(`debounce:${key}`);
 

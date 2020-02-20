@@ -26,10 +26,10 @@ checks:
       threshold: 4
   similar-code:
     config:
-      threshold: 100 # language-specific defaults. an override will affect all languages.
+      threshold: 100
   identical-code:
     config:
-      threshold: 50 # language-specific defaults. an override will affect all languages.
+      threshold: 75
 plugins:
   fixme:
     enabled: true
@@ -56,3 +56,4 @@ exclude_patterns:
   - "**/_*"
   - "example/"
   - "gulpfile*"
+  - "build/**"

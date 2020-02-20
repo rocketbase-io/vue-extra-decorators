@@ -1,5 +1,5 @@
 import Component from "vue-class-component";
-import { AnyFunction } from "../types";
+import { AnyFunction, TypedPropertyDecorator } from "../types";
 import { createListenerDecorator } from "./handler";
 import Vue from "vue";
 
@@ -24,20 +24,28 @@ export class EventBus extends Vue {
     this.$emit(event, ...args);
     return this;
   }
-
 }
 
 const busses: Record<string, EventBus> = {};
 
-export function Bus(instance: string = ""): EventBus {
-  // tslint:disable-next-line
-  return busses[instance] ?? (busses[instance] = new EventBus());
+export interface BusFactory {
+  (instance?: string): EventBus;
+  On(...events: string[]): TypedPropertyDecorator<AnyFunction>;
+  on(events: string[] | string, handler: AnyFunction): EventBus;
+  once(events: string[] | string, handler: AnyFunction): EventBus;
+  off(events: string[] | string, handler: AnyFunction): EventBus;
+  emit(event: string, ...args: any[]): EventBus;
 }
 
-const defaultBus = Bus();
-const { On, on, off, once, emit } = defaultBus;
-Bus.On = On.bind(defaultBus);
-Bus.on = on.bind(defaultBus);
-Bus.off = off.bind(defaultBus);
-Bus.once = once.bind(defaultBus);
-Bus.emit = emit.bind(defaultBus);
+export const Bus: BusFactory = ((instance = "") =>
+  busses[instance] ?? (busses[instance] = new EventBus())) as BusFactory;
+
+(() => {
+  const defaultBus: EventBus = Bus();
+  const { On, on, off, once, emit } = defaultBus;
+  Bus.On = On.bind(defaultBus);
+  Bus.on = on.bind(defaultBus) as any;
+  Bus.off = off.bind(defaultBus) as any;
+  Bus.once = once.bind(defaultBus) as any;
+  Bus.emit = emit.bind(defaultBus) as any;
+})();

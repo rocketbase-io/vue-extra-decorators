@@ -41,6 +41,6 @@ const converter = composeConverter(pascalToKebap, pascalToKebap);
  * {@link Classes} {@link ClassesCamel} {@link ClassesKebap} {@link ClassesPascal} {@link ClassesSnake}
  * @public
  */
-export function ClassesKebap(prefix?: string, infix: string = "--"): ReturnType<typeof Classes> {
+export function ClassesKebap(prefix?: string, infix = "--"): ReturnType<typeof Classes> {
   return Classes(prefix, infix, converter);
 }

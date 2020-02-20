@@ -24,7 +24,8 @@ export type AfterFunction<T extends TFunction> = (
  * results and add before and after handlers.
  * @internal
  */
-export interface ExtendedFunction<T extends () => unknown = any> extends TFunction<ReturnType<T>, Parameters<T>, ThisParameterType<T>> {
+export interface ExtendedFunction<T extends () => unknown = any>
+  extends TFunction<ReturnType<T>, Parameters<T>, ThisParameterType<T>> {
   __params: ParamsTransformFunction<T>[];
   __result: ResultTransformFunction<T>[];
   __before: BeforeFunction<T>[];

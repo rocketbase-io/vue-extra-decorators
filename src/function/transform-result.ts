@@ -9,7 +9,10 @@ import { TFunction } from "../types";
  * @returns The extended function
  * @internal
  */
-export function transformResult<T extends TFunction>(fn: T | undefined, ext: ResultTransformFunction<T>): ExtendedFunction<T> {
+export function transformResult<T extends TFunction>(
+  fn: T | undefined,
+  ext: ResultTransformFunction<T>
+): ExtendedFunction<T> {
   const efn = extend(fn);
   efn.__result.push(ext);
   return efn;

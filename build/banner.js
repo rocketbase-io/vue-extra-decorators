@@ -1,11 +1,14 @@
-import {template} from "lodash";
+import { template } from "lodash";
+import { pkg, year, name } from "./package";
+
+const opts = { ...pkg, year, nameFormatted: name };
+
 export default template(`
 /**
- * <%= name %> v<%= version %>
+ * <%= nameFormatted %> (<%= name %> v<%= version %>)
  * <%= description %>
  * <%= homepage %>
- * (c) 2019 - <%= new Date().getFullYear() %> <%= author %>
+ * (c) <%= year %> <%= author %>
  * @license <%= license || "MIT" %>
  */
-`)(require("../package.json")).trim();
-
+`)(opts).trim();

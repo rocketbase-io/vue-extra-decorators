@@ -15,6 +15,7 @@ export function extend<T extends () => unknown>(fn?: T): ExtendedFunction<T> & T
   if (fn && "__extended" in fn) return fn as any;
 
   const ext: ExtendedFunction<T> & T = function(this: ThisParameterType<T>, ...origArgs: Parameters<T>): ReturnType<T> {
+    // eslint-disable-next-line @typescript-eslint/no-this-alias
     const context = this;
     const args = ext.__params.reduce((args: any, fn) => fn.call(this, { context, args }), origArgs);
     ext.__before.forEach(fn => fn.call(this, { context, args }));

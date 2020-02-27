@@ -1,3 +1,15 @@
+# [2.3.0](https://github.com/rocketbase-io/vue-extra-decorators/compare/v2.2.1...v2.3.0) (2020-02-27)
+
+
+### Bug Fixes
+
+* export listener decorators ([1f05057](https://github.com/rocketbase-io/vue-extra-decorators/commit/1f050577fb4c2508619467aaa4afaf154751e81f))
+
+
+### Features
+
+* status decorators ([127690f](https://github.com/rocketbase-io/vue-extra-decorators/commit/127690f6419fed8bbf5d89a4ec947b6c60f82d70))
+
 ## [2.2.1](https://github.com/rocketbase-io/vue-extra-decorators/compare/v2.2.0...v2.2.1) (2020-02-20)
 
 

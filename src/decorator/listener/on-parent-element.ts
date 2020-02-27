@@ -1,4 +1,5 @@
-import { createListenerDecorator } from "../../vue";
+import { AnyFunction, TypedPropertyDecorator } from "src/types";
+import { createListenerDecorator } from "src/vue";
 
 /**
  * Registers the decorated method as a dom event listener for the parent vue component.
@@ -22,7 +23,7 @@ import { createListenerDecorator } from "../../vue";
  * {@Link On} {@Link OnElement} {@Link OnDocument} {@Link OnWindow} {@Link OnParent} {@Link OnParentElement}
  * @public
  */
-export function OnParentElement(...events: string[]) {
+export function OnParentElement(...events: string[]): TypedPropertyDecorator<AnyFunction> {
   return createListenerDecorator(
     events,
     el => el.$parent.$el,

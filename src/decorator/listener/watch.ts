@@ -1,4 +1,4 @@
-import { AnyFunction, TypedPropertyDecorator } from "../../types";
+import { AnyFunction, TypedPropertyDecorator } from "src/types";
 import { WatchOptions } from "vue/types/options";
 import { createDecorator } from "vue-class-component";
 

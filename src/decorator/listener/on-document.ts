@@ -1,4 +1,5 @@
-import { createListenerDecorator } from "../../vue/handler/create-listener-decorator";
+import { AnyFunction, TypedPropertyDecorator } from "src/types";
+import { createListenerDecorator } from "src/vue";
 
 /**
  * Registers the decorated method as a dom event listener for the document object.
@@ -21,6 +22,6 @@ import { createListenerDecorator } from "../../vue/handler/create-listener-decor
  * {@Link On} {@Link OnElement} {@Link OnDocument} {@Link OnWindow} {@Link OnParent} {@Link OnParentElement}
  * @public
  */
-export function OnDocument(...events: string[]) {
+export function OnDocument(...events: string[]): TypedPropertyDecorator<AnyFunction> {
   return createListenerDecorator(events, () => document, true);
 }

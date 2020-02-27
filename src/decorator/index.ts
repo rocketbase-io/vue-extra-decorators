@@ -1,5 +1,6 @@
 export * from "./condition";
 export * from "./css";
+export * from "./emitter";
 export * from "./listener";
 export * from "./property";
 export * from "./routing";

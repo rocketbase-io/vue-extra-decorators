@@ -1,3 +1,11 @@
+# [2.4.0](https://github.com/rocketbase-io/vue-extra-decorators/compare/v2.3.0...v2.4.0) (2020-03-10)
+
+
+### Features
+
+* add docs to git repo and releases ([13ba324](https://github.com/rocketbase-io/vue-extra-decorators/commit/13ba324be95e8c9963be0dd9cfa432b93eeeb195))
+* add querySelector decorators, watch flavours ([7201eb5](https://github.com/rocketbase-io/vue-extra-decorators/commit/7201eb5207c1453ee1ffb28ca5114b3263fc03ed))
+
 # [2.3.0](https://github.com/rocketbase-io/vue-extra-decorators/compare/v2.2.1...v2.3.0) (2020-02-27)
 
 

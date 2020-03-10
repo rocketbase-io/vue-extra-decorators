@@ -14,6 +14,8 @@
     "build": "rollup --config build/rollup.config.js",
     "clean": "rimraf dist temp docs coverage VueExtraDecorators*.zip",
     "test": "jest --passWithNoTests",
+    "docs": "typedoc",
+    "assets": "bestzip 'VueExtraDecorators.zip' dist/* && bestzip 'VueExtraDecorators-docs.zip' docs/*",
     "lint": "eslint --ignore-path .gitignore --ext .ts .",
     "lint:fix": "eslint --ignore-path .gitignore --ext .ts --fix ."
   },
@@ -35,7 +37,6 @@
     "@commitlint/cli": "^8.3.5",
     "@commitlint/config-conventional": "^8.3.4",
     "@qiwi/semantic-release-gh-pages-plugin": "^1.15.9",
-    "@rocketbase/rollup-plugin-exec": "^1.0.1",
     "@semantic-release/changelog": "^5.0.0",
     "@semantic-release/commit-analyzer": "^8.0.1",
     "@semantic-release/git": "^9.0.0",

@@ -1,3 +1,10 @@
+## [2.4.1](https://github.com/rocketbase-io/vue-extra-decorators/compare/v2.4.0...v2.4.1) (2020-03-10)
+
+
+### Bug Fixes
+
+* remove vue config ([5d5a0f6](https://github.com/rocketbase-io/vue-extra-decorators/commit/5d5a0f6b8bf49e9ed83c8627e70105eb673dba56))
+
 # [2.4.0](https://github.com/rocketbase-io/vue-extra-decorators/compare/v2.3.0...v2.4.0) (2020-03-10)
 
 

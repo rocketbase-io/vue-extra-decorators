@@ -1,3 +1,10 @@
+## [2.4.2](https://github.com/rocketbase-io/vue-extra-decorators/compare/v2.4.1...v2.4.2) (2020-03-10)
+
+
+### Bug Fixes
+
+* remove duplicate type definitions and docs ([ecafcfa](https://github.com/rocketbase-io/vue-extra-decorators/commit/ecafcfae1cab929fe10e4e7cd7378bf994fe49b4))
+
 ## [2.4.1](https://github.com/rocketbase-io/vue-extra-decorators/compare/v2.4.0...v2.4.1) (2020-03-10)
 
 

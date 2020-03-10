@@ -13,6 +13,8 @@ jobs:
       script:
         - npm install
         - npm run build
+        - npm run docs
+        - npm run assets
         - npm run lint
         - npm run test
       after_script:

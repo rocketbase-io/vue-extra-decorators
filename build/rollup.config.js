@@ -36,7 +36,8 @@ export default {
           [
             "api-documenter markdown --output-folder docs --input-folder dist",
             "rimraf temp api-extractor.json dist/*.*.d.ts",
-            `bestzip '${name}.zip' dist/*`
+            `bestzip '${name}.zip' dist/*`,
+            `bestzip '${name}-docs.zip' docs/*`
           ],
           {
             stdio: "ignore"

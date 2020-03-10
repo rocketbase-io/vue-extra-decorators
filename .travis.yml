@@ -23,4 +23,4 @@ jobs:
         provider: script
         skip_cleanup: true
         cleanup: false
-        script: git add docs && npx semantic-release
+        script: npx semantic-release

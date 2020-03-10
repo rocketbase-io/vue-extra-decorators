@@ -11,7 +11,7 @@
     "dist"
   ],
   "scripts": {
-    "build": "rollup --config build/rollup.config.js",
+    "build": "rollup --config build/rollup.config.js && rimraf dist/*.*.d.ts",
     "clean": "rimraf dist temp docs coverage VueExtraDecorators*.zip",
     "test": "jest --passWithNoTests",
     "docs": "rimraf docs && typedoc",

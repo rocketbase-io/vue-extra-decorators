@@ -1,7 +1,5 @@
 # Vue Extra Decorators
 
-![issues](https://img.shields.io/github/issues-raw/rocketbase-io/vue-extra-decorators)
-![downloads](https://img.shields.io/npm/dw/@rocketbase/vue-extra-decorators)
 ![version](https://img.shields.io/npm/v/@rocketbase/vue-extra-decorators)
 ![types](https://img.shields.io/npm/types/@rocketbase/vue-extra-decorators)
 ![license](https://img.shields.io/npm/l/@rocketbase/vue-extra-decorators)
@@ -13,3 +11,7 @@
 ```shell script
 npm i @rocketbase/vue-extra-decorators
 ```
+
+
+## Docs
+Documentation can be found [here](https://rocketbase-io.github.io/vue-extra-decorators/globals.html)

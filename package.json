@@ -36,6 +36,7 @@
     "@commitlint/config-conventional": "^8.3.4",
     "@microsoft/api-documenter": "^7.7.8",
     "@microsoft/api-extractor": "^7.7.5",
+    "@qiwi/semantic-release-gh-pages-plugin": "^1.15.9",
     "@rocketbase/rollup-plugin-api-extractor": "^1.0.3",
     "@rocketbase/rollup-plugin-exec": "^1.0.1",
     "@rocketbase/rollup-plugin-sequential": "^1.1.0",

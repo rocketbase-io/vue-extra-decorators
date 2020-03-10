@@ -1,0 +1,604 @@
+<!doctype html>
+<html class="default no-js">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>@rocketbase/vue-extra-decorators</title>
+	<meta name="description" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="assets/css/main.css">
+</head>
+<body>
+<header>
+	<div class="tsd-page-toolbar">
+		<div class="container">
+			<div class="table-wrap">
+				<div class="table-cell" id="tsd-search" data-index="assets/js/search.js" data-base=".">
+					<div class="field">
+						<label for="tsd-search-field" class="tsd-widget search no-caption">Search</label>
+						<input id="tsd-search-field" type="text" />
+					</div>
+					<ul class="results">
+						<li class="state loading">Preparing search index...</li>
+						<li class="state failure">The search index is not available</li>
+					</ul>
+					<a href="index.html" class="title">@rocketbase/vue-extra-decorators</a>
+				</div>
+				<div class="table-cell" id="tsd-widgets">
+					<div id="tsd-filter">
+						<a href="#" class="tsd-widget options no-caption" data-toggle="options">Options</a>
+						<div class="tsd-filter-group">
+							<div class="tsd-select" id="tsd-filter-visibility">
+								<span class="tsd-select-label">All</span>
+								<ul class="tsd-select-list">
+									<li data-value="public">Public</li>
+									<li data-value="protected">Public/Protected</li>
+									<li data-value="private" class="selected">All</li>
+								</ul>
+							</div>
+							<input type="checkbox" id="tsd-filter-inherited" checked />
+							<label class="tsd-widget" for="tsd-filter-inherited">Inherited</label>
+						</div>
+					</div>
+					<a href="#" class="tsd-widget menu no-caption" data-toggle="menu">Menu</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="tsd-page-title">
+		<div class="container">
+			<ul class="tsd-breadcrumb">
+				<li>
+					<a href="globals.html">Globals</a>
+				</li>
+			</ul>
+			<h1>@rocketbase/vue-extra-decorators</h1>
+		</div>
+	</div>
+</header>
+<div class="container container-main">
+	<div class="row">
+		<div class="col-8 col-content">
+			<div class="tsd-panel tsd-typography">
+				<a href="#vue-extra-decorators" id="vue-extra-decorators" style="color: inherit; text-decoration: none;">
+					<h1>Vue Extra Decorators</h1>
+				</a>
+				<p><img src="https://img.shields.io/github/issues-raw/rocketbase-io/vue-extra-decorators" alt="issues">
+					<img src="https://img.shields.io/npm/dw/@rocketbase/vue-extra-decorators" alt="downloads">
+					<img src="https://img.shields.io/npm/v/@rocketbase/vue-extra-decorators" alt="version">
+					<img src="https://img.shields.io/npm/types/@rocketbase/vue-extra-decorators" alt="types">
+					<img src="https://img.shields.io/npm/l/@rocketbase/vue-extra-decorators" alt="license">
+				<a href="https://codeclimate.com/github/rocketbase-io/vue-extra-decorators/maintainability"><img src="https://api.codeclimate.com/v1/badges/5810e146d79c7ae3366a/maintainability" alt="Maintainability"></a></p>
+				<a href="#additional-decorators-built-on-vue-class-component" id="additional-decorators-built-on-vue-class-component" style="color: inherit; text-decoration: none;">
+					<h4>Additional decorators built on vue-class-component</h4>
+				</a>
+				<pre><code class="language-shell">npm i @rocketbase/vue-extra-decorators</code></pre>
+			</div>
+		</div>
+		<div class="col-4 col-menu menu-sticky-wrap menu-highlight">
+			<nav class="tsd-navigation primary">
+				<ul>
+					<li class="globals  ">
+						<a href="globals.html"><em>Globals</em></a>
+					</li>
+				</ul>
+			</nav>
+			<nav class="tsd-navigation secondary menu-sticky">
+				<ul class="before-current">
+					<li class=" tsd-kind-class">
+						<a href="classes/eventbus.html" class="tsd-kind-icon">Event<wbr>Bus</a>
+					</li>
+					<li class=" tsd-kind-interface">
+						<a href="interfaces/busfactory.html" class="tsd-kind-icon">Bus<wbr>Factory</a>
+					</li>
+					<li class=" tsd-kind-interface">
+						<a href="interfaces/busystatesubscriber.html" class="tsd-kind-icon">Busy<wbr>State<wbr>Subscriber</a>
+					</li>
+					<li class=" tsd-kind-interface">
+						<a href="interfaces/busystatewrapper.html" class="tsd-kind-icon">Busy<wbr>State<wbr>Wrapper</a>
+					</li>
+					<li class=" tsd-kind-interface tsd-has-type-parameter">
+						<a href="interfaces/dataopts.html" class="tsd-kind-icon">Data<wbr>Opts</a>
+					</li>
+					<li class=" tsd-kind-interface tsd-has-type-parameter">
+						<a href="interfaces/extendedfunction.html" class="tsd-kind-icon">Extended<wbr>Function</a>
+					</li>
+					<li class=" tsd-kind-interface tsd-has-type-parameter">
+						<a href="interfaces/recordpropopts.html" class="tsd-kind-icon">Record<wbr>Prop<wbr>Opts</a>
+					</li>
+					<li class=" tsd-kind-interface tsd-has-type-parameter">
+						<a href="interfaces/routeparamoptions.html" class="tsd-kind-icon">Route<wbr>Param<wbr>Options</a>
+					</li>
+					<li class=" tsd-kind-interface tsd-has-type-parameter">
+						<a href="interfaces/routequeryoptions.html" class="tsd-kind-icon">Route<wbr>Query<wbr>Options</a>
+					</li>
+					<li class=" tsd-kind-interface">
+						<a href="interfaces/snowflakefactory.html" class="tsd-kind-icon">Snowflake<wbr>Factory</a>
+					</li>
+					<li class=" tsd-kind-interface">
+						<a href="interfaces/watchoptionswithprop.html" class="tsd-kind-icon">Watch<wbr>Options<wbr>With<wbr>Prop</a>
+					</li>
+					<li class=" tsd-kind-type-alias tsd-has-type-parameter">
+						<a href="globals.html#afterfunction" class="tsd-kind-icon">After<wbr>Function</a>
+					</li>
+					<li class=" tsd-kind-type-alias tsd-has-type-parameter">
+						<a href="globals.html#anyfunction" class="tsd-kind-icon">Any<wbr>Function</a>
+					</li>
+					<li class=" tsd-kind-type-alias tsd-has-type-parameter">
+						<a href="globals.html#beforefunction" class="tsd-kind-icon">Before<wbr>Function</a>
+					</li>
+					<li class=" tsd-kind-type-alias">
+						<a href="globals.html#busystatemap" class="tsd-kind-icon">Busy<wbr>State<wbr>Map</a>
+					</li>
+					<li class=" tsd-kind-type-alias tsd-has-type-parameter">
+						<a href="globals.html#calculatedpropertydescriptor" class="tsd-kind-icon">Calculated<wbr>Property<wbr>Descriptor</a>
+					</li>
+					<li class=" tsd-kind-type-alias tsd-has-type-parameter">
+						<a href="globals.html#classesgetter" class="tsd-kind-icon">Classes<wbr>Getter</a>
+					</li>
+					<li class=" tsd-kind-type-alias tsd-has-type-parameter">
+						<a href="globals.html#constructor" class="tsd-kind-icon">Constructor</a>
+					</li>
+					<li class=" tsd-kind-type-alias tsd-has-type-parameter">
+						<a href="globals.html#entriesof" class="tsd-kind-icon">Entries<wbr>Of</a>
+					</li>
+					<li class=" tsd-kind-type-alias tsd-has-type-parameter">
+						<a href="globals.html#entryof" class="tsd-kind-icon">Entry<wbr>Of</a>
+					</li>
+					<li class=" tsd-kind-type-alias tsd-has-type-parameter">
+						<a href="globals.html#functionreturning" class="tsd-kind-icon">Function<wbr>Returning</a>
+					</li>
+					<li class=" tsd-kind-type-alias tsd-has-type-parameter">
+						<a href="globals.html#functionwithcontext" class="tsd-kind-icon">Function<wbr>With<wbr>Context</a>
+					</li>
+					<li class=" tsd-kind-type-alias tsd-has-type-parameter">
+						<a href="globals.html#functionwithparams" class="tsd-kind-icon">Function<wbr>With<wbr>Params</a>
+					</li>
+					<li class=" tsd-kind-type-alias tsd-has-type-parameter">
+						<a href="globals.html#getwrapper" class="tsd-kind-icon">Get<wbr>Wrapper</a>
+					</li>
+					<li class=" tsd-kind-type-alias tsd-has-type-parameter">
+						<a href="globals.html#getter" class="tsd-kind-icon">Getter</a>
+					</li>
+					<li class=" tsd-kind-type-alias">
+						<a href="globals.html#mousebutton" class="tsd-kind-icon">Mouse<wbr>Button</a>
+					</li>
+					<li class=" tsd-kind-type-alias tsd-has-type-parameter">
+						<a href="globals.html#namedconstructor" class="tsd-kind-icon">Named<wbr>Constructor</a>
+					</li>
+					<li class=" tsd-kind-type-alias tsd-has-type-parameter">
+						<a href="globals.html#namedfunction" class="tsd-kind-icon">Named<wbr>Function</a>
+					</li>
+					<li class=" tsd-kind-type-alias tsd-has-type-parameter">
+						<a href="globals.html#noargsconstructor" class="tsd-kind-icon">No<wbr>Args<wbr>Constructor</a>
+					</li>
+					<li class=" tsd-kind-type-alias tsd-has-type-parameter">
+						<a href="globals.html#noargsfunction" class="tsd-kind-icon">No<wbr>Args<wbr>Function</a>
+					</li>
+					<li class=" tsd-kind-type-alias tsd-has-type-parameter">
+						<a href="globals.html#paramstransformfunction" class="tsd-kind-icon">Params<wbr>Transform<wbr>Function</a>
+					</li>
+					<li class=" tsd-kind-type-alias tsd-has-type-parameter">
+						<a href="globals.html#propopts" class="tsd-kind-icon">Prop<wbr>Opts</a>
+					</li>
+					<li class=" tsd-kind-type-alias tsd-has-type-parameter">
+						<a href="globals.html#resulttransformfunction" class="tsd-kind-icon">Result<wbr>Transform<wbr>Function</a>
+					</li>
+					<li class=" tsd-kind-type-alias">
+						<a href="globals.html#routeconfig" class="tsd-kind-icon">Route<wbr>Config</a>
+					</li>
+					<li class=" tsd-kind-type-alias tsd-has-type-parameter">
+						<a href="globals.html#setwrapper" class="tsd-kind-icon">Set<wbr>Wrapper</a>
+					</li>
+					<li class=" tsd-kind-type-alias tsd-has-type-parameter">
+						<a href="globals.html#setter" class="tsd-kind-icon">Setter</a>
+					</li>
+					<li class=" tsd-kind-type-alias tsd-has-type-parameter">
+						<a href="globals.html#singleargconstructor" class="tsd-kind-icon">Single<wbr>Arg<wbr>Constructor</a>
+					</li>
+					<li class=" tsd-kind-type-alias tsd-has-type-parameter">
+						<a href="globals.html#singleargfunction" class="tsd-kind-icon">Single<wbr>Arg<wbr>Function</a>
+					</li>
+					<li class=" tsd-kind-type-alias">
+						<a href="globals.html#snowflake" class="tsd-kind-icon">Snowflake</a>
+					</li>
+					<li class=" tsd-kind-type-alias tsd-has-type-parameter">
+						<a href="globals.html#tfunction" class="tsd-kind-icon">TFunction</a>
+					</li>
+					<li class=" tsd-kind-type-alias tsd-has-type-parameter">
+						<a href="globals.html#typedpropertydecorator" class="tsd-kind-icon">Typed<wbr>Property<wbr>Decorator</a>
+					</li>
+					<li class=" tsd-kind-type-alias tsd-has-type-parameter">
+						<a href="globals.html#voidfunction" class="tsd-kind-icon">Void<wbr>Function</a>
+					</li>
+					<li class=" tsd-kind-type-alias tsd-has-type-parameter">
+						<a href="globals.html#wrapperfunction" class="tsd-kind-icon">Wrapper<wbr>Function</a>
+					</li>
+					<li class=" tsd-kind-variable">
+						<a href="globals.html#busy_state" class="tsd-kind-icon">BUSY_<wbr>STATE</a>
+					</li>
+					<li class=" tsd-kind-variable">
+						<a href="globals.html#bus" class="tsd-kind-icon">Bus</a>
+					</li>
+					<li class=" tsd-kind-variable">
+						<a href="globals.html#snowflake" class="tsd-kind-icon">snowflake</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#bprop" class="tsd-kind-icon">BProp</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#blocking" class="tsd-kind-icon">Blocking</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#busystate" class="tsd-kind-icon">Busy<wbr>State</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#classes" class="tsd-kind-icon">Classes</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#classescamel" class="tsd-kind-icon">Classes<wbr>Camel</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#classeskebap" class="tsd-kind-icon">Classes<wbr>Kebap</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#classespascal" class="tsd-kind-icon">Classes<wbr>Pascal</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#classessnake" class="tsd-kind-icon">Classes<wbr>Snake</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#dprop" class="tsd-kind-icon">DProp</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#dwatch" class="tsd-kind-icon">DWatch</a>
+					</li>
+					<li class=" tsd-kind-function tsd-has-type-parameter">
+						<a href="globals.html#data" class="tsd-kind-icon">Data</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#debounce" class="tsd-kind-icon">Debounce</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#debuffer" class="tsd-kind-icon">Debuffer</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#delay" class="tsd-kind-icon">Delay</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#documentel" class="tsd-kind-icon">Document<wbr>El</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#el" class="tsd-kind-icon">El</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#emit" class="tsd-kind-icon">Emit</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#emiterror" class="tsd-kind-icon">Emit<wbr>Error</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#emitonstatuscode" class="tsd-kind-icon">Emit<wbr>OnStatus<wbr>Code</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#every" class="tsd-kind-icon">Every</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#everyframe" class="tsd-kind-icon">Every<wbr>Frame</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#idwatch" class="tsd-kind-icon">IDWatch</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#iwatch" class="tsd-kind-icon">IWatch</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#if" class="tsd-kind-icon">If</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#ifnot" class="tsd-kind-icon">If<wbr>Not</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#limittoframes" class="tsd-kind-icon">Limit<wbr>ToFrames</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#nprop" class="tsd-kind-icon">NProp</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#nextframe" class="tsd-kind-icon">Next<wbr>Frame</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#nextms" class="tsd-kind-icon">Next<wbr>Ms</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#nexttick" class="tsd-kind-icon">Next<wbr>Tick</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#on" class="tsd-kind-icon">On</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#ondocument" class="tsd-kind-icon">On<wbr>Document</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#onelement" class="tsd-kind-icon">On<wbr>Element</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#onparent" class="tsd-kind-icon">On<wbr>Parent</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#onparentelement" class="tsd-kind-icon">On<wbr>Parent<wbr>Element</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#onwindow" class="tsd-kind-icon">On<wbr>Window</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#parentel" class="tsd-kind-icon">Parent<wbr>El</a>
+					</li>
+					<li class=" tsd-kind-function tsd-has-type-parameter">
+						<a href="globals.html#prop" class="tsd-kind-icon">Prop</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#ref" class="tsd-kind-icon">Ref</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#route" class="tsd-kind-icon">Route</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#routename" class="tsd-kind-icon">Route<wbr>Name</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#routeparam" class="tsd-kind-icon">Route<wbr>Param</a>
+					</li>
+					<li class=" tsd-kind-function tsd-has-type-parameter">
+						<a href="globals.html#routequery" class="tsd-kind-icon">Route<wbr>Query</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#sprop" class="tsd-kind-icon">SProp</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#watch" class="tsd-kind-icon">Watch</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#and" class="tsd-kind-icon">and</a>
+					</li>
+					<li class=" tsd-kind-function tsd-has-type-parameter">
+						<a href="globals.html#append" class="tsd-kind-icon">append</a>
+					</li>
+					<li class=" tsd-kind-function tsd-has-type-parameter">
+						<a href="globals.html#calculatedprop" class="tsd-kind-icon">calculated<wbr>Prop</a>
+					</li>
+					<li class=" tsd-kind-function tsd-has-type-parameter">
+						<a href="globals.html#callbacktopromise" class="tsd-kind-icon">callback<wbr>ToPromise</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#cameltopascal" class="tsd-kind-icon">camel<wbr>ToPascal</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#composeconverter" class="tsd-kind-icon">compose<wbr>Converter</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#converttocalculated" class="tsd-kind-icon">convert<wbr>ToCalculated</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#createelementdecorator" class="tsd-kind-icon">create<wbr>Element<wbr>Decorator</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#createelementhandler" class="tsd-kind-icon">create<wbr>Element<wbr>Handler</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#createlistenerdecorator" class="tsd-kind-icon">create<wbr>Listener<wbr>Decorator</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#createvuehandler" class="tsd-kind-icon">create<wbr>Vue<wbr>Handler</a>
+					</li>
+					<li class=" tsd-kind-function tsd-has-type-parameter">
+						<a href="globals.html#ensureoptionmember" class="tsd-kind-icon">ensure<wbr>Option<wbr>Member</a>
+					</li>
+					<li class=" tsd-kind-function tsd-has-type-parameter">
+						<a href="globals.html#extend" class="tsd-kind-icon">extend</a>
+					</li>
+					<li class=" tsd-kind-function tsd-has-type-parameter">
+						<a href="globals.html#extendoptionmember" class="tsd-kind-icon">extend<wbr>Option<wbr>Member</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#getbusystate" class="tsd-kind-icon">get<wbr>Busy<wbr>State</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#getbusystatesubscribers" class="tsd-kind-icon">get<wbr>Busy<wbr>State<wbr>Subscribers</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#getbusystatewrapper" class="tsd-kind-icon">get<wbr>Busy<wbr>State<wbr>Wrapper</a>
+					</li>
+					<li class=" tsd-kind-function tsd-has-type-parameter">
+						<a href="globals.html#getpropertydefault" class="tsd-kind-icon">get<wbr>Property<wbr>Default</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#getroutes" class="tsd-kind-icon">get<wbr>Routes</a>
+					</li>
+					<li class=" tsd-kind-function tsd-has-type-parameter">
+						<a href="globals.html#hasprop" class="tsd-kind-icon">has<wbr>Prop</a>
+					</li>
+					<li class=" tsd-kind-function tsd-has-type-parameter">
+						<a href="globals.html#hasprops" class="tsd-kind-icon">has<wbr>Props</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#isequal" class="tsd-kind-icon">is<wbr>Equal</a>
+					</li>
+					<li class=" tsd-kind-function tsd-has-type-parameter">
+						<a href="globals.html#isextended" class="tsd-kind-icon">is<wbr>Extended</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#isfirstchild" class="tsd-kind-icon">is<wbr>First<wbr>Child</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#isfirstelementchild" class="tsd-kind-icon">is<wbr>First<wbr>Element<wbr>Child</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#isinpath" class="tsd-kind-icon">is<wbr>InPath</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#islastchild" class="tsd-kind-icon">is<wbr>Last<wbr>Child</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#islastelementchild" class="tsd-kind-icon">is<wbr>Last<wbr>Element<wbr>Child</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#isoneinpath" class="tsd-kind-icon">is<wbr>One<wbr>InPath</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#isoneof" class="tsd-kind-icon">is<wbr>One<wbr>Of</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#ispromiselike" class="tsd-kind-icon">is<wbr>Promise<wbr>Like</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#isthenable" class="tsd-kind-icon">is<wbr>Thenable</a>
+					</li>
+					<li class=" tsd-kind-function tsd-has-type-parameter">
+						<a href="globals.html#istypeliteral" class="tsd-kind-icon">is<wbr>Type<wbr>Literal</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#keymatches" class="tsd-kind-icon">key<wbr>Matches</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#lookup" class="tsd-kind-icon">lookup</a>
+					</li>
+					<li class=" tsd-kind-function tsd-has-type-parameter">
+						<a href="globals.html#mergeresult" class="tsd-kind-icon">merge<wbr>Result</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#mousebuttonmatches" class="tsd-kind-icon">mouse<wbr>Button<wbr>Matches</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#mousebuttonstomask" class="tsd-kind-icon">mouse<wbr>Buttons<wbr>ToMask</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#normalizeroute" class="tsd-kind-icon">normalize<wbr>Route</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#not" class="tsd-kind-icon">not</a>
+					</li>
+					<li class=" tsd-kind-function tsd-has-type-parameter">
+						<a href="globals.html#optionsextension" class="tsd-kind-icon">options<wbr>Extension</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#or" class="tsd-kind-icon">or</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#pascaltocamel" class="tsd-kind-icon">pascal<wbr>ToCamel</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#pascaltokebap" class="tsd-kind-icon">pascal<wbr>ToKebap</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#pascaltosnake" class="tsd-kind-icon">pascal<wbr>ToSnake</a>
+					</li>
+					<li class=" tsd-kind-function tsd-has-type-parameter">
+						<a href="globals.html#prepend" class="tsd-kind-icon">prepend</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#resolvecallback" class="tsd-kind-icon">resolve<wbr>Callback</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#setbusystate" class="tsd-kind-icon">set<wbr>Busy<wbr>State</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#statusof" class="tsd-kind-icon">status<wbr>Of</a>
+					</li>
+					<li class=" tsd-kind-function tsd-has-type-parameter">
+						<a href="globals.html#transformparams" class="tsd-kind-icon">transform<wbr>Params</a>
+					</li>
+					<li class=" tsd-kind-function tsd-has-type-parameter">
+						<a href="globals.html#transformresult" class="tsd-kind-icon">transform<wbr>Result</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#wasprevented" class="tsd-kind-icon">was<wbr>Prevented</a>
+					</li>
+					<li class=" tsd-kind-function">
+						<a href="globals.html#withsideeffects" class="tsd-kind-icon">with<wbr>Side<wbr>Effects</a>
+					</li>
+					<li class=" tsd-kind-function tsd-has-type-parameter">
+						<a href="globals.html#wrap" class="tsd-kind-icon">wrap</a>
+					</li>
+					<li class=" tsd-kind-function tsd-has-type-parameter">
+						<a href="globals.html#wrapfunction" class="tsd-kind-icon">wrap<wbr>Function</a>
+					</li>
+					<li class=" tsd-kind-function tsd-has-type-parameter">
+						<a href="globals.html#wrapgetter" class="tsd-kind-icon">wrap<wbr>Getter</a>
+					</li>
+					<li class=" tsd-kind-function tsd-has-type-parameter">
+						<a href="globals.html#wrapsetter" class="tsd-kind-icon">wrap<wbr>Setter</a>
+					</li>
+				</ul>
+			</nav>
+		</div>
+	</div>
+</div>
+<footer class="with-border-bottom">
+	<div class="container">
+		<h2>Legend</h2>
+		<div class="tsd-legend-group">
+			<ul class="tsd-legend">
+				<li class="tsd-kind-module"><span class="tsd-kind-icon">Module</span></li>
+				<li class="tsd-kind-object-literal"><span class="tsd-kind-icon">Object literal</span></li>
+				<li class="tsd-kind-variable"><span class="tsd-kind-icon">Variable</span></li>
+				<li class="tsd-kind-function"><span class="tsd-kind-icon">Function</span></li>
+				<li class="tsd-kind-function tsd-has-type-parameter"><span class="tsd-kind-icon">Function with type parameter</span></li>
+				<li class="tsd-kind-index-signature"><span class="tsd-kind-icon">Index signature</span></li>
+				<li class="tsd-kind-type-alias"><span class="tsd-kind-icon">Type alias</span></li>
+				<li class="tsd-kind-type-alias tsd-has-type-parameter"><span class="tsd-kind-icon">Type alias with type parameter</span></li>
+			</ul>
+			<ul class="tsd-legend">
+				<li class="tsd-kind-enum"><span class="tsd-kind-icon">Enumeration</span></li>
+				<li class="tsd-kind-enum-member"><span class="tsd-kind-icon">Enumeration member</span></li>
+				<li class="tsd-kind-property tsd-parent-kind-enum"><span class="tsd-kind-icon">Property</span></li>
+				<li class="tsd-kind-method tsd-parent-kind-enum"><span class="tsd-kind-icon">Method</span></li>
+			</ul>
+			<ul class="tsd-legend">
+				<li class="tsd-kind-interface"><span class="tsd-kind-icon">Interface</span></li>
+				<li class="tsd-kind-interface tsd-has-type-parameter"><span class="tsd-kind-icon">Interface with type parameter</span></li>
+				<li class="tsd-kind-constructor tsd-parent-kind-interface"><span class="tsd-kind-icon">Constructor</span></li>
+				<li class="tsd-kind-property tsd-parent-kind-interface"><span class="tsd-kind-icon">Property</span></li>
+				<li class="tsd-kind-method tsd-parent-kind-interface"><span class="tsd-kind-icon">Method</span></li>
+				<li class="tsd-kind-index-signature tsd-parent-kind-interface"><span class="tsd-kind-icon">Index signature</span></li>
+			</ul>
+			<ul class="tsd-legend">
+				<li class="tsd-kind-class"><span class="tsd-kind-icon">Class</span></li>
+				<li class="tsd-kind-class tsd-has-type-parameter"><span class="tsd-kind-icon">Class with type parameter</span></li>
+				<li class="tsd-kind-constructor tsd-parent-kind-class"><span class="tsd-kind-icon">Constructor</span></li>
+				<li class="tsd-kind-property tsd-parent-kind-class"><span class="tsd-kind-icon">Property</span></li>
+				<li class="tsd-kind-method tsd-parent-kind-class"><span class="tsd-kind-icon">Method</span></li>
+				<li class="tsd-kind-accessor tsd-parent-kind-class"><span class="tsd-kind-icon">Accessor</span></li>
+				<li class="tsd-kind-index-signature tsd-parent-kind-class"><span class="tsd-kind-icon">Index signature</span></li>
+			</ul>
+			<ul class="tsd-legend">
+				<li class="tsd-kind-constructor tsd-parent-kind-class tsd-is-inherited"><span class="tsd-kind-icon">Inherited constructor</span></li>
+				<li class="tsd-kind-property tsd-parent-kind-class tsd-is-inherited"><span class="tsd-kind-icon">Inherited property</span></li>
+				<li class="tsd-kind-method tsd-parent-kind-class tsd-is-inherited"><span class="tsd-kind-icon">Inherited method</span></li>
+				<li class="tsd-kind-accessor tsd-parent-kind-class tsd-is-inherited"><span class="tsd-kind-icon">Inherited accessor</span></li>
+			</ul>
+			<ul class="tsd-legend">
+				<li class="tsd-kind-property tsd-parent-kind-class tsd-is-protected"><span class="tsd-kind-icon">Protected property</span></li>
+				<li class="tsd-kind-method tsd-parent-kind-class tsd-is-protected"><span class="tsd-kind-icon">Protected method</span></li>
+				<li class="tsd-kind-accessor tsd-parent-kind-class tsd-is-protected"><span class="tsd-kind-icon">Protected accessor</span></li>
+			</ul>
+			<ul class="tsd-legend">
+				<li class="tsd-kind-property tsd-parent-kind-class tsd-is-private"><span class="tsd-kind-icon">Private property</span></li>
+				<li class="tsd-kind-method tsd-parent-kind-class tsd-is-private"><span class="tsd-kind-icon">Private method</span></li>
+				<li class="tsd-kind-accessor tsd-parent-kind-class tsd-is-private"><span class="tsd-kind-icon">Private accessor</span></li>
+			</ul>
+			<ul class="tsd-legend">
+				<li class="tsd-kind-property tsd-parent-kind-class tsd-is-static"><span class="tsd-kind-icon">Static property</span></li>
+				<li class="tsd-kind-call-signature tsd-parent-kind-class tsd-is-static"><span class="tsd-kind-icon">Static method</span></li>
+			</ul>
+		</div>
+	</div>
+</footer>
+<div class="container tsd-generator">
+	<p>Generated using <a href="https://typedoc.org/" target="_blank">TypeDoc</a></p>
+</div>
+<div class="overlay"></div>
+<script src="assets/js/main.js"></script>
+<script>if (location.protocol == 'file:') document.write('<script src="assets/js/search.js"><' + '/script>');</script>
+</body>
+</html>

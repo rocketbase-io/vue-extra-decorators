@@ -12,7 +12,7 @@
   ],
   "scripts": {
     "build": "rollup --config build/rollup.config.js",
-    "clean": "rimraf dist temp docs coverage VueExtraDecorators.*.zip",
+    "clean": "rimraf dist temp docs coverage VueExtraDecorators*.zip",
     "test": "jest --passWithNoTests",
     "lint": "eslint --ignore-path .gitignore --ext .ts .",
     "lint:fix": "eslint --ignore-path .gitignore --ext .ts --fix ."

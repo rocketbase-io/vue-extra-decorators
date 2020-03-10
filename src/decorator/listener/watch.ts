@@ -19,3 +19,15 @@ export function Watch(opts: string | WatchOptionsWithProp): TypedPropertyDecorat
     (options.watch[prop] as any).push({ ...(opts as any), handler });
   });
 }
+
+export function IWatch(property: string): TypedPropertyDecorator<AnyFunction> {
+  return Watch({ prop: property, immediate: true });
+}
+
+export function DWatch(property: string): TypedPropertyDecorator<AnyFunction> {
+  return Watch({ prop: property, deep: true });
+}
+
+export function IDWatch(property: string): TypedPropertyDecorator<AnyFunction> {
+  return Watch({ prop: property, deep: true, immediate: true });
+}

@@ -14,7 +14,7 @@
     "build": "rollup --config build/rollup.config.js",
     "clean": "rimraf dist temp docs coverage VueExtraDecorators*.zip",
     "test": "jest --passWithNoTests",
-    "docs": "typedoc",
+    "docs": "rimraf docs && typedoc",
     "assets": "bestzip 'VueExtraDecorators.zip' dist/* && bestzip 'VueExtraDecorators-docs.zip' docs/*",
     "lint": "eslint --ignore-path .gitignore --ext .ts .",
     "lint:fix": "eslint --ignore-path .gitignore --ext .ts --fix ."

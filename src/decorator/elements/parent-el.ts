@@ -24,6 +24,7 @@ import { createElementDecorator } from "src/decorator/elements/create-element-de
  *
  * {@link El} {@link DocumentEl} {@link ParentEl}
  * @public
+ * @category Decorator
  */
 export function ParentEl(selector?: string, multiple = false) {
   return createElementDecorator(vue => vue.$parent?.$el, selector, multiple);

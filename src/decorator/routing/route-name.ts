@@ -31,6 +31,7 @@ import { calculatedProp } from "../../vue";
  *
  * {@link RouteParam} {@link RouteQuery} {@link RouteName} {@link Route}
  * @public
+ * @category Decorator
  */
 export function RouteName(): TypedPropertyDecorator<string | undefined> {
   return calculatedProp<string | undefined>(

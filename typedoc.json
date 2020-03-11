@@ -5,5 +5,6 @@
   "excludeExternals": true,
   "tsconfig": "./tsconfig.docs.json",
   "out": "docs",
-  "mode": "file"
+  "mode": "file",
+  "stripInternal": true
 }

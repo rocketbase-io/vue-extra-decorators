@@ -26,6 +26,7 @@ import { AnyFunction } from "../../types";
  * {@link Every} {@link EveryFrame}
  *
  * @public
+ * @category Decorator
  */
 export function NextTick() {
   return (target: any, key: string, desc: TypedPropertyDescriptor<AnyFunction>) => {

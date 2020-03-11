@@ -16,6 +16,7 @@ import { TFunction } from "../../types";
  * ```
  * {@link IfNot} {@link or} {@link and} {@link not}
  * @public
+ * @category Decorator
  */
 export function If(...fns: TFunction<boolean>[]) {
   return (target: any, key: string, desc: TypedPropertyDescriptor<TFunction>) => {

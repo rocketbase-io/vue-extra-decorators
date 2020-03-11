@@ -40,6 +40,7 @@ const converter = composeConverter(camelToPascal, camelToPascal);
  *
  * {@link Classes} {@link ClassesCamel} {@link ClassesKebap} {@link ClassesPascal} {@link ClassesSnake}
  * @public
+ * @category Decorator
  */
 export function ClassesPascal(prefix?: string, infix?: string): ReturnType<typeof Classes> {
   return Classes(prefix, infix, converter);

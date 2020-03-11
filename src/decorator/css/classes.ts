@@ -40,6 +40,7 @@ import { ClassesGetter, TFunction } from "../../types";
  *
  * {@link ClassesCamel} {@link ClassesKebap} {@link ClassesPascal} {@link ClassesSnake}
  * @public
+ * @category Decorator
  */
 export function Classes(
   prefix?: string,

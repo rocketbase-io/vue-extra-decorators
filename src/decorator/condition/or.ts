@@ -17,6 +17,7 @@ import { TFunction } from "../../types";
  * ```
  * {@link If} {@link IfNot} {@link and} {@link not}
  * @public
+ * @category Predicate
  */
 export function or(...fns: TFunction<boolean>[]): TFunction<boolean> {
   return function(...args) {

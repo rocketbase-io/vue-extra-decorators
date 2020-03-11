@@ -23,6 +23,7 @@ interface WatchOptionsWithProp extends WatchOptions {
  * ```
  * {@link Watch}, {@link IWatch}, {@link DWatch}, {@link IDWatch}
  * @public
+ * @category Decorator
  */
 export function Watch(property: string): TypedPropertyDecorator<AnyFunction>;
 
@@ -45,6 +46,7 @@ export function Watch(property: string): TypedPropertyDecorator<AnyFunction>;
  * ```
  * {@link Watch}, {@link IWatch}, {@link DWatch}, {@link IDWatch}
  * @public
+ * @category Decorator
  */
 export function Watch(opts: WatchOptionsWithProp): TypedPropertyDecorator<AnyFunction>;
 
@@ -67,6 +69,7 @@ export function Watch(opts: WatchOptionsWithProp): TypedPropertyDecorator<AnyFun
  * ```
  * {@link Watch}, {@link IWatch}, {@link DWatch}, {@link IDWatch}
  * @public
+ * @category Decorator
  */
 export function Watch(opts: string | WatchOptionsWithProp): TypedPropertyDecorator<AnyFunction> {
   if (typeof opts === "string") opts = { prop: opts };
@@ -96,6 +99,7 @@ export function Watch(opts: string | WatchOptionsWithProp): TypedPropertyDecorat
  * ```
  * {@link Watch}, {@link IWatch}, {@link DWatch}, {@link IDWatch}
  * @public
+ * @category Decorator
  */
 export function IWatch(property: string): TypedPropertyDecorator<AnyFunction> {
   return Watch({ prop: property, immediate: true });
@@ -117,6 +121,7 @@ export function IWatch(property: string): TypedPropertyDecorator<AnyFunction> {
  * ```
  * {@link Watch}, {@link IWatch}, {@link DWatch}, {@link IDWatch}
  * @public
+ * @category Decorator
  */
 export function DWatch(property: string): TypedPropertyDecorator<AnyFunction> {
   return Watch({ prop: property, deep: true });
@@ -139,6 +144,7 @@ export function DWatch(property: string): TypedPropertyDecorator<AnyFunction> {
  * ```
  * {@link Watch}, {@link IWatch}, {@link DWatch}, {@link IDWatch}
  * @public
+ * @category Decorator
  */
 export function IDWatch(property: string): TypedPropertyDecorator<AnyFunction> {
   return Watch({ prop: property, deep: true, immediate: true });

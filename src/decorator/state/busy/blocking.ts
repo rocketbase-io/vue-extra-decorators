@@ -31,8 +31,9 @@ import { snowflake } from "src/util";
  * }
  * ```
  *
- * @public
  * {@link BusyState}
+ * @public
+ * @category Decorator
  */
 export function Blocking(id?: string): TypedPropertyDecorator<AnyFunction>;
 
@@ -67,8 +68,9 @@ export function Blocking(id?: string): TypedPropertyDecorator<AnyFunction>;
  * }
  * ```
  *
- * @public
  * {@link BusyState}
+ * @public
+ * @category Decorator
  */
 export function Blocking(opts?: {
   id?: string;
@@ -107,8 +109,9 @@ export function Blocking(opts?: {
  * }
  * ```
  *
- * @public
  * {@link BusyState}
+ * @public
+ * @category Decorator
  */
 export function Blocking(
   idOrOpts?: string | { id?: string; parallel?: boolean; global?: boolean }

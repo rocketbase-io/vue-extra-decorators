@@ -40,6 +40,7 @@ export interface RouteQueryOptions<T> {
  *
  * {@link RouteParam} {@link RouteQuery} {@link RouteName} {@link Route}
  * @public
+ * @category Decorator
  */
 export function RouteQuery<T = any>(name: string, props: RouteQueryOptions<T> = {}): TypedPropertyDecorator<T> {
   const value: any =

@@ -27,6 +27,7 @@ import { withSideEffects } from "../../vue/with-side-effects";
  * {@link Every} {@link EveryFrame}
  *
  * @public
+ * @category Decorator
  */
 export function EveryFrame() {
   return (target: any, key: string, desc: TypedPropertyDescriptor<AnyFunction>) => {

@@ -32,6 +32,7 @@ import { AnyFunction } from "../../types";
  * {@link Every} {@link EveryFrame}
  *
  * @public
+ * @category Decorator
  */
 export function Debounce(ms = 200) {
   return (target: any, key: string, desc: TypedPropertyDescriptor<AnyFunction>) => {

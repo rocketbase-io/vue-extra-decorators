@@ -84,6 +84,7 @@ export type PropOpts<T> = Constructor<T> | Constructor<any>[] | RecordPropOpts<T
  *
  * {@link SProp} {@link NProp} {@link DProp} {@link BProp}
  * @public
+ * @category Decorator
  */
 export function Prop<T>(opts: PropOpts<T> = {}, typeOverride?: Constructor<T>): TypedPropertyDecorator<T> {
   // Type literal to record def

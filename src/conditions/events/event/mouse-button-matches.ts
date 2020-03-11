@@ -23,6 +23,7 @@ import { mouseButtonsToMask } from "../../../util/mouse-buttons-to-mask";
  * {@link If} {@link IfNot} {@link or} {@link and} {@link not}
  * {@link keyMatches} {@link wasPrevented}
  * @public
+ * @category Predicate
  */
 export function mouseButtonMatches(...buttons: MouseButton[]) {
   const mask = mouseButtonsToMask(buttons);

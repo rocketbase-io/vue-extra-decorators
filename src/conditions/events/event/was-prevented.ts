@@ -20,6 +20,7 @@
  * {@link If} {@link IfNot} {@link or} {@link and} {@link not}
  * {@link keyMatches} {@link mouseButtonMatches}
  * @public
+ * @category Predicate
  */
 export function wasPrevented(ev: Event) {
   return (ev && ev.defaultPrevented) || false;

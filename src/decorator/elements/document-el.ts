@@ -22,6 +22,7 @@ import { createElementDecorator } from "src/decorator/elements/create-element-de
  *
  * {@link El} {@link DocumentEl} {@link ParentEl}
  * @public
+ * @category Decorator
  */
 export function DocumentEl(selector?: string, multiple = false) {
   return createElementDecorator(() => document as any, selector, multiple);

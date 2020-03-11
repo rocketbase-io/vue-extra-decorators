@@ -40,6 +40,7 @@ export interface RouteParamOptions<T> {
  *
  * {@link RouteParam} {@link RouteQuery} {@link RouteName} {@link Route}
  * @public
+ * @category Decorator
  */
 export function RouteParam(
   name: string,

@@ -27,6 +27,7 @@ import { callbackToPromise } from "../../util";
  * {@link Every} {@link EveryFrame}
  *
  * @public
+ * @category Decorator
  */
 export function NextMs() {
   return (target: any, key: string, desc: TypedPropertyDescriptor<AnyFunction>) => {

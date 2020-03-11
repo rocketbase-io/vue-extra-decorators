@@ -30,6 +30,7 @@ import { optionsExtension } from "src/vue";
  *
  * {@link Blocking}
  * @public
+ * @category Decorator
  */
 export function BusyState(id?: string): TypedPropertyDecorator;
 
@@ -60,6 +61,7 @@ export function BusyState(id?: string): TypedPropertyDecorator;
  *
  * {@link Blocking}
  * @public
+ * @category Decorator
  */
 export function BusyState(opts?: { global?: true; id?: string }): TypedPropertyDecorator;
 
@@ -91,6 +93,7 @@ export function BusyState(opts?: { global?: true; id?: string }): TypedPropertyD
  *
  * {@link Blocking}
  * @public
+ * @category Decorator
  */
 export function BusyState(idOrOpts?: string | { global?: true; id?: string }) {
   if (!idOrOpts) idOrOpts = "";

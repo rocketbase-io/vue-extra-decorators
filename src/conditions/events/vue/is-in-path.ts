@@ -22,6 +22,7 @@ import { Vue } from "vue/types/vue";
  * {@link If} {@link IfNot} {@link or} {@link and} {@link not}
  * {@link isOneInPath}
  * @public
+ * @category Predicate
  */
 export function isInPath(...refs: string[]) {
   return function(this: Vue, ev: Event) {

@@ -1,5 +1,5 @@
-import { TypedPropertyDecorator } from "../../types";
-import { calculatedProp } from "../../vue";
+import { TypedPropertyDecorator } from "src/types";
+import { calculatedProp } from "src/vue";
 
 /**
  * Binds the current route name to a class member.
@@ -31,6 +31,7 @@ import { calculatedProp } from "../../vue";
  *
  * {@link RouteParam} {@link RouteQuery} {@link RouteName} {@link Route}
  * @public
+ * @category Decorator
  */
 export function RouteName(): TypedPropertyDecorator<string | undefined> {
   return calculatedProp<string | undefined>(

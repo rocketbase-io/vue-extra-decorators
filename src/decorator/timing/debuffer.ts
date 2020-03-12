@@ -1,5 +1,5 @@
-import { wrapFunction } from "../../descriptor";
-import { AnyFunction } from "../../types";
+import { wrapFunction } from "src/descriptor";
+import { AnyFunction } from "src/types";
 
 /**
  * Debuffer function calls by a specified amount of time
@@ -31,6 +31,7 @@ import { AnyFunction } from "../../types";
  * {@link Every} {@link EveryFrame}
  *
  * @public
+ * @category Decorator
  */
 export function Debuffer(ms = 200) {
   return (target: any, key: string, desc: TypedPropertyDescriptor<AnyFunction>) => {

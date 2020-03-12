@@ -22,7 +22,8 @@
     ],
     "paths": {
       "src/*": ["./src/*"],
-      "tests/*": ["./tests/*"]
+      "tests/*": ["./tests/*"],
+      "@rocketbase/vue-extra-decorators": ["./src/main.ts"]
     },
     "lib": [
       "esnext",

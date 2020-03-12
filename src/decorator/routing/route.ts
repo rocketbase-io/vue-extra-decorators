@@ -1,4 +1,4 @@
-import { getRoutes, normalizeRoute, RouteConfig } from "../../vue";
+import { getRoutes, normalizeRoute, RouteConfig } from "src/vue";
 
 /**
  * Registers a route for a given component
@@ -38,6 +38,7 @@ import { getRoutes, normalizeRoute, RouteConfig } from "../../vue";
  *
  * {@link RouteParam} {@link RouteQuery} {@link RouteName}
  * @public
+ * @category Decorator
  */
 export function Route(route?: string | Partial<RouteConfig>) {
   return function(target: any) {

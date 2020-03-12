@@ -1,4 +1,4 @@
-import { lookup } from "../../util";
+import { lookup } from "src/util";
 
 /**
  * Create a predicate that checks if the first parameter
@@ -25,6 +25,7 @@ import { lookup } from "../../util";
  *
  * {@link If} {@link IfNot} {@link or} {@link and} {@link not}
  * @public
+ * @category Predicate
  */
 export function isOneOf(path: string, ...values: any[]) {
   return (data: any) => values.indexOf(lookup(data, path)) !== -1;

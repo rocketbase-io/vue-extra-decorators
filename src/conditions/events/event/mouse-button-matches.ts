@@ -1,5 +1,5 @@
-import { MouseButton } from "../../../types";
-import { mouseButtonsToMask } from "../../../util/mouse-buttons-to-mask";
+import { MouseButton } from "src/types";
+import { mouseButtonsToMask } from "src/util/mouse-buttons-to-mask";
 
 /**
  * Creates a predicate that checks if the first parameter (assumed event)
@@ -23,6 +23,7 @@ import { mouseButtonsToMask } from "../../../util/mouse-buttons-to-mask";
  * {@link If} {@link IfNot} {@link or} {@link and} {@link not}
  * {@link keyMatches} {@link wasPrevented}
  * @public
+ * @category Predicate
  */
 export function mouseButtonMatches(...buttons: MouseButton[]) {
   const mask = mouseButtonsToMask(buttons);

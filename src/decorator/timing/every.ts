@@ -1,5 +1,5 @@
-import { AnyFunction } from "../../types";
-import { withSideEffects } from "../../vue/with-side-effects";
+import { AnyFunction } from "src/types";
+import { withSideEffects } from "src/vue/with-side-effects";
 
 /**
  * Calls a function every `ms` milliseconds.
@@ -29,6 +29,7 @@ import { withSideEffects } from "../../vue/with-side-effects";
  * {@link Every} {@link EveryFrame}
  *
  * @public
+ * @category Decorator
  */
 export function Every(ms = 1000) {
   return (target: any, key: string, desc: TypedPropertyDescriptor<AnyFunction>) => {

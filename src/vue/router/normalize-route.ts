@@ -1,4 +1,4 @@
-import { Constructor } from "../../types";
+import { Constructor } from "src/types";
 import { RouteConfig } from "./routes";
 import { Vue } from "vue/types/vue";
 

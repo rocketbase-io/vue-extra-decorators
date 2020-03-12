@@ -1,5 +1,5 @@
-import { Constructor, SingleArgFunction, TFunction, TypedPropertyDecorator } from "../../types";
-import { isTypeLiteral, optionsExtension } from "../../vue";
+import { Constructor, SingleArgFunction, TFunction, TypedPropertyDecorator } from "src/types";
+import { isTypeLiteral, optionsExtension } from "src/vue";
 
 /**
  * Parameters of the {@link Prop | @Prop} decorator and its flavors
@@ -84,6 +84,7 @@ export type PropOpts<T> = Constructor<T> | Constructor<any>[] | RecordPropOpts<T
  *
  * {@link SProp} {@link NProp} {@link DProp} {@link BProp}
  * @public
+ * @category Decorator
  */
 export function Prop<T>(opts: PropOpts<T> = {}, typeOverride?: Constructor<T>): TypedPropertyDecorator<T> {
   // Type literal to record def

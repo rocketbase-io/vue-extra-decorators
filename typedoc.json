@@ -1,9 +1,13 @@
 {
-  "inputFiles": ["dist/*.d.ts"],
+  "inputFiles": [
+    "dist/*.d.ts"
+  ],
   "includeDeclarations": true,
   "excludeNotExported": true,
   "excludeExternals": true,
   "tsconfig": "./tsconfig.docs.json",
   "out": "docs",
-  "mode": "file"
+  "mode": "file",
+  "stripInternal": true,
+  "json": "docs/symbols.json"
 }

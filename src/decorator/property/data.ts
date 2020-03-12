@@ -1,5 +1,5 @@
-import { TFunction, TypedPropertyDecorator } from "../../types";
-import { optionsExtension } from "../../vue";
+import { TFunction, TypedPropertyDecorator } from "src/types";
+import { optionsExtension } from "src/vue";
 import { Vue } from "vue/types/vue";
 
 /**
@@ -49,6 +49,7 @@ export interface DataOpts<T> {
  *
  * {@link SProp} {@link NProp} {@link DProp} {@link BProp} {@link Prop}
  * @public
+ * @category Decorator
  */
 export function Data<T>(opts: DataOpts<T> = {}): TypedPropertyDecorator<T> {
   // If a literal is given, use a function returning that literal

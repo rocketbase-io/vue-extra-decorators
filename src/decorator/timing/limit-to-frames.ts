@@ -1,5 +1,5 @@
-import { wrapFunction } from "../../descriptor";
-import { AnyFunction } from "../../types";
+import { wrapFunction } from "src/descriptor";
+import { AnyFunction } from "src/types";
 
 /**
  * Limit function calls to browser frames.
@@ -28,6 +28,7 @@ import { AnyFunction } from "../../types";
  * {@link Every} {@link EveryFrame}
  *
  * @public
+ * @category Decorator
  */
 export function LimitToFrames() {
   return (target: any, propertyKey: string, desc: TypedPropertyDescriptor<AnyFunction>) => {

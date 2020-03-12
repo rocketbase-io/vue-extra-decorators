@@ -1,4 +1,4 @@
-import { Constructor } from "../../types";
+import { Constructor } from "src/types";
 
 /**
  * Checks if a given object is a type literal option or a record

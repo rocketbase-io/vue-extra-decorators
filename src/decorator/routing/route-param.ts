@@ -1,5 +1,5 @@
-import { TypedPropertyDecorator } from "../../types";
-import { calculatedProp } from "../../vue";
+import { TypedPropertyDecorator } from "src/types";
+import { calculatedProp } from "src/vue";
 import { Vue } from "vue/types/vue";
 
 export interface RouteParamOptions<T> {
@@ -40,6 +40,7 @@ export interface RouteParamOptions<T> {
  *
  * {@link RouteParam} {@link RouteQuery} {@link RouteName} {@link Route}
  * @public
+ * @category Decorator
  */
 export function RouteParam(
   name: string,

@@ -26,6 +26,7 @@ import { Vue } from "vue/types/vue";
  *
  * {@link Emit} {@link EmitError} {@link EmitOnStatusCode}
  * @public
+ * @category Decorator
  */
 export function Emit(event?: string) {
   return (target: any, key: string, desc: TypedPropertyDescriptor<FunctionWithContext<Vue>>) => {

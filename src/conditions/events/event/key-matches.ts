@@ -20,6 +20,7 @@
  * {@link If} {@link IfNot} {@link or} {@link and} {@link not}
  * {@link mouseButtonMatches} {@link wasPrevented}
  * @public
+ * @category Predicate
  */
 export function keyMatches(...keys: string[]) {
   return (ev: KeyboardEvent) => keys.indexOf(ev.key) !== -1;

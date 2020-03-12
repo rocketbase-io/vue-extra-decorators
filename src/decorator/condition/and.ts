@@ -1,4 +1,4 @@
-import { TFunction } from "../../types";
+import { TFunction } from "src/types";
 
 /**
  * Merges multiple predicates into one.
@@ -17,6 +17,7 @@ import { TFunction } from "../../types";
  * ```
  * {@link If} {@link IfNot} {@link or} {@link not}
  * @public
+ * @category Predicate
  */
 export function and(...fns: TFunction<boolean>[]): TFunction<boolean> {
   return function(...args) {

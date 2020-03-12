@@ -1,4 +1,4 @@
-import { lookup } from "../../util";
+import { lookup } from "src/util";
 
 /**
  * Create a predicate that checks if the first parameter
@@ -26,6 +26,7 @@ import { lookup } from "../../util";
  *
  * {@link If} {@link IfNot} {@link or} {@link and} {@link not}
  * @public
+ * @category Predicate
  */
 export function isEqual(path: string, value: any) {
   return (data: any) => lookup(data, path) === value;

@@ -1,5 +1,5 @@
 import { Classes, composeConverter } from "./classes";
-import { camelToPascal, pascalToCamel } from "../../util";
+import { camelToPascal, pascalToCamel } from "src/util";
 
 const converter = composeConverter(pascalToCamel, camelToPascal);
 
@@ -40,6 +40,7 @@ const converter = composeConverter(pascalToCamel, camelToPascal);
  *
  * {@link Classes} {@link ClassesCamel} {@link ClassesKebap} {@link ClassesPascal} {@link ClassesSnake}
  * @public
+ * @category Decorator
  */
 export function ClassesCamel(prefix?: string, infix?: string): ReturnType<typeof Classes> {
   return Classes(prefix, infix, converter);

@@ -1,5 +1,5 @@
-import { wrapFunction } from "../../descriptor";
-import { TFunction } from "../../types";
+import { wrapFunction } from "src/descriptor";
+import { TFunction } from "src/types";
 
 /**
  * Wraps a function and only calls through if a given set of predicates return truthy
@@ -16,6 +16,7 @@ import { TFunction } from "../../types";
  * ```
  * {@link IfNot} {@link or} {@link and} {@link not}
  * @public
+ * @category Decorator
  */
 export function If(...fns: TFunction<boolean>[]) {
   return (target: any, key: string, desc: TypedPropertyDescriptor<TFunction>) => {

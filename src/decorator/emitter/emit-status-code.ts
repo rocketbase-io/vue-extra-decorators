@@ -47,6 +47,7 @@ function emitIfMatching(cxt: Vue, it: any, codes: number[], event?: string) {
  *
  * {@link Emit} {@link EmitError} {@link EmitOnStatusCode}
  * @public
+ * @category Decorator
  */
 export function EmitOnStatusCode(
   code?: number,
@@ -81,6 +82,7 @@ export function EmitOnStatusCode(
  *
  * {@link Emit} {@link EmitError} {@link EmitOnStatusCode}
  * @public
+ * @category Decorator
  */
 export function EmitOnStatusCode(
   codes?: number[],
@@ -115,6 +117,7 @@ export function EmitOnStatusCode(
  *
  * {@link Emit} {@link EmitError} {@link EmitOnStatusCode}
  * @public
+ * @category Decorator
  */
 export function EmitOnStatusCode(codes?: number | number[], event?: string, rethrow = false) {
   const codeArray = codes == null ? [] : Array.isArray(codes) ? codes : [codes];

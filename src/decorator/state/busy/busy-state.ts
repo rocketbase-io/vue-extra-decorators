@@ -1,4 +1,4 @@
-import { getBusyState, getBusyStateSubscribers } from "src/decorator/state/busy/get-busy-state";
+import { getBusyState, getBusyStateSubscribers } from "src/util/get-busy-state";
 import { TypedPropertyDecorator } from "src/types";
 import { Snowflake } from "src/util";
 import { optionsExtension } from "src/vue";
@@ -30,6 +30,7 @@ import { optionsExtension } from "src/vue";
  *
  * {@link Blocking}
  * @public
+ * @category Decorator
  */
 export function BusyState(id?: string): TypedPropertyDecorator;
 
@@ -60,6 +61,7 @@ export function BusyState(id?: string): TypedPropertyDecorator;
  *
  * {@link Blocking}
  * @public
+ * @category Decorator
  */
 export function BusyState(opts?: { global?: true; id?: string }): TypedPropertyDecorator;
 
@@ -91,6 +93,7 @@ export function BusyState(opts?: { global?: true; id?: string }): TypedPropertyD
  *
  * {@link Blocking}
  * @public
+ * @category Decorator
  */
 export function BusyState(idOrOpts?: string | { global?: true; id?: string }) {
   if (!idOrOpts) idOrOpts = "";

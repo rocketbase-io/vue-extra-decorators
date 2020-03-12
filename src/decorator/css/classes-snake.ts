@@ -1,5 +1,5 @@
 import { Classes, composeConverter } from "./classes";
-import { pascalToSnake } from "../../util";
+import { pascalToSnake } from "src/util";
 
 const converter = composeConverter(pascalToSnake, pascalToSnake);
 
@@ -40,6 +40,7 @@ const converter = composeConverter(pascalToSnake, pascalToSnake);
  *
  * {@link Classes} {@link ClassesCamel} {@link ClassesKebap} {@link ClassesPascal} {@link ClassesSnake}
  * @public
+ * @category Decorator
  */
 export function ClassesSnake(prefix?: string, infix = "--"): ReturnType<typeof Classes> {
   return Classes(prefix, infix, converter);

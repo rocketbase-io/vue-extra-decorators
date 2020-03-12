@@ -22,6 +22,7 @@ import { createListenerDecorator } from "src/vue";
  *
  * {@Link On} {@Link OnElement} {@Link OnDocument} {@Link OnWindow} {@Link OnParent} {@Link OnParentElement}
  * @public
+ * @category Decorator
  */
 export function OnElement(...events: string[]): TypedPropertyDecorator<AnyFunction> {
   return createListenerDecorator(events, el => el.$el, true, ["mouted", "updated"], ["destroyed", "beforeUpdate"]);

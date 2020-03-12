@@ -23,6 +23,7 @@
  * {@link If} {@link IfNot} {@link or} {@link and} {@link not}
  * {@link isFirstElementChild} {@link isLastChild} {@link isLastElementChild}
  * @public
+ * @category Predicate
  */
 export function isFirstChild(ev: Event) {
   return (

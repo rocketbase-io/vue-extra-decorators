@@ -1,6 +1,6 @@
-import { wrapFunction } from "../../descriptor";
-import { AnyFunction } from "../../types";
-import { callbackToPromise } from "../../util";
+import { wrapFunction } from "src/descriptor";
+import { AnyFunction } from "src/types";
+import { callbackToPromise } from "src/util";
 
 /**
  * Delay function calls by a single browser frame.
@@ -27,6 +27,7 @@ import { callbackToPromise } from "../../util";
  * {@link Every} {@link EveryFrame}
  *
  * @public
+ * @category Decorator
  */
 export function NextFrame() {
   return (target: any, key: string, desc: TypedPropertyDescriptor<AnyFunction>) => {

@@ -1,5 +1,5 @@
-import { TFunction, TypedPropertyDecorator } from "../../types";
-import { optionsExtension } from "../../vue";
+import { TFunction, TypedPropertyDecorator } from "src/types";
+import { optionsExtension } from "src/vue";
 import { Vue } from "vue/types/vue";
 
 /**

@@ -1,5 +1,5 @@
 import { Classes, composeConverter } from "./classes";
-import { pascalToKebap } from "../../util";
+import { pascalToKebap } from "src/util";
 
 const converter = composeConverter(pascalToKebap, pascalToKebap);
 

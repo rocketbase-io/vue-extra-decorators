@@ -1,5 +1,5 @@
-import { wrapFunction } from "../../descriptor";
-import { AnyFunction } from "../../types";
+import { wrapFunction } from "src/descriptor";
+import { AnyFunction } from "src/types";
 
 /**
  * Delay function calls by a vue tick using this.$nextTick.

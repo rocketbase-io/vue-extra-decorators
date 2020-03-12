@@ -1,5 +1,5 @@
 import { Prop, PropOpts } from "./prop";
-import { TypedPropertyDecorator } from "../../types";
+import { TypedPropertyDecorator } from "src/types";
 
 /**
  * Declares a Vue property.

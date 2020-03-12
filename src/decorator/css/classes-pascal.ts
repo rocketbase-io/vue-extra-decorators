@@ -1,5 +1,5 @@
 import { Classes, composeConverter } from "./classes";
-import { camelToPascal } from "../../util";
+import { camelToPascal } from "src/util";
 
 const converter = composeConverter(camelToPascal, camelToPascal);
 

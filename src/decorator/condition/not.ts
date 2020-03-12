@@ -1,4 +1,4 @@
-import { TFunction } from "../../types";
+import { TFunction } from "src/types";
 
 /**
  * Inverts a given predicate (negates its output)

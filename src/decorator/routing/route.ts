@@ -1,4 +1,4 @@
-import { getRoutes, normalizeRoute, RouteConfig } from "../../vue";
+import { getRoutes, normalizeRoute, RouteConfig } from "src/vue";
 
 /**
  * Registers a route for a given component

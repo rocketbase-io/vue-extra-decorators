@@ -1,4 +1,4 @@
-import { TFunction } from "../../types";
+import { TFunction } from "src/types";
 
 /**
  * Merges multiple predicates into one.

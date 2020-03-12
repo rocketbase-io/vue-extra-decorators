@@ -1,5 +1,5 @@
-import { AnyFunction } from "../../types";
-import { withSideEffects } from "../../vue/with-side-effects";
+import { AnyFunction } from "src/types";
+import { withSideEffects } from "src/vue/with-side-effects";
 
 /**
  * Calls a function every `ms` milliseconds.

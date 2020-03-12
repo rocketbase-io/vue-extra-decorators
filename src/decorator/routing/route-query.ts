@@ -1,5 +1,5 @@
-import { TypedPropertyDecorator } from "../../types";
-import { calculatedProp } from "../../vue";
+import { TypedPropertyDecorator } from "src/types";
+import { calculatedProp } from "src/vue";
 import { Vue } from "vue/types/vue";
 
 export interface RouteQueryOptions<T> {

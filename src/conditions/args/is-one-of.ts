@@ -1,4 +1,4 @@
-import { lookup } from "../../util";
+import { lookup } from "src/util";
 
 /**
  * Create a predicate that checks if the first parameter

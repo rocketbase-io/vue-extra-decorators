@@ -1,5 +1,5 @@
-import { wrapFunction } from "../../descriptor";
-import { AnyFunction } from "../../types";
+import { wrapFunction } from "src/descriptor";
+import { AnyFunction } from "src/types";
 
 /**
  * Debounce function calls by a specified amount of time

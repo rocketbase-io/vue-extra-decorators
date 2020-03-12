@@ -1,4 +1,4 @@
-import { getBusyState, setBusyState } from "src/decorator/state/busy/get-busy-state";
+import { getBusyState, setBusyState } from "src/util/get-busy-state";
 import { AnyFunction, TypedPropertyDecorator } from "src/types";
 import { snowflake } from "src/util";
 

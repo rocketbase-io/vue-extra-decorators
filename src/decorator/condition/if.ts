@@ -1,5 +1,5 @@
-import { wrapFunction } from "../../descriptor";
-import { TFunction } from "../../types";
+import { wrapFunction } from "src/descriptor";
+import { TFunction } from "src/types";
 
 /**
  * Wraps a function and only calls through if a given set of predicates return truthy

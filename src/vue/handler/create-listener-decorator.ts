@@ -1,7 +1,7 @@
-import { AnyFunction, TypedPropertyDecorator } from "../../types";
+import { AnyFunction, TypedPropertyDecorator } from "src/types";
 import { createElementHandler } from "./create-element-handler";
 import { createVueHandler } from "./create-vue-handler";
-import { append } from "../../function/append";
+import { append } from "src/function/append";
 import { createDecorator } from "vue-class-component";
 
 /**

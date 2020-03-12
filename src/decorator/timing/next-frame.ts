@@ -1,6 +1,6 @@
-import { wrapFunction } from "../../descriptor";
-import { AnyFunction } from "../../types";
-import { callbackToPromise } from "../../util";
+import { wrapFunction } from "src/descriptor";
+import { AnyFunction } from "src/types";
+import { callbackToPromise } from "src/util";
 
 /**
  * Delay function calls by a single browser frame.

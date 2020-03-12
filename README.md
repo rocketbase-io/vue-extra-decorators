@@ -19,7 +19,7 @@ Look at the [example](example) directory for examples
 
 ## Most useful decorators
 
-* @Prop, @SProp, @BProp, @DProp - Define properties
+* @Prop, @SProp, @BProp, @NProp, @DProp - Define properties
 * @Data - Define data properties
 * @Ref - Bind vue references
 * @Classes, @ClassesKebap - CSS Classes

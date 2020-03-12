@@ -1,5 +1,5 @@
 import { Classes, composeConverter } from "./classes";
-import { pascalToSnake } from "../../util";
+import { pascalToSnake } from "src/util";
 
 const converter = composeConverter(pascalToSnake, pascalToSnake);
 

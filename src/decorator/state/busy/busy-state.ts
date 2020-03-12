@@ -1,4 +1,4 @@
-import { getBusyState, getBusyStateSubscribers } from "src/decorator/state/busy/get-busy-state";
+import { getBusyState, getBusyStateSubscribers } from "src/util/get-busy-state";
 import { TypedPropertyDecorator } from "src/types";
 import { Snowflake } from "src/util";
 import { optionsExtension } from "src/vue";

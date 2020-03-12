@@ -1,5 +1,5 @@
-import { CalculatedPropertyDescriptor, wrapGetter } from "../../descriptor";
-import { ClassesGetter, TFunction } from "../../types";
+import { CalculatedPropertyDescriptor, wrapGetter } from "src/descriptor";
+import { ClassesGetter, TFunction } from "src/types";
 
 /**
  * Prefixes a css classes getter keys with a given
@@ -19,7 +19,7 @@ import { ClassesGetter, TFunction } from "../../types";
  * {@link ClassesCamel} {@link ClassesKebap} {@link ClassesPascal} {@link ClassesSnake}
  *
  * @example
- * ```TS
+ * ```typescript
  * const lower = (str: string) => str.toLowerCase();
  * @Component({ template: `<div :class="classes">Hello World</div>` })
  * class MyVueComponent extends Vue {

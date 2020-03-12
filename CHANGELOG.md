@@ -1,3 +1,10 @@
+# [2.5.0](https://github.com/rocketbase-io/vue-extra-decorators/compare/v2.4.2...v2.5.0) (2020-03-12)
+
+
+### Features
+
+* docs, state decorator, path refactoring, store example ([e204bf2](https://github.com/rocketbase-io/vue-extra-decorators/commit/e204bf2b80b6c4c78d4adf8f3bca88f495ed2e55))
+
 ## [2.4.2](https://github.com/rocketbase-io/vue-extra-decorators/compare/v2.4.1...v2.4.2) (2020-03-10)
 
 

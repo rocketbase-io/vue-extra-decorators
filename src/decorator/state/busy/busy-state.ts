@@ -106,7 +106,7 @@ export function BusyState(idOrOpts?: string | { global?: true; id?: string }) {
         getBusyStateSubscribers(global ? undefined : this, id).push(
           (this[subscriber] = (state: Snowflake[]) => (this[key] = !!state.length))
         );
-        return { [key]: !!getBusyState(global ? undefined : this, id).length };
+        return () => ({ [key]: !!getBusyState(global ? undefined : this, id).length });
       },
       destroyed(this: any): void {
         const subs = getBusyStateSubscribers(global ? undefined : this, id);

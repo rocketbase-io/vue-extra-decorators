@@ -1,3 +1,16 @@
+# [2.6.0](https://github.com/rocketbase-io/vue-extra-decorators/compare/v2.5.0...v2.6.0) (2020-04-21)
+
+
+### Bug Fixes
+
+* busy data function for mixins ([17e614e](https://github.com/rocketbase-io/vue-extra-decorators/commit/17e614e5f412f2e9075708a332a1a44e5b03edbe))
+* nest state one level deeper to handle additional properties ([8d490d0](https://github.com/rocketbase-io/vue-extra-decorators/commit/8d490d096533a256a8ab72c312aac56cb809b2f0))
+
+
+### Features
+
+* make busystate decorator work outside of vue contexts ([2098db4](https://github.com/rocketbase-io/vue-extra-decorators/commit/2098db415b9df1880baae7ac3b1727a68d77a809))
+
 # [2.5.0](https://github.com/rocketbase-io/vue-extra-decorators/compare/v2.4.2...v2.5.0) (2020-03-12)
 
 

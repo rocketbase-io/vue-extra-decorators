@@ -12,9 +12,9 @@ const STATE = Symbol("State");
  * @internal
  */
 export function getState(obj: any, key: string | symbol, def: () => any, realm: string | symbol = STATE) {
-  const state = getOrSetDefault(obj, realm, () => Vue.observable({ [key]: def() ?? null }));
-  if (!(key in state)) Vue.set(state, key as string, def() ?? null);
-  return state[key];
+  const state = getOrSetDefault(obj, realm, () => Vue.observable({ properties: { [key]: def() ?? null } }));
+  if (!(key in state.properties)) state.properties = { ...state.properties, [key]: def() ?? null };
+  return state.properties[key];
 }
 
 /**
@@ -26,6 +26,6 @@ export function getState(obj: any, key: string | symbol, def: () => any, realm: 
  * @internal
  */
 export function setState(obj: any, key: string | symbol, value: any, realm: string | symbol = STATE) {
-  const state = getOrSetDefault(obj, realm, () => Vue.observable({ [key]: null }));
-  state[key] = value;
+  const state = getOrSetDefault(obj, realm, () => Vue.observable({ properties: { [key]: null } }));
+  state.properties = { ...state.properties, [key]: value ?? null };
 }

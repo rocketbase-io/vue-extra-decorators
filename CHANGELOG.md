@@ -1,3 +1,10 @@
+## [2.6.1](https://github.com/rocketbase-io/vue-extra-decorators/compare/v2.6.0...v2.6.1) (2020-05-05)
+
+
+### Bug Fixes
+
+* prevent infinite loops ([d780ab4](https://github.com/rocketbase-io/vue-extra-decorators/commit/d780ab4d2939011d4aed7cbc67e3c298438f9249))
+
 # [2.6.0](https://github.com/rocketbase-io/vue-extra-decorators/compare/v2.5.0...v2.6.0) (2020-04-21)
 
 

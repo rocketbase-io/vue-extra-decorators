@@ -74,19 +74,32 @@ export function Data<T>(opts: DataOpts<T> = {}): TypedPropertyDecorator<T> {
     };
     if (sync) {
       const event = options.model && options.model.prop === sync ? options.model.event || "change" : `update:${sync}`;
+      const block = Symbol(`Sync Block: ${key}`);
       if (!options.watch) options.watch = {};
       if (!Array.isArray(options.watch[key]))
         options.watch[key] = options.watch[key] == null ? ([] as any) : [options.watch[key]];
       (options.watch[key] as any).push({
         handler(newVal: T, oldVal?: T) {
-          this.$emit(event, newVal, oldVal);
+          if (this[block]) return;
+          try {
+            this[block] = true;
+            this.$emit(event, newVal, oldVal);
+          } finally {
+            this[block] = false;
+          }
         }
       });
       if (!Array.isArray(options.watch[sync]))
         options.watch[sync] = options.watch[sync] == null ? ([] as any) : [options.watch[sync]];
       (options.watch[sync] as any).push({
         handler(newVal: T) {
-          (this as any)[key] = newVal;
+          if (this[block]) return;
+          try {
+            this[block] = true;
+            (this as any)[key] = newVal;
+          } finally {
+            this[block] = false;
+          }
         },
         immediate: true
       });

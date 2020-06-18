@@ -1,3 +1,15 @@
+# [2.7.0](https://github.com/rocketbase-io/vue-extra-decorators/compare/v2.6.1...v2.7.0) (2020-06-18)
+
+
+### Bug Fixes
+
+* update dependencies ([28c7908](https://github.com/rocketbase-io/vue-extra-decorators/commit/28c7908f67c05bcb526851c880200ee87db9df9d))
+
+
+### Features
+
+* enable side effects to be dom dependant ([a8bddf6](https://github.com/rocketbase-io/vue-extra-decorators/commit/a8bddf664d602fbff361633f8bb5fe052c99061c))
+
 ## [2.6.1](https://github.com/rocketbase-io/vue-extra-decorators/compare/v2.6.0...v2.6.1) (2020-05-05)
 
 

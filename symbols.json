@@ -2734,7 +2734,7 @@
 					"sources": [
 						{
 							"fileName": "dist/VueExtraDecorators.d.ts",
-							"line": 1755,
+							"line": 1756,
 							"character": 11
 						}
 					],
@@ -2774,7 +2774,7 @@
 					"sources": [
 						{
 							"fileName": "dist/VueExtraDecorators.d.ts",
-							"line": 1761,
+							"line": 1762,
 							"character": 11
 						}
 					],
@@ -2799,7 +2799,7 @@
 					"sources": [
 						{
 							"fileName": "dist/VueExtraDecorators.d.ts",
-							"line": 1769,
+							"line": 1770,
 							"character": 8
 						}
 					],
@@ -2832,7 +2832,7 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 1748,
+					"line": 1749,
 					"character": 18
 				}
 			]
@@ -2877,7 +2877,7 @@
 					"sources": [
 						{
 							"fileName": "dist/VueExtraDecorators.d.ts",
-							"line": 1830,
+							"line": 1831,
 							"character": 11
 						}
 					],
@@ -2917,7 +2917,7 @@
 					"sources": [
 						{
 							"fileName": "dist/VueExtraDecorators.d.ts",
-							"line": 1836,
+							"line": 1837,
 							"character": 11
 						}
 					],
@@ -2943,7 +2943,7 @@
 					"sources": [
 						{
 							"fileName": "dist/VueExtraDecorators.d.ts",
-							"line": 1860,
+							"line": 1861,
 							"character": 9
 						}
 					],
@@ -2977,7 +2977,7 @@
 					"sources": [
 						{
 							"fileName": "dist/VueExtraDecorators.d.ts",
-							"line": 1841,
+							"line": 1842,
 							"character": 12
 						}
 					],
@@ -3015,7 +3015,7 @@
 					"sources": [
 						{
 							"fileName": "dist/VueExtraDecorators.d.ts",
-							"line": 1846,
+							"line": 1847,
 							"character": 10
 						}
 					],
@@ -3053,7 +3053,7 @@
 					"sources": [
 						{
 							"fileName": "dist/VueExtraDecorators.d.ts",
-							"line": 1823,
+							"line": 1824,
 							"character": 8
 						}
 					],
@@ -3102,7 +3102,7 @@
 					"sources": [
 						{
 							"fileName": "dist/VueExtraDecorators.d.ts",
-							"line": 1852,
+							"line": 1853,
 							"character": 13
 						}
 					],
@@ -3140,7 +3140,7 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 1817,
+					"line": 1818,
 					"character": 24
 				}
 			]
@@ -3177,7 +3177,7 @@
 					"sources": [
 						{
 							"fileName": "dist/VueExtraDecorators.d.ts",
-							"line": 2210,
+							"line": 2211,
 							"character": 11
 						}
 					],
@@ -3232,7 +3232,7 @@
 									"sources": [
 										{
 											"fileName": "dist/VueExtraDecorators.d.ts",
-											"line": 2210,
+											"line": 2211,
 											"character": 17
 										}
 									]
@@ -3253,7 +3253,7 @@
 					"sources": [
 						{
 							"fileName": "dist/VueExtraDecorators.d.ts",
-							"line": 2211,
+							"line": 2212,
 							"character": 11
 						}
 					],
@@ -3275,7 +3275,7 @@
 					"sources": [
 						{
 							"fileName": "dist/VueExtraDecorators.d.ts",
-							"line": 2212,
+							"line": 2213,
 							"character": 10
 						}
 					],
@@ -3353,7 +3353,7 @@
 					"sources": [
 						{
 							"fileName": "dist/VueExtraDecorators.d.ts",
-							"line": 2213,
+							"line": 2214,
 							"character": 14
 						}
 					],
@@ -3436,7 +3436,7 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 2209,
+					"line": 2210,
 					"character": 27
 				}
 			]
@@ -3473,7 +3473,7 @@
 					"sources": [
 						{
 							"fileName": "dist/VueExtraDecorators.d.ts",
-							"line": 2282,
+							"line": 2283,
 							"character": 11
 						}
 					],
@@ -3528,7 +3528,7 @@
 									"sources": [
 										{
 											"fileName": "dist/VueExtraDecorators.d.ts",
-											"line": 2282,
+											"line": 2283,
 											"character": 17
 										}
 									]
@@ -3549,7 +3549,7 @@
 					"sources": [
 						{
 							"fileName": "dist/VueExtraDecorators.d.ts",
-							"line": 2283,
+							"line": 2284,
 							"character": 11
 						}
 					],
@@ -3571,7 +3571,7 @@
 					"sources": [
 						{
 							"fileName": "dist/VueExtraDecorators.d.ts",
-							"line": 2284,
+							"line": 2285,
 							"character": 10
 						}
 					],
@@ -3660,7 +3660,7 @@
 					"sources": [
 						{
 							"fileName": "dist/VueExtraDecorators.d.ts",
-							"line": 2285,
+							"line": 2286,
 							"character": 14
 						}
 					],
@@ -3755,7 +3755,7 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 2281,
+					"line": 2282,
 					"character": 27
 				}
 			]
@@ -3786,7 +3786,7 @@
 					},
 					"type": {
 						"type": "reference",
-						"id": 883,
+						"id": 884,
 						"name": "Snowflake"
 					}
 				}
@@ -3803,7 +3803,7 @@
 					"sources": [
 						{
 							"fileName": "dist/VueExtraDecorators.d.ts",
-							"line": 3166,
+							"line": 3167,
 							"character": 11
 						}
 					],
@@ -3825,7 +3825,7 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 3164,
+					"line": 3165,
 					"character": 26
 				}
 			]
@@ -3928,7 +3928,7 @@
 					"sources": [
 						{
 							"fileName": "dist/VueExtraDecorators.d.ts",
-							"line": 1528,
+							"line": 1529,
 							"character": 8
 						}
 					],
@@ -3952,7 +3952,7 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 1527,
+					"line": 1528,
 					"character": 30
 				}
 			],
@@ -3964,7 +3964,7 @@
 			]
 		},
 		{
-			"id": 534,
+			"id": 535,
 			"name": "AfterFunction",
 			"kind": 4194304,
 			"kindString": "Type alias",
@@ -3973,7 +3973,7 @@
 			},
 			"typeParameter": [
 				{
-					"id": 535,
+					"id": 536,
 					"name": "T",
 					"kind": 131072,
 					"kindString": "Type parameter",
@@ -3989,14 +3989,14 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 754,
+					"line": 755,
 					"character": 18
 				}
 			],
 			"type": {
 				"type": "reflection",
 				"declaration": {
-					"id": 536,
+					"id": 537,
 					"name": "__type",
 					"kind": 65536,
 					"kindString": "Type literal",
@@ -4005,7 +4005,7 @@
 					},
 					"signatures": [
 						{
-							"id": 537,
+							"id": 538,
 							"name": "__call",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -4014,7 +4014,7 @@
 							},
 							"parameters": [
 								{
-									"id": 538,
+									"id": 539,
 									"name": "this",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -4037,7 +4037,7 @@
 									}
 								},
 								{
-									"id": 539,
+									"id": 540,
 									"name": "params",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -4047,7 +4047,7 @@
 									"type": {
 										"type": "reflection",
 										"declaration": {
-											"id": 540,
+											"id": 541,
 											"name": "__type",
 											"kind": 65536,
 											"kindString": "Type literal",
@@ -4056,7 +4056,7 @@
 											},
 											"children": [
 												{
-													"id": 542,
+													"id": 543,
 													"name": "args",
 													"kind": 32,
 													"kindString": "Variable",
@@ -4066,7 +4066,7 @@
 													"sources": [
 														{
 															"fileName": "dist/VueExtraDecorators.d.ts",
-															"line": 756,
+															"line": 757,
 															"character": 8
 														}
 													],
@@ -4086,7 +4086,7 @@
 													}
 												},
 												{
-													"id": 543,
+													"id": 544,
 													"name": "context",
 													"kind": 32,
 													"kindString": "Variable",
@@ -4096,7 +4096,7 @@
 													"sources": [
 														{
 															"fileName": "dist/VueExtraDecorators.d.ts",
-															"line": 757,
+															"line": 758,
 															"character": 11
 														}
 													],
@@ -4116,7 +4116,7 @@
 													}
 												},
 												{
-													"id": 541,
+													"id": 542,
 													"name": "result",
 													"kind": 32,
 													"kindString": "Variable",
@@ -4126,7 +4126,7 @@
 													"sources": [
 														{
 															"fileName": "dist/VueExtraDecorators.d.ts",
-															"line": 755,
+															"line": 756,
 															"character": 10
 														}
 													],
@@ -4151,16 +4151,16 @@
 													"title": "Variables",
 													"kind": 32,
 													"children": [
-														542,
 														543,
-														541
+														544,
+														542
 													]
 												}
 											],
 											"sources": [
 												{
 													"fileName": "dist/VueExtraDecorators.d.ts",
-													"line": 754,
+													"line": 755,
 													"character": 78
 												}
 											]
@@ -4177,7 +4177,7 @@
 					"sources": [
 						{
 							"fileName": "dist/VueExtraDecorators.d.ts",
-							"line": 754,
+							"line": 755,
 							"character": 41
 						}
 					]
@@ -4185,7 +4185,7 @@
 			}
 		},
 		{
-			"id": 525,
+			"id": 526,
 			"name": "BeforeFunction",
 			"kind": 4194304,
 			"kindString": "Type alias",
@@ -4194,7 +4194,7 @@
 			},
 			"typeParameter": [
 				{
-					"id": 526,
+					"id": 527,
 					"name": "T",
 					"kind": 131072,
 					"kindString": "Type parameter",
@@ -4210,14 +4210,14 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 750,
+					"line": 751,
 					"character": 19
 				}
 			],
 			"type": {
 				"type": "reflection",
 				"declaration": {
-					"id": 527,
+					"id": 528,
 					"name": "__type",
 					"kind": 65536,
 					"kindString": "Type literal",
@@ -4226,7 +4226,7 @@
 					},
 					"signatures": [
 						{
-							"id": 528,
+							"id": 529,
 							"name": "__call",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -4235,7 +4235,7 @@
 							},
 							"parameters": [
 								{
-									"id": 529,
+									"id": 530,
 									"name": "this",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -4258,7 +4258,7 @@
 									}
 								},
 								{
-									"id": 530,
+									"id": 531,
 									"name": "params",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -4268,7 +4268,7 @@
 									"type": {
 										"type": "reflection",
 										"declaration": {
-											"id": 531,
+											"id": 532,
 											"name": "__type",
 											"kind": 65536,
 											"kindString": "Type literal",
@@ -4277,7 +4277,7 @@
 											},
 											"children": [
 												{
-													"id": 532,
+													"id": 533,
 													"name": "args",
 													"kind": 32,
 													"kindString": "Variable",
@@ -4287,7 +4287,7 @@
 													"sources": [
 														{
 															"fileName": "dist/VueExtraDecorators.d.ts",
-															"line": 751,
+															"line": 752,
 															"character": 8
 														}
 													],
@@ -4307,7 +4307,7 @@
 													}
 												},
 												{
-													"id": 533,
+													"id": 534,
 													"name": "context",
 													"kind": 32,
 													"kindString": "Variable",
@@ -4317,7 +4317,7 @@
 													"sources": [
 														{
 															"fileName": "dist/VueExtraDecorators.d.ts",
-															"line": 752,
+															"line": 753,
 															"character": 11
 														}
 													],
@@ -4342,15 +4342,15 @@
 													"title": "Variables",
 													"kind": 32,
 													"children": [
-														532,
-														533
+														533,
+														534
 													]
 												}
 											],
 											"sources": [
 												{
 													"fileName": "dist/VueExtraDecorators.d.ts",
-													"line": 750,
+													"line": 751,
 													"character": 79
 												}
 											]
@@ -4367,7 +4367,7 @@
 					"sources": [
 						{
 							"fileName": "dist/VueExtraDecorators.d.ts",
-							"line": 750,
+							"line": 751,
 							"character": 42
 						}
 					]
@@ -4375,7 +4375,7 @@
 			}
 		},
 		{
-			"id": 506,
+			"id": 507,
 			"name": "ParamsTransformFunction",
 			"kind": 4194304,
 			"kindString": "Type alias",
@@ -4384,7 +4384,7 @@
 			},
 			"typeParameter": [
 				{
-					"id": 507,
+					"id": 508,
 					"name": "T",
 					"kind": 131072,
 					"kindString": "Type parameter",
@@ -4400,14 +4400,14 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 741,
+					"line": 742,
 					"character": 28
 				}
 			],
 			"type": {
 				"type": "reflection",
 				"declaration": {
-					"id": 508,
+					"id": 509,
 					"name": "__type",
 					"kind": 65536,
 					"kindString": "Type literal",
@@ -4416,7 +4416,7 @@
 					},
 					"signatures": [
 						{
-							"id": 509,
+							"id": 510,
 							"name": "__call",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -4425,7 +4425,7 @@
 							},
 							"parameters": [
 								{
-									"id": 510,
+									"id": 511,
 									"name": "this",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -4448,7 +4448,7 @@
 									}
 								},
 								{
-									"id": 511,
+									"id": 512,
 									"name": "params",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -4458,7 +4458,7 @@
 									"type": {
 										"type": "reflection",
 										"declaration": {
-											"id": 512,
+											"id": 513,
 											"name": "__type",
 											"kind": 65536,
 											"kindString": "Type literal",
@@ -4467,7 +4467,7 @@
 											},
 											"children": [
 												{
-													"id": 513,
+													"id": 514,
 													"name": "args",
 													"kind": 32,
 													"kindString": "Variable",
@@ -4477,7 +4477,7 @@
 													"sources": [
 														{
 															"fileName": "dist/VueExtraDecorators.d.ts",
-															"line": 742,
+															"line": 743,
 															"character": 8
 														}
 													],
@@ -4497,7 +4497,7 @@
 													}
 												},
 												{
-													"id": 514,
+													"id": 515,
 													"name": "context",
 													"kind": 32,
 													"kindString": "Variable",
@@ -4507,7 +4507,7 @@
 													"sources": [
 														{
 															"fileName": "dist/VueExtraDecorators.d.ts",
-															"line": 743,
+															"line": 744,
 															"character": 11
 														}
 													],
@@ -4532,15 +4532,15 @@
 													"title": "Variables",
 													"kind": 32,
 													"children": [
-														513,
-														514
+														514,
+														515
 													]
 												}
 											],
 											"sources": [
 												{
 													"fileName": "dist/VueExtraDecorators.d.ts",
-													"line": 741,
+													"line": 742,
 													"character": 88
 												}
 											]
@@ -4560,7 +4560,7 @@
 					"sources": [
 						{
 							"fileName": "dist/VueExtraDecorators.d.ts",
-							"line": 741,
+							"line": 742,
 							"character": 51
 						}
 					]
@@ -4568,7 +4568,7 @@
 			}
 		},
 		{
-			"id": 726,
+			"id": 727,
 			"name": "PropOpts",
 			"kind": 4194304,
 			"kindString": "Type alias",
@@ -4581,7 +4581,7 @@
 			},
 			"typeParameter": [
 				{
-					"id": 727,
+					"id": 728,
 					"name": "T",
 					"kind": 131072,
 					"kindString": "Type parameter",
@@ -4593,7 +4593,7 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 1869,
+					"line": 1870,
 					"character": 13
 				}
 			],
@@ -4638,7 +4638,7 @@
 			}
 		},
 		{
-			"id": 515,
+			"id": 516,
 			"name": "ResultTransformFunction",
 			"kind": 4194304,
 			"kindString": "Type alias",
@@ -4647,7 +4647,7 @@
 			},
 			"typeParameter": [
 				{
-					"id": 516,
+					"id": 517,
 					"name": "T",
 					"kind": 131072,
 					"kindString": "Type parameter",
@@ -4663,14 +4663,14 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 745,
+					"line": 746,
 					"character": 28
 				}
 			],
 			"type": {
 				"type": "reflection",
 				"declaration": {
-					"id": 517,
+					"id": 518,
 					"name": "__type",
 					"kind": 65536,
 					"kindString": "Type literal",
@@ -4679,7 +4679,7 @@
 					},
 					"signatures": [
 						{
-							"id": 518,
+							"id": 519,
 							"name": "__call",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -4688,7 +4688,7 @@
 							},
 							"parameters": [
 								{
-									"id": 519,
+									"id": 520,
 									"name": "this",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -4711,7 +4711,7 @@
 									}
 								},
 								{
-									"id": 520,
+									"id": 521,
 									"name": "params",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -4721,7 +4721,7 @@
 									"type": {
 										"type": "reflection",
 										"declaration": {
-											"id": 521,
+											"id": 522,
 											"name": "__type",
 											"kind": 65536,
 											"kindString": "Type literal",
@@ -4730,7 +4730,7 @@
 											},
 											"children": [
 												{
-													"id": 523,
+													"id": 524,
 													"name": "args",
 													"kind": 32,
 													"kindString": "Variable",
@@ -4740,7 +4740,7 @@
 													"sources": [
 														{
 															"fileName": "dist/VueExtraDecorators.d.ts",
-															"line": 747,
+															"line": 748,
 															"character": 8
 														}
 													],
@@ -4760,7 +4760,7 @@
 													}
 												},
 												{
-													"id": 524,
+													"id": 525,
 													"name": "context",
 													"kind": 32,
 													"kindString": "Variable",
@@ -4770,7 +4770,7 @@
 													"sources": [
 														{
 															"fileName": "dist/VueExtraDecorators.d.ts",
-															"line": 748,
+															"line": 749,
 															"character": 11
 														}
 													],
@@ -4790,7 +4790,7 @@
 													}
 												},
 												{
-													"id": 522,
+													"id": 523,
 													"name": "result",
 													"kind": 32,
 													"kindString": "Variable",
@@ -4800,7 +4800,7 @@
 													"sources": [
 														{
 															"fileName": "dist/VueExtraDecorators.d.ts",
-															"line": 746,
+															"line": 747,
 															"character": 10
 														}
 													],
@@ -4825,16 +4825,16 @@
 													"title": "Variables",
 													"kind": 32,
 													"children": [
-														523,
 														524,
-														522
+														525,
+														523
 													]
 												}
 											],
 											"sources": [
 												{
 													"fileName": "dist/VueExtraDecorators.d.ts",
-													"line": 745,
+													"line": 746,
 													"character": 88
 												}
 											]
@@ -4851,7 +4851,7 @@
 					"sources": [
 						{
 							"fileName": "dist/VueExtraDecorators.d.ts",
-							"line": 745,
+							"line": 746,
 							"character": 51
 						}
 					]
@@ -5007,7 +5007,7 @@
 			}
 		},
 		{
-			"id": 883,
+			"id": 884,
 			"name": "Snowflake",
 			"kind": 4194304,
 			"kindString": "Type alias",
@@ -5021,7 +5021,7 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 3154,
+					"line": 3155,
 					"character": 14
 				}
 			],
@@ -5035,7 +5035,7 @@
 					{
 						"type": "reflection",
 						"declaration": {
-							"id": 884,
+							"id": 885,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -5044,7 +5044,7 @@
 							},
 							"children": [
 								{
-									"id": 885,
+									"id": 886,
 									"name": "snowflake",
 									"kind": 32,
 									"kindString": "Variable",
@@ -5054,7 +5054,7 @@
 									"sources": [
 										{
 											"fileName": "dist/VueExtraDecorators.d.ts",
-											"line": 3155,
+											"line": 3156,
 											"character": 13
 										}
 									],
@@ -5069,14 +5069,14 @@
 									"title": "Variables",
 									"kind": 32,
 									"children": [
-										885
+										886
 									]
 								}
 							],
 							"sources": [
 								{
 									"fileName": "dist/VueExtraDecorators.d.ts",
-									"line": 3154,
+									"line": 3155,
 									"character": 25
 								}
 							]
@@ -5086,7 +5086,7 @@
 			}
 		},
 		{
-			"id": 581,
+			"id": 582,
 			"name": "WrapperFunction",
 			"kind": 4194304,
 			"kindString": "Type alias",
@@ -5095,7 +5095,7 @@
 			},
 			"typeParameter": [
 				{
-					"id": 582,
+					"id": 583,
 					"name": "T",
 					"kind": 131072,
 					"kindString": "Type parameter",
@@ -5108,7 +5108,7 @@
 					}
 				},
 				{
-					"id": 583,
+					"id": 584,
 					"name": "THIS",
 					"kind": 131072,
 					"kindString": "Type parameter",
@@ -5130,7 +5130,7 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 844,
+					"line": 845,
 					"character": 20
 				}
 			],
@@ -5157,7 +5157,7 @@
 							{
 								"type": "reflection",
 								"declaration": {
-									"id": 584,
+									"id": 585,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -5166,7 +5166,7 @@
 									},
 									"children": [
 										{
-											"id": 585,
+											"id": 586,
 											"name": "args",
 											"kind": 32,
 											"kindString": "Variable",
@@ -5176,7 +5176,7 @@
 											"sources": [
 												{
 													"fileName": "dist/VueExtraDecorators.d.ts",
-													"line": 845,
+													"line": 846,
 													"character": 8
 												}
 											],
@@ -5196,7 +5196,7 @@
 											}
 										},
 										{
-											"id": 586,
+											"id": 587,
 											"name": "orig",
 											"kind": 32,
 											"kindString": "Variable",
@@ -5206,7 +5206,7 @@
 											"sources": [
 												{
 													"fileName": "dist/VueExtraDecorators.d.ts",
-													"line": 846,
+													"line": 847,
 													"character": 8
 												}
 											],
@@ -5225,15 +5225,15 @@
 											"title": "Variables",
 											"kind": 32,
 											"children": [
-												585,
-												586
+												586,
+												587
 											]
 										}
 									],
 									"sources": [
 										{
 											"fileName": "dist/VueExtraDecorators.d.ts",
-											"line": 844,
+											"line": 845,
 											"character": 117
 										}
 									]
@@ -5282,7 +5282,7 @@
 			}
 		},
 		{
-			"id": 886,
+			"id": 887,
 			"name": "snowflake",
 			"kind": 32,
 			"kindString": "Variable",
@@ -5297,7 +5297,7 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 3175,
+					"line": 3176,
 					"character": 23
 				}
 			],
@@ -5308,7 +5308,7 @@
 			}
 		},
 		{
-			"id": 739,
+			"id": 740,
 			"name": "BProp",
 			"kind": 64,
 			"kindString": "Function",
@@ -5318,7 +5318,7 @@
 			},
 			"signatures": [
 				{
-					"id": 740,
+					"id": 741,
 					"name": "BProp",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -5341,7 +5341,7 @@
 					},
 					"parameters": [
 						{
-							"id": 741,
+							"id": 742,
 							"name": "opts",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -5354,7 +5354,7 @@
 							},
 							"type": {
 								"type": "reference",
-								"id": 726,
+								"id": 727,
 								"typeArguments": [
 									{
 										"type": "intrinsic",
@@ -5380,13 +5380,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 2058,
+					"line": 2059,
 					"character": 22
 				}
 			]
 		},
 		{
-			"id": 765,
+			"id": 766,
 			"name": "Blocking",
 			"kind": 64,
 			"kindString": "Function",
@@ -5396,7 +5396,7 @@
 			},
 			"signatures": [
 				{
-					"id": 766,
+					"id": 767,
 					"name": "Blocking",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -5419,7 +5419,7 @@
 					},
 					"parameters": [
 						{
-							"id": 767,
+							"id": 768,
 							"name": "id",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -5457,7 +5457,7 @@
 					}
 				},
 				{
-					"id": 768,
+					"id": 769,
 					"name": "Blocking",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -5466,7 +5466,7 @@
 					},
 					"parameters": [
 						{
-							"id": 769,
+							"id": 770,
 							"name": "opts",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -5484,7 +5484,7 @@
 									{
 										"type": "reflection",
 										"declaration": {
-											"id": 770,
+											"id": 771,
 											"name": "__type",
 											"kind": 65536,
 											"kindString": "Type literal",
@@ -5493,7 +5493,7 @@
 											},
 											"children": [
 												{
-													"id": 773,
+													"id": 774,
 													"name": "global",
 													"kind": 32,
 													"kindString": "Variable",
@@ -5504,7 +5504,7 @@
 													"sources": [
 														{
 															"fileName": "dist/VueExtraDecorators.d.ts",
-															"line": 2424,
+															"line": 2425,
 															"character": 10
 														}
 													],
@@ -5527,7 +5527,7 @@
 													}
 												},
 												{
-													"id": 771,
+													"id": 772,
 													"name": "id",
 													"kind": 32,
 													"kindString": "Variable",
@@ -5538,7 +5538,7 @@
 													"sources": [
 														{
 															"fileName": "dist/VueExtraDecorators.d.ts",
-															"line": 2422,
+															"line": 2423,
 															"character": 6
 														}
 													],
@@ -5557,7 +5557,7 @@
 													}
 												},
 												{
-													"id": 772,
+													"id": 773,
 													"name": "parallel",
 													"kind": 32,
 													"kindString": "Variable",
@@ -5568,7 +5568,7 @@
 													"sources": [
 														{
 															"fileName": "dist/VueExtraDecorators.d.ts",
-															"line": 2423,
+															"line": 2424,
 															"character": 12
 														}
 													],
@@ -5596,9 +5596,9 @@
 													"title": "Variables",
 													"kind": 32,
 													"children": [
-														773,
-														771,
-														772
+														774,
+														772,
+														773
 													]
 												}
 											]
@@ -5623,18 +5623,18 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 2386,
+					"line": 2387,
 					"character": 25
 				},
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 2421,
+					"line": 2422,
 					"character": 25
 				}
 			]
 		},
 		{
-			"id": 774,
+			"id": 775,
 			"name": "BusyState",
 			"kind": 64,
 			"kindString": "Function",
@@ -5644,7 +5644,7 @@
 			},
 			"signatures": [
 				{
-					"id": 775,
+					"id": 776,
 					"name": "BusyState",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -5667,7 +5667,7 @@
 					},
 					"parameters": [
 						{
-							"id": 776,
+							"id": 777,
 							"name": "id",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -5699,7 +5699,7 @@
 					}
 				},
 				{
-					"id": 777,
+					"id": 778,
 					"name": "BusyState",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -5708,7 +5708,7 @@
 					},
 					"parameters": [
 						{
-							"id": 778,
+							"id": 779,
 							"name": "opts",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -5726,7 +5726,7 @@
 									{
 										"type": "reflection",
 										"declaration": {
-											"id": 779,
+											"id": 780,
 											"name": "__type",
 											"kind": 65536,
 											"kindString": "Type literal",
@@ -5735,7 +5735,7 @@
 											},
 											"children": [
 												{
-													"id": 780,
+													"id": 781,
 													"name": "global",
 													"kind": 32,
 													"kindString": "Variable",
@@ -5746,7 +5746,7 @@
 													"sources": [
 														{
 															"fileName": "dist/VueExtraDecorators.d.ts",
-															"line": 2589,
+															"line": 2590,
 															"character": 10
 														}
 													],
@@ -5765,7 +5765,7 @@
 													}
 												},
 												{
-													"id": 781,
+													"id": 782,
 													"name": "id",
 													"kind": 32,
 													"kindString": "Variable",
@@ -5776,7 +5776,7 @@
 													"sources": [
 														{
 															"fileName": "dist/VueExtraDecorators.d.ts",
-															"line": 2590,
+															"line": 2591,
 															"character": 6
 														}
 													],
@@ -5800,8 +5800,8 @@
 													"title": "Variables",
 													"kind": 32,
 													"children": [
-														780,
-														781
+														781,
+														782
 													]
 												}
 											]
@@ -5820,18 +5820,18 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 2559,
+					"line": 2560,
 					"character": 26
 				},
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 2588,
+					"line": 2589,
 					"character": 26
 				}
 			]
 		},
 		{
-			"id": 609,
+			"id": 610,
 			"name": "Classes",
 			"kind": 64,
 			"kindString": "Function",
@@ -5841,7 +5841,7 @@
 			},
 			"signatures": [
 				{
-					"id": 610,
+					"id": 611,
 					"name": "Classes",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -5864,7 +5864,7 @@
 					},
 					"parameters": [
 						{
-							"id": 611,
+							"id": 612,
 							"name": "prefix",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -5890,7 +5890,7 @@
 							}
 						},
 						{
-							"id": 612,
+							"id": 613,
 							"name": "infix",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -5916,7 +5916,7 @@
 							}
 						},
 						{
-							"id": 613,
+							"id": 614,
 							"name": "converter",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -5973,7 +5973,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 614,
+							"id": 615,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -5982,7 +5982,7 @@
 							},
 							"signatures": [
 								{
-									"id": 615,
+									"id": 616,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -5991,7 +5991,7 @@
 									},
 									"typeParameter": [
 										{
-											"id": 616,
+											"id": 617,
 											"name": "T",
 											"kind": 131072,
 											"kindString": "Type parameter",
@@ -6002,7 +6002,7 @@
 									],
 									"parameters": [
 										{
-											"id": 617,
+											"id": 618,
 											"name": "target",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -6015,7 +6015,7 @@
 											}
 										},
 										{
-											"id": 618,
+											"id": 619,
 											"name": "key",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -6028,7 +6028,7 @@
 											}
 										},
 										{
-											"id": 619,
+											"id": 620,
 											"name": "desc",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -6056,7 +6056,7 @@
 							"sources": [
 								{
 									"fileName": "dist/VueExtraDecorators.d.ts",
-									"line": 924,
+									"line": 925,
 									"character": 127
 								}
 							]
@@ -6067,13 +6067,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 924,
+					"line": 925,
 					"character": 24
 				}
 			]
 		},
 		{
-			"id": 628,
+			"id": 629,
 			"name": "ClassesCamel",
 			"kind": 64,
 			"kindString": "Function",
@@ -6083,7 +6083,7 @@
 			},
 			"signatures": [
 				{
-					"id": 629,
+					"id": 630,
 					"name": "ClassesCamel",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -6106,7 +6106,7 @@
 					},
 					"parameters": [
 						{
-							"id": 630,
+							"id": 631,
 							"name": "prefix",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -6132,7 +6132,7 @@
 							}
 						},
 						{
-							"id": 631,
+							"id": 632,
 							"name": "infix",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -6165,7 +6165,7 @@
 								"type": "query",
 								"queryType": {
 									"type": "reference",
-									"id": 609,
+									"id": 610,
 									"name": "Classes"
 								}
 							}
@@ -6177,13 +6177,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 980,
+					"line": 981,
 					"character": 29
 				}
 			]
 		},
 		{
-			"id": 632,
+			"id": 633,
 			"name": "ClassesKebap",
 			"kind": 64,
 			"kindString": "Function",
@@ -6193,7 +6193,7 @@
 			},
 			"signatures": [
 				{
-					"id": 633,
+					"id": 634,
 					"name": "ClassesKebap",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -6216,7 +6216,7 @@
 					},
 					"parameters": [
 						{
-							"id": 634,
+							"id": 635,
 							"name": "prefix",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -6242,7 +6242,7 @@
 							}
 						},
 						{
-							"id": 635,
+							"id": 636,
 							"name": "infix",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -6275,7 +6275,7 @@
 								"type": "query",
 								"queryType": {
 									"type": "reference",
-									"id": 609,
+									"id": 610,
 									"name": "Classes"
 								}
 							}
@@ -6287,13 +6287,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 1020,
+					"line": 1021,
 					"character": 29
 				}
 			]
 		},
 		{
-			"id": 636,
+			"id": 637,
 			"name": "ClassesPascal",
 			"kind": 64,
 			"kindString": "Function",
@@ -6303,7 +6303,7 @@
 			},
 			"signatures": [
 				{
-					"id": 637,
+					"id": 638,
 					"name": "ClassesPascal",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -6326,7 +6326,7 @@
 					},
 					"parameters": [
 						{
-							"id": 638,
+							"id": 639,
 							"name": "prefix",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -6352,7 +6352,7 @@
 							}
 						},
 						{
-							"id": 639,
+							"id": 640,
 							"name": "infix",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -6385,7 +6385,7 @@
 								"type": "query",
 								"queryType": {
 									"type": "reference",
-									"id": 609,
+									"id": 610,
 									"name": "Classes"
 								}
 							}
@@ -6397,13 +6397,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 1060,
+					"line": 1061,
 					"character": 30
 				}
 			]
 		},
 		{
-			"id": 640,
+			"id": 641,
 			"name": "ClassesSnake",
 			"kind": 64,
 			"kindString": "Function",
@@ -6413,7 +6413,7 @@
 			},
 			"signatures": [
 				{
-					"id": 641,
+					"id": 642,
 					"name": "ClassesSnake",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -6436,7 +6436,7 @@
 					},
 					"parameters": [
 						{
-							"id": 642,
+							"id": 643,
 							"name": "prefix",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -6462,7 +6462,7 @@
 							}
 						},
 						{
-							"id": 643,
+							"id": 644,
 							"name": "infix",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -6495,7 +6495,7 @@
 								"type": "query",
 								"queryType": {
 									"type": "reference",
-									"id": 609,
+									"id": 610,
 									"name": "Classes"
 								}
 							}
@@ -6507,13 +6507,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 1100,
+					"line": 1101,
 					"character": 29
 				}
 			]
 		},
 		{
-			"id": 742,
+			"id": 743,
 			"name": "DProp",
 			"kind": 64,
 			"kindString": "Function",
@@ -6523,7 +6523,7 @@
 			},
 			"signatures": [
 				{
-					"id": 743,
+					"id": 744,
 					"name": "DProp",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -6546,7 +6546,7 @@
 					},
 					"parameters": [
 						{
-							"id": 744,
+							"id": 745,
 							"name": "opts",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -6559,7 +6559,7 @@
 							},
 							"type": {
 								"type": "reference",
-								"id": 726,
+								"id": 727,
 								"typeArguments": [
 									{
 										"type": "reference",
@@ -6585,13 +6585,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 2110,
+					"line": 2111,
 					"character": 22
 				}
 			]
 		},
 		{
-			"id": 716,
+			"id": 717,
 			"name": "DWatch",
 			"kind": 64,
 			"kindString": "Function",
@@ -6601,7 +6601,7 @@
 			},
 			"signatures": [
 				{
-					"id": 717,
+					"id": 718,
 					"name": "DWatch",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -6624,7 +6624,7 @@
 					},
 					"parameters": [
 						{
-							"id": 718,
+							"id": 719,
 							"name": "property",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -6655,13 +6655,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 1705,
+					"line": 1706,
 					"character": 23
 				}
 			]
 		},
 		{
-			"id": 722,
+			"id": 723,
 			"name": "Data",
 			"kind": 64,
 			"kindString": "Function",
@@ -6671,7 +6671,7 @@
 			},
 			"signatures": [
 				{
-					"id": 723,
+					"id": 724,
 					"name": "Data",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -6694,7 +6694,7 @@
 					},
 					"typeParameter": [
 						{
-							"id": 724,
+							"id": 725,
 							"name": "T",
 							"kind": 131072,
 							"kindString": "Type parameter",
@@ -6705,7 +6705,7 @@
 					],
 					"parameters": [
 						{
-							"id": 725,
+							"id": 726,
 							"name": "opts",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -6744,13 +6744,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 1812,
+					"line": 1813,
 					"character": 21
 				}
 			]
 		},
 		{
-			"id": 802,
+			"id": 803,
 			"name": "Debounce",
 			"kind": 64,
 			"kindString": "Function",
@@ -6760,7 +6760,7 @@
 			},
 			"signatures": [
 				{
-					"id": 803,
+					"id": 804,
 					"name": "Debounce",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -6783,7 +6783,7 @@
 					},
 					"parameters": [
 						{
-							"id": 804,
+							"id": 805,
 							"name": "ms",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -6812,7 +6812,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 805,
+							"id": 806,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -6821,7 +6821,7 @@
 							},
 							"signatures": [
 								{
-									"id": 806,
+									"id": 807,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -6830,7 +6830,7 @@
 									},
 									"parameters": [
 										{
-											"id": 807,
+											"id": 808,
 											"name": "target",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -6843,7 +6843,7 @@
 											}
 										},
 										{
-											"id": 808,
+											"id": 809,
 											"name": "key",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -6856,7 +6856,7 @@
 											}
 										},
 										{
-											"id": 809,
+											"id": 810,
 											"name": "desc",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -6868,24 +6868,7 @@
 												"typeArguments": [
 													{
 														"type": "reference",
-														"typeArguments": [
-															{
-																"type": "intrinsic",
-																"name": "any"
-															},
-															{
-																"type": "array",
-																"elementType": {
-																	"type": "intrinsic",
-																	"name": "any"
-																}
-															},
-															{
-																"type": "intrinsic",
-																"name": "any"
-															}
-														],
-														"name": "TFunction"
+														"name": "AnyFunction"
 													}
 												],
 												"name": "TypedPropertyDescriptor"
@@ -6924,7 +6907,7 @@
 							"sources": [
 								{
 									"fileName": "dist/VueExtraDecorators.d.ts",
-									"line": 2895,
+									"line": 2896,
 									"character": 39
 								}
 							]
@@ -6935,13 +6918,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 2895,
+					"line": 2896,
 					"character": 25
 				}
 			]
 		},
 		{
-			"id": 794,
+			"id": 795,
 			"name": "Debuffer",
 			"kind": 64,
 			"kindString": "Function",
@@ -6951,7 +6934,7 @@
 			},
 			"signatures": [
 				{
-					"id": 795,
+					"id": 796,
 					"name": "Debuffer",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -6974,7 +6957,7 @@
 					},
 					"parameters": [
 						{
-							"id": 796,
+							"id": 797,
 							"name": "ms",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -7003,7 +6986,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 797,
+							"id": 798,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -7012,7 +6995,7 @@
 							},
 							"signatures": [
 								{
-									"id": 798,
+									"id": 799,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -7021,7 +7004,7 @@
 									},
 									"parameters": [
 										{
-											"id": 799,
+											"id": 800,
 											"name": "target",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -7034,7 +7017,7 @@
 											}
 										},
 										{
-											"id": 800,
+											"id": 801,
 											"name": "key",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -7047,7 +7030,7 @@
 											}
 										},
 										{
-											"id": 801,
+											"id": 802,
 											"name": "desc",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -7059,24 +7042,7 @@
 												"typeArguments": [
 													{
 														"type": "reference",
-														"typeArguments": [
-															{
-																"type": "intrinsic",
-																"name": "any"
-															},
-															{
-																"type": "array",
-																"elementType": {
-																	"type": "intrinsic",
-																	"name": "any"
-																}
-															},
-															{
-																"type": "intrinsic",
-																"name": "any"
-															}
-														],
-														"name": "TFunction"
+														"name": "AnyFunction"
 													}
 												],
 												"name": "TypedPropertyDescriptor"
@@ -7115,7 +7081,7 @@
 							"sources": [
 								{
 									"fileName": "dist/VueExtraDecorators.d.ts",
-									"line": 2861,
+									"line": 2862,
 									"character": 39
 								}
 							]
@@ -7126,13 +7092,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 2861,
+					"line": 2862,
 					"character": 25
 				}
 			]
 		},
 		{
-			"id": 810,
+			"id": 811,
 			"name": "Delay",
 			"kind": 64,
 			"kindString": "Function",
@@ -7142,7 +7108,7 @@
 			},
 			"signatures": [
 				{
-					"id": 811,
+					"id": 812,
 					"name": "Delay",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -7165,7 +7131,7 @@
 					},
 					"parameters": [
 						{
-							"id": 812,
+							"id": 813,
 							"name": "ms",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -7194,7 +7160,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 813,
+							"id": 814,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -7203,7 +7169,7 @@
 							},
 							"signatures": [
 								{
-									"id": 814,
+									"id": 815,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -7212,7 +7178,7 @@
 									},
 									"parameters": [
 										{
-											"id": 815,
+											"id": 816,
 											"name": "target",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -7225,7 +7191,7 @@
 											}
 										},
 										{
-											"id": 816,
+											"id": 817,
 											"name": "key",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -7238,7 +7204,7 @@
 											}
 										},
 										{
-											"id": 817,
+											"id": 818,
 											"name": "desc",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -7250,24 +7216,7 @@
 												"typeArguments": [
 													{
 														"type": "reference",
-														"typeArguments": [
-															{
-																"type": "intrinsic",
-																"name": "any"
-															},
-															{
-																"type": "array",
-																"elementType": {
-																	"type": "intrinsic",
-																	"name": "any"
-																}
-															},
-															{
-																"type": "intrinsic",
-																"name": "any"
-															}
-														],
-														"name": "TFunction"
+														"name": "AnyFunction"
 													}
 												],
 												"name": "TypedPropertyDescriptor"
@@ -7283,7 +7232,7 @@
 							"sources": [
 								{
 									"fileName": "dist/VueExtraDecorators.d.ts",
-									"line": 2925,
+									"line": 2926,
 									"character": 36
 								}
 							]
@@ -7294,13 +7243,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 2925,
+					"line": 2926,
 					"character": 22
 				}
 			]
 		},
 		{
-			"id": 652,
+			"id": 653,
 			"name": "DocumentEl",
 			"kind": 64,
 			"kindString": "Function",
@@ -7310,7 +7259,7 @@
 			},
 			"signatures": [
 				{
-					"id": 653,
+					"id": 654,
 					"name": "DocumentEl",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -7333,7 +7282,7 @@
 					},
 					"parameters": [
 						{
-							"id": 654,
+							"id": 655,
 							"name": "selector",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -7359,7 +7308,7 @@
 							}
 						},
 						{
-							"id": 655,
+							"id": 656,
 							"name": "multiple",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -7425,13 +7374,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 1135,
+					"line": 1136,
 					"character": 27
 				}
 			]
 		},
 		{
-			"id": 656,
+			"id": 657,
 			"name": "El",
 			"kind": 64,
 			"kindString": "Function",
@@ -7441,7 +7390,7 @@
 			},
 			"signatures": [
 				{
-					"id": 657,
+					"id": 658,
 					"name": "El",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -7464,7 +7413,7 @@
 					},
 					"parameters": [
 						{
-							"id": 658,
+							"id": 659,
 							"name": "selector",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -7490,7 +7439,7 @@
 							}
 						},
 						{
-							"id": 659,
+							"id": 660,
 							"name": "multiple",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -7556,13 +7505,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 1158,
+					"line": 1159,
 					"character": 19
 				}
 			]
 		},
 		{
-			"id": 664,
+			"id": 665,
 			"name": "Emit",
 			"kind": 64,
 			"kindString": "Function",
@@ -7572,7 +7521,7 @@
 			},
 			"signatures": [
 				{
-					"id": 665,
+					"id": 666,
 					"name": "Emit",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -7595,7 +7544,7 @@
 					},
 					"parameters": [
 						{
-							"id": 666,
+							"id": 667,
 							"name": "event",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -7624,7 +7573,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 667,
+							"id": 668,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -7633,7 +7582,7 @@
 							},
 							"signatures": [
 								{
-									"id": 668,
+									"id": 669,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -7642,7 +7591,7 @@
 									},
 									"parameters": [
 										{
-											"id": 669,
+											"id": 670,
 											"name": "target",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -7655,7 +7604,7 @@
 											}
 										},
 										{
-											"id": 670,
+											"id": 671,
 											"name": "key",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -7668,7 +7617,7 @@
 											}
 										},
 										{
-											"id": 671,
+											"id": 672,
 											"name": "desc",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -7682,23 +7631,12 @@
 														"type": "reference",
 														"typeArguments": [
 															{
-																"type": "intrinsic",
-																"name": "any"
-															},
-															{
-																"type": "array",
-																"elementType": {
-																	"type": "intrinsic",
-																	"name": "unknown"
-																}
-															},
-															{
 																"type": "reference",
 																"id": 111,
 																"name": "Vue"
 															}
 														],
-														"name": "TFunction"
+														"name": "FunctionWithContext"
 													}
 												],
 												"name": "TypedPropertyDescriptor"
@@ -7714,7 +7652,7 @@
 							"sources": [
 								{
 									"fileName": "dist/VueExtraDecorators.d.ts",
-									"line": 1211,
+									"line": 1212,
 									"character": 38
 								}
 							]
@@ -7725,13 +7663,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 1211,
+					"line": 1212,
 					"character": 21
 				}
 			]
 		},
 		{
-			"id": 672,
+			"id": 673,
 			"name": "EmitError",
 			"kind": 64,
 			"kindString": "Function",
@@ -7741,7 +7679,7 @@
 			},
 			"signatures": [
 				{
-					"id": 673,
+					"id": 674,
 					"name": "EmitError",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -7764,7 +7702,7 @@
 					},
 					"parameters": [
 						{
-							"id": 674,
+							"id": 675,
 							"name": "event",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -7790,7 +7728,7 @@
 							}
 						},
 						{
-							"id": 675,
+							"id": 676,
 							"name": "rethrow",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -7823,7 +7761,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 676,
+							"id": 677,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -7832,7 +7770,7 @@
 							},
 							"signatures": [
 								{
-									"id": 677,
+									"id": 678,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -7841,7 +7779,7 @@
 									},
 									"parameters": [
 										{
-											"id": 678,
+											"id": 679,
 											"name": "target",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -7854,7 +7792,7 @@
 											}
 										},
 										{
-											"id": 679,
+											"id": 680,
 											"name": "key",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -7867,7 +7805,7 @@
 											}
 										},
 										{
-											"id": 680,
+											"id": 681,
 											"name": "desc",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -7881,23 +7819,12 @@
 														"type": "reference",
 														"typeArguments": [
 															{
-																"type": "intrinsic",
-																"name": "any"
-															},
-															{
-																"type": "array",
-																"elementType": {
-																	"type": "intrinsic",
-																	"name": "unknown"
-																}
-															},
-															{
 																"type": "reference",
 																"id": 111,
 																"name": "Vue"
 															}
 														],
-														"name": "TFunction"
+														"name": "FunctionWithContext"
 													}
 												],
 												"name": "TypedPropertyDescriptor"
@@ -7913,7 +7840,7 @@
 							"sources": [
 								{
 									"fileName": "dist/VueExtraDecorators.d.ts",
-									"line": 1239,
+									"line": 1240,
 									"character": 62
 								}
 							]
@@ -7924,13 +7851,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 1239,
+					"line": 1240,
 					"character": 26
 				}
 			]
 		},
 		{
-			"id": 681,
+			"id": 682,
 			"name": "EmitOnStatusCode",
 			"kind": 64,
 			"kindString": "Function",
@@ -7940,7 +7867,7 @@
 			},
 			"signatures": [
 				{
-					"id": 682,
+					"id": 683,
 					"name": "EmitOnStatusCode",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -7963,7 +7890,7 @@
 					},
 					"parameters": [
 						{
-							"id": 683,
+							"id": 684,
 							"name": "code",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -7989,7 +7916,7 @@
 							}
 						},
 						{
-							"id": 684,
+							"id": 685,
 							"name": "event",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -8015,7 +7942,7 @@
 							}
 						},
 						{
-							"id": 685,
+							"id": 686,
 							"name": "rethrow",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -8064,7 +7991,7 @@
 					}
 				},
 				{
-					"id": 686,
+					"id": 687,
 					"name": "EmitOnStatusCode",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -8073,7 +8000,7 @@
 					},
 					"parameters": [
 						{
-							"id": 687,
+							"id": 688,
 							"name": "codes",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -8090,7 +8017,7 @@
 							}
 						},
 						{
-							"id": 688,
+							"id": 689,
 							"name": "event",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -8113,7 +8040,7 @@
 							}
 						},
 						{
-							"id": 689,
+							"id": 690,
 							"name": "rethrow",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -8162,18 +8089,18 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 1269,
+					"line": 1270,
 					"character": 33
 				},
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 1298,
+					"line": 1299,
 					"character": 33
 				}
 			]
 		},
 		{
-			"id": 818,
+			"id": 819,
 			"name": "Every",
 			"kind": 64,
 			"kindString": "Function",
@@ -8183,7 +8110,7 @@
 			},
 			"signatures": [
 				{
-					"id": 819,
+					"id": 820,
 					"name": "Every",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -8206,7 +8133,7 @@
 					},
 					"parameters": [
 						{
-							"id": 820,
+							"id": 821,
 							"name": "ms",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -8235,7 +8162,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 821,
+							"id": 822,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -8244,7 +8171,7 @@
 							},
 							"signatures": [
 								{
-									"id": 822,
+									"id": 823,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -8253,7 +8180,7 @@
 									},
 									"parameters": [
 										{
-											"id": 823,
+											"id": 824,
 											"name": "target",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -8266,7 +8193,7 @@
 											}
 										},
 										{
-											"id": 824,
+											"id": 825,
 											"name": "key",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -8279,7 +8206,7 @@
 											}
 										},
 										{
-											"id": 825,
+											"id": 826,
 											"name": "desc",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -8291,24 +8218,7 @@
 												"typeArguments": [
 													{
 														"type": "reference",
-														"typeArguments": [
-															{
-																"type": "intrinsic",
-																"name": "any"
-															},
-															{
-																"type": "array",
-																"elementType": {
-																	"type": "intrinsic",
-																	"name": "any"
-																}
-															},
-															{
-																"type": "intrinsic",
-																"name": "any"
-															}
-														],
-														"name": "TFunction"
+														"name": "AnyFunction"
 													}
 												],
 												"name": "TypedPropertyDescriptor"
@@ -8324,7 +8234,7 @@
 							"sources": [
 								{
 									"fileName": "dist/VueExtraDecorators.d.ts",
-									"line": 2956,
+									"line": 2957,
 									"character": 36
 								}
 							]
@@ -8335,13 +8245,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 2956,
+					"line": 2957,
 					"character": 22
 				}
 			]
 		},
 		{
-			"id": 826,
+			"id": 827,
 			"name": "EveryFrame",
 			"kind": 64,
 			"kindString": "Function",
@@ -8351,7 +8261,7 @@
 			},
 			"signatures": [
 				{
-					"id": 827,
+					"id": 828,
 					"name": "EveryFrame",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -8375,7 +8285,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 828,
+							"id": 829,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -8384,7 +8294,7 @@
 							},
 							"signatures": [
 								{
-									"id": 829,
+									"id": 830,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -8393,7 +8303,7 @@
 									},
 									"parameters": [
 										{
-											"id": 830,
+											"id": 831,
 											"name": "target",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -8406,7 +8316,7 @@
 											}
 										},
 										{
-											"id": 831,
+											"id": 832,
 											"name": "key",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -8419,7 +8329,7 @@
 											}
 										},
 										{
-											"id": 832,
+											"id": 833,
 											"name": "desc",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -8431,24 +8341,7 @@
 												"typeArguments": [
 													{
 														"type": "reference",
-														"typeArguments": [
-															{
-																"type": "intrinsic",
-																"name": "any"
-															},
-															{
-																"type": "array",
-																"elementType": {
-																	"type": "intrinsic",
-																	"name": "any"
-																}
-															},
-															{
-																"type": "intrinsic",
-																"name": "any"
-															}
-														],
-														"name": "TFunction"
+														"name": "AnyFunction"
 													}
 												],
 												"name": "TypedPropertyDescriptor"
@@ -8464,7 +8357,7 @@
 							"sources": [
 								{
 									"fileName": "dist/VueExtraDecorators.d.ts",
-									"line": 2985,
+									"line": 2986,
 									"character": 30
 								}
 							]
@@ -8475,13 +8368,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 2985,
+					"line": 2986,
 					"character": 27
 				}
 			]
 		},
 		{
-			"id": 719,
+			"id": 720,
 			"name": "IDWatch",
 			"kind": 64,
 			"kindString": "Function",
@@ -8491,7 +8384,7 @@
 			},
 			"signatures": [
 				{
-					"id": 720,
+					"id": 721,
 					"name": "IDWatch",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -8514,7 +8407,7 @@
 					},
 					"parameters": [
 						{
-							"id": 721,
+							"id": 722,
 							"name": "property",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -8545,13 +8438,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 1743,
+					"line": 1744,
 					"character": 24
 				}
 			]
 		},
 		{
-			"id": 713,
+			"id": 714,
 			"name": "IWatch",
 			"kind": 64,
 			"kindString": "Function",
@@ -8561,7 +8454,7 @@
 			},
 			"signatures": [
 				{
-					"id": 714,
+					"id": 715,
 					"name": "IWatch",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -8584,7 +8477,7 @@
 					},
 					"parameters": [
 						{
-							"id": 715,
+							"id": 716,
 							"name": "property",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -8615,13 +8508,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 1669,
+					"line": 1670,
 					"character": 23
 				}
 			]
 		},
 		{
-			"id": 475,
+			"id": 476,
 			"name": "If",
 			"kind": 64,
 			"kindString": "Function",
@@ -8631,7 +8524,7 @@
 			},
 			"signatures": [
 				{
-					"id": 476,
+					"id": 477,
 					"name": "If",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -8654,7 +8547,7 @@
 					},
 					"parameters": [
 						{
-							"id": 477,
+							"id": 478,
 							"name": "fns",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -8683,7 +8576,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 478,
+							"id": 479,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -8692,7 +8585,7 @@
 							},
 							"signatures": [
 								{
-									"id": 479,
+									"id": 480,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -8701,7 +8594,7 @@
 									},
 									"parameters": [
 										{
-											"id": 480,
+											"id": 481,
 											"name": "target",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -8714,7 +8607,7 @@
 											}
 										},
 										{
-											"id": 481,
+											"id": 482,
 											"name": "key",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -8727,7 +8620,7 @@
 											}
 										},
 										{
-											"id": 482,
+											"id": 483,
 											"name": "desc",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -8739,23 +8632,6 @@
 												"typeArguments": [
 													{
 														"type": "reference",
-														"typeArguments": [
-															{
-																"type": "intrinsic",
-																"name": "any"
-															},
-															{
-																"type": "array",
-																"elementType": {
-																	"type": "intrinsic",
-																	"name": "any"
-																}
-															},
-															{
-																"type": "intrinsic",
-																"name": "any"
-															}
-														],
 														"name": "TFunction"
 													}
 												],
@@ -8772,7 +8648,7 @@
 							"sources": [
 								{
 									"fileName": "dist/VueExtraDecorators.d.ts",
-									"line": 667,
+									"line": 668,
 									"character": 50
 								}
 							]
@@ -8783,13 +8659,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 667,
+					"line": 668,
 					"character": 19
 				}
 			]
 		},
 		{
-			"id": 483,
+			"id": 484,
 			"name": "IfNot",
 			"kind": 64,
 			"kindString": "Function",
@@ -8799,7 +8675,7 @@
 			},
 			"signatures": [
 				{
-					"id": 484,
+					"id": 485,
 					"name": "IfNot",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -8822,7 +8698,7 @@
 					},
 					"parameters": [
 						{
-							"id": 485,
+							"id": 486,
 							"name": "fns",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -8851,7 +8727,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 486,
+							"id": 487,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -8860,7 +8736,7 @@
 							},
 							"signatures": [
 								{
-									"id": 487,
+									"id": 488,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -8869,7 +8745,7 @@
 									},
 									"parameters": [
 										{
-											"id": 488,
+											"id": 489,
 											"name": "target",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -8882,7 +8758,7 @@
 											}
 										},
 										{
-											"id": 489,
+											"id": 490,
 											"name": "key",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -8895,7 +8771,7 @@
 											}
 										},
 										{
-											"id": 490,
+											"id": 491,
 											"name": "desc",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -8907,23 +8783,6 @@
 												"typeArguments": [
 													{
 														"type": "reference",
-														"typeArguments": [
-															{
-																"type": "intrinsic",
-																"name": "any"
-															},
-															{
-																"type": "array",
-																"elementType": {
-																	"type": "intrinsic",
-																	"name": "any"
-																}
-															},
-															{
-																"type": "intrinsic",
-																"name": "any"
-															}
-														],
 														"name": "TFunction"
 													}
 												],
@@ -8940,7 +8799,7 @@
 							"sources": [
 								{
 									"fileName": "dist/VueExtraDecorators.d.ts",
-									"line": 685,
+									"line": 686,
 									"character": 53
 								}
 							]
@@ -8951,13 +8810,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 685,
+					"line": 686,
 					"character": 22
 				}
 			]
 		},
 		{
-			"id": 833,
+			"id": 834,
 			"name": "LimitToFrames",
 			"kind": 64,
 			"kindString": "Function",
@@ -8967,7 +8826,7 @@
 			},
 			"signatures": [
 				{
-					"id": 834,
+					"id": 835,
 					"name": "LimitToFrames",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -8991,7 +8850,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 835,
+							"id": 836,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -9000,7 +8859,7 @@
 							},
 							"signatures": [
 								{
-									"id": 836,
+									"id": 837,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -9009,7 +8868,7 @@
 									},
 									"parameters": [
 										{
-											"id": 837,
+											"id": 838,
 											"name": "target",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -9022,7 +8881,7 @@
 											}
 										},
 										{
-											"id": 838,
+											"id": 839,
 											"name": "propertyKey",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -9035,7 +8894,7 @@
 											}
 										},
 										{
-											"id": 839,
+											"id": 840,
 											"name": "desc",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -9047,24 +8906,7 @@
 												"typeArguments": [
 													{
 														"type": "reference",
-														"typeArguments": [
-															{
-																"type": "intrinsic",
-																"name": "any"
-															},
-															{
-																"type": "array",
-																"elementType": {
-																	"type": "intrinsic",
-																	"name": "any"
-																}
-															},
-															{
-																"type": "intrinsic",
-																"name": "any"
-															}
-														],
-														"name": "TFunction"
+														"name": "AnyFunction"
 													}
 												],
 												"name": "TypedPropertyDescriptor"
@@ -9103,7 +8945,7 @@
 							"sources": [
 								{
 									"fileName": "dist/VueExtraDecorators.d.ts",
-									"line": 3015,
+									"line": 3016,
 									"character": 33
 								}
 							]
@@ -9114,13 +8956,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 3015,
+					"line": 3016,
 					"character": 30
 				}
 			]
 		},
 		{
-			"id": 736,
+			"id": 737,
 			"name": "NProp",
 			"kind": 64,
 			"kindString": "Function",
@@ -9130,7 +8972,7 @@
 			},
 			"signatures": [
 				{
-					"id": 737,
+					"id": 738,
 					"name": "NProp",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -9153,7 +8995,7 @@
 					},
 					"parameters": [
 						{
-							"id": 738,
+							"id": 739,
 							"name": "opts",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -9166,7 +9008,7 @@
 							},
 							"type": {
 								"type": "reference",
-								"id": 726,
+								"id": 727,
 								"typeArguments": [
 									{
 										"type": "intrinsic",
@@ -9192,13 +9034,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 2006,
+					"line": 2007,
 					"character": 22
 				}
 			]
 		},
 		{
-			"id": 840,
+			"id": 841,
 			"name": "NextFrame",
 			"kind": 64,
 			"kindString": "Function",
@@ -9208,7 +9050,7 @@
 			},
 			"signatures": [
 				{
-					"id": 841,
+					"id": 842,
 					"name": "NextFrame",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -9232,7 +9074,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 842,
+							"id": 843,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -9241,7 +9083,7 @@
 							},
 							"signatures": [
 								{
-									"id": 843,
+									"id": 844,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -9250,7 +9092,7 @@
 									},
 									"parameters": [
 										{
-											"id": 844,
+											"id": 845,
 											"name": "target",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -9263,7 +9105,7 @@
 											}
 										},
 										{
-											"id": 845,
+											"id": 846,
 											"name": "key",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -9276,7 +9118,7 @@
 											}
 										},
 										{
-											"id": 846,
+											"id": 847,
 											"name": "desc",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -9288,24 +9130,7 @@
 												"typeArguments": [
 													{
 														"type": "reference",
-														"typeArguments": [
-															{
-																"type": "intrinsic",
-																"name": "any"
-															},
-															{
-																"type": "array",
-																"elementType": {
-																	"type": "intrinsic",
-																	"name": "any"
-																}
-															},
-															{
-																"type": "intrinsic",
-																"name": "any"
-															}
-														],
-														"name": "TFunction"
+														"name": "AnyFunction"
 													}
 												],
 												"name": "TypedPropertyDescriptor"
@@ -9321,7 +9146,7 @@
 							"sources": [
 								{
 									"fileName": "dist/VueExtraDecorators.d.ts",
-									"line": 3043,
+									"line": 3044,
 									"character": 29
 								}
 							]
@@ -9332,13 +9157,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 3043,
+					"line": 3044,
 					"character": 26
 				}
 			]
 		},
 		{
-			"id": 847,
+			"id": 848,
 			"name": "NextMs",
 			"kind": 64,
 			"kindString": "Function",
@@ -9348,7 +9173,7 @@
 			},
 			"signatures": [
 				{
-					"id": 848,
+					"id": 849,
 					"name": "NextMs",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -9372,7 +9197,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 849,
+							"id": 850,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -9381,7 +9206,7 @@
 							},
 							"signatures": [
 								{
-									"id": 850,
+									"id": 851,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -9390,7 +9215,7 @@
 									},
 									"parameters": [
 										{
-											"id": 851,
+											"id": 852,
 											"name": "target",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -9403,7 +9228,7 @@
 											}
 										},
 										{
-											"id": 852,
+											"id": 853,
 											"name": "key",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -9416,7 +9241,7 @@
 											}
 										},
 										{
-											"id": 853,
+											"id": 854,
 											"name": "desc",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -9428,24 +9253,7 @@
 												"typeArguments": [
 													{
 														"type": "reference",
-														"typeArguments": [
-															{
-																"type": "intrinsic",
-																"name": "any"
-															},
-															{
-																"type": "array",
-																"elementType": {
-																	"type": "intrinsic",
-																	"name": "any"
-																}
-															},
-															{
-																"type": "intrinsic",
-																"name": "any"
-															}
-														],
-														"name": "TFunction"
+														"name": "AnyFunction"
 													}
 												],
 												"name": "TypedPropertyDescriptor"
@@ -9461,7 +9269,7 @@
 							"sources": [
 								{
 									"fileName": "dist/VueExtraDecorators.d.ts",
-									"line": 3071,
+									"line": 3072,
 									"character": 26
 								}
 							]
@@ -9472,13 +9280,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 3071,
+					"line": 3072,
 					"character": 23
 				}
 			]
 		},
 		{
-			"id": 854,
+			"id": 855,
 			"name": "NextTick",
 			"kind": 64,
 			"kindString": "Function",
@@ -9488,7 +9296,7 @@
 			},
 			"signatures": [
 				{
-					"id": 855,
+					"id": 856,
 					"name": "NextTick",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -9512,7 +9320,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 856,
+							"id": 857,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -9521,7 +9329,7 @@
 							},
 							"signatures": [
 								{
-									"id": 857,
+									"id": 858,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -9530,7 +9338,7 @@
 									},
 									"parameters": [
 										{
-											"id": 858,
+											"id": 859,
 											"name": "target",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -9543,7 +9351,7 @@
 											}
 										},
 										{
-											"id": 859,
+											"id": 860,
 											"name": "key",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -9556,7 +9364,7 @@
 											}
 										},
 										{
-											"id": 860,
+											"id": 861,
 											"name": "desc",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -9568,24 +9376,7 @@
 												"typeArguments": [
 													{
 														"type": "reference",
-														"typeArguments": [
-															{
-																"type": "intrinsic",
-																"name": "any"
-															},
-															{
-																"type": "array",
-																"elementType": {
-																	"type": "intrinsic",
-																	"name": "any"
-																}
-															},
-															{
-																"type": "intrinsic",
-																"name": "any"
-															}
-														],
-														"name": "TFunction"
+														"name": "AnyFunction"
 													}
 												],
 												"name": "TypedPropertyDescriptor"
@@ -9601,7 +9392,7 @@
 							"sources": [
 								{
 									"fileName": "dist/VueExtraDecorators.d.ts",
-									"line": 3099,
+									"line": 3100,
 									"character": 28
 								}
 							]
@@ -9612,13 +9403,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 3099,
+					"line": 3100,
 					"character": 25
 				}
 			]
 		},
 		{
-			"id": 690,
+			"id": 691,
 			"name": "On",
 			"kind": 64,
 			"kindString": "Function",
@@ -9628,7 +9419,7 @@
 			},
 			"signatures": [
 				{
-					"id": 691,
+					"id": 692,
 					"name": "On",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -9651,7 +9442,7 @@
 					},
 					"parameters": [
 						{
-							"id": 692,
+							"id": 693,
 							"name": "events",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -9686,13 +9477,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 1408,
+					"line": 1409,
 					"character": 19
 				}
 			]
 		},
 		{
-			"id": 693,
+			"id": 694,
 			"name": "OnDocument",
 			"kind": 64,
 			"kindString": "Function",
@@ -9702,7 +9493,7 @@
 			},
 			"signatures": [
 				{
-					"id": 694,
+					"id": 695,
 					"name": "OnDocument",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -9725,7 +9516,7 @@
 					},
 					"parameters": [
 						{
-							"id": 695,
+							"id": 696,
 							"name": "events",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -9760,13 +9551,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 1431,
+					"line": 1432,
 					"character": 27
 				}
 			]
 		},
 		{
-			"id": 696,
+			"id": 697,
 			"name": "OnElement",
 			"kind": 64,
 			"kindString": "Function",
@@ -9776,7 +9567,7 @@
 			},
 			"signatures": [
 				{
-					"id": 697,
+					"id": 698,
 					"name": "OnElement",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -9799,7 +9590,7 @@
 					},
 					"parameters": [
 						{
-							"id": 698,
+							"id": 699,
 							"name": "events",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -9834,13 +9625,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 1455,
+					"line": 1456,
 					"character": 26
 				}
 			]
 		},
 		{
-			"id": 699,
+			"id": 700,
 			"name": "OnParent",
 			"kind": 64,
 			"kindString": "Function",
@@ -9850,7 +9641,7 @@
 			},
 			"signatures": [
 				{
-					"id": 700,
+					"id": 701,
 					"name": "OnParent",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -9873,7 +9664,7 @@
 					},
 					"parameters": [
 						{
-							"id": 701,
+							"id": 702,
 							"name": "events",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -9908,13 +9699,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 1479,
+					"line": 1480,
 					"character": 25
 				}
 			]
 		},
 		{
-			"id": 702,
+			"id": 703,
 			"name": "OnParentElement",
 			"kind": 64,
 			"kindString": "Function",
@@ -9924,7 +9715,7 @@
 			},
 			"signatures": [
 				{
-					"id": 703,
+					"id": 704,
 					"name": "OnParentElement",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -9947,7 +9738,7 @@
 					},
 					"parameters": [
 						{
-							"id": 704,
+							"id": 705,
 							"name": "events",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -9982,13 +9773,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 1503,
+					"line": 1504,
 					"character": 32
 				}
 			]
 		},
 		{
-			"id": 705,
+			"id": 706,
 			"name": "OnWindow",
 			"kind": 64,
 			"kindString": "Function",
@@ -9998,7 +9789,7 @@
 			},
 			"signatures": [
 				{
-					"id": 706,
+					"id": 707,
 					"name": "OnWindow",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -10021,7 +9812,7 @@
 					},
 					"parameters": [
 						{
-							"id": 707,
+							"id": 708,
 							"name": "events",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -10056,13 +9847,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 1526,
+					"line": 1527,
 					"character": 25
 				}
 			]
 		},
 		{
-			"id": 660,
+			"id": 661,
 			"name": "ParentEl",
 			"kind": 64,
 			"kindString": "Function",
@@ -10072,7 +9863,7 @@
 			},
 			"signatures": [
 				{
-					"id": 661,
+					"id": 662,
 					"name": "ParentEl",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -10095,7 +9886,7 @@
 					},
 					"parameters": [
 						{
-							"id": 662,
+							"id": 663,
 							"name": "selector",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -10121,7 +9912,7 @@
 							}
 						},
 						{
-							"id": 663,
+							"id": 664,
 							"name": "multiple",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -10187,13 +9978,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 1185,
+					"line": 1186,
 					"character": 25
 				}
 			]
 		},
 		{
-			"id": 728,
+			"id": 729,
 			"name": "Prop",
 			"kind": 64,
 			"kindString": "Function",
@@ -10203,7 +9994,7 @@
 			},
 			"signatures": [
 				{
-					"id": 729,
+					"id": 730,
 					"name": "Prop",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -10226,7 +10017,7 @@
 					},
 					"typeParameter": [
 						{
-							"id": 730,
+							"id": 731,
 							"name": "T",
 							"kind": 131072,
 							"kindString": "Type parameter",
@@ -10237,7 +10028,7 @@
 					],
 					"parameters": [
 						{
-							"id": 731,
+							"id": 732,
 							"name": "opts",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -10250,7 +10041,7 @@
 							},
 							"type": {
 								"type": "reference",
-								"id": 726,
+								"id": 727,
 								"typeArguments": [
 									{
 										"type": "typeParameter",
@@ -10261,7 +10052,7 @@
 							}
 						},
 						{
-							"id": 732,
+							"id": 733,
 							"name": "typeOverride",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -10299,13 +10090,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 1927,
+					"line": 1928,
 					"character": 21
 				}
 			]
 		},
 		{
-			"id": 745,
+			"id": 746,
 			"name": "Ref",
 			"kind": 64,
 			"kindString": "Function",
@@ -10315,7 +10106,7 @@
 			},
 			"signatures": [
 				{
-					"id": 746,
+					"id": 747,
 					"name": "Ref",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -10338,7 +10129,7 @@
 					},
 					"parameters": [
 						{
-							"id": 747,
+							"id": 748,
 							"name": "ref",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -10369,13 +10160,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 2134,
+					"line": 2135,
 					"character": 20
 				}
 			]
 		},
 		{
-			"id": 748,
+			"id": 749,
 			"name": "Route",
 			"kind": 64,
 			"kindString": "Function",
@@ -10385,7 +10176,7 @@
 			},
 			"signatures": [
 				{
-					"id": 749,
+					"id": 750,
 					"name": "Route",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -10408,7 +10199,7 @@
 					},
 					"parameters": [
 						{
-							"id": 750,
+							"id": 751,
 							"name": "route",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -10444,7 +10235,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 751,
+							"id": 752,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -10453,7 +10244,7 @@
 							},
 							"signatures": [
 								{
-									"id": 752,
+									"id": 753,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -10462,7 +10253,7 @@
 									},
 									"parameters": [
 										{
-											"id": 753,
+											"id": 754,
 											"name": "target",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -10484,7 +10275,7 @@
 							"sources": [
 								{
 									"fileName": "dist/VueExtraDecorators.d.ts",
-									"line": 2175,
+									"line": 2176,
 									"character": 62
 								}
 							]
@@ -10495,13 +10286,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 2175,
+					"line": 2176,
 					"character": 22
 				}
 			]
 		},
 		{
-			"id": 754,
+			"id": 755,
 			"name": "RouteName",
 			"kind": 64,
 			"kindString": "Function",
@@ -10511,7 +10302,7 @@
 			},
 			"signatures": [
 				{
-					"id": 755,
+					"id": 756,
 					"name": "RouteName",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -10556,13 +10347,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 2208,
+					"line": 2209,
 					"character": 26
 				}
 			]
 		},
 		{
-			"id": 756,
+			"id": 757,
 			"name": "RouteParam",
 			"kind": 64,
 			"kindString": "Function",
@@ -10572,7 +10363,7 @@
 			},
 			"signatures": [
 				{
-					"id": 757,
+					"id": 758,
 					"name": "RouteParam",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -10595,7 +10386,7 @@
 					},
 					"parameters": [
 						{
-							"id": 758,
+							"id": 759,
 							"name": "name",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -10608,7 +10399,7 @@
 							}
 						},
 						{
-							"id": 759,
+							"id": 760,
 							"name": "props",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -10653,13 +10444,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 2280,
+					"line": 2281,
 					"character": 27
 				}
 			]
 		},
 		{
-			"id": 760,
+			"id": 761,
 			"name": "RouteQuery",
 			"kind": 64,
 			"kindString": "Function",
@@ -10669,7 +10460,7 @@
 			},
 			"signatures": [
 				{
-					"id": 761,
+					"id": 762,
 					"name": "RouteQuery",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -10692,7 +10483,7 @@
 					},
 					"typeParameter": [
 						{
-							"id": 762,
+							"id": 763,
 							"name": "T",
 							"kind": 131072,
 							"kindString": "Type parameter",
@@ -10703,7 +10494,7 @@
 					],
 					"parameters": [
 						{
-							"id": 763,
+							"id": 764,
 							"name": "name",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -10716,7 +10507,7 @@
 							}
 						},
 						{
-							"id": 764,
+							"id": 765,
 							"name": "props",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -10752,13 +10543,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 2352,
+					"line": 2353,
 					"character": 27
 				}
 			]
 		},
 		{
-			"id": 733,
+			"id": 734,
 			"name": "SProp",
 			"kind": 64,
 			"kindString": "Function",
@@ -10768,7 +10559,7 @@
 			},
 			"signatures": [
 				{
-					"id": 734,
+					"id": 735,
 					"name": "SProp",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -10791,7 +10582,7 @@
 					},
 					"parameters": [
 						{
-							"id": 735,
+							"id": 736,
 							"name": "opts",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -10804,7 +10595,7 @@
 							},
 							"type": {
 								"type": "reference",
-								"id": 726,
+								"id": 727,
 								"typeArguments": [
 									{
 										"type": "intrinsic",
@@ -10830,13 +10621,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 1954,
+					"line": 1955,
 					"character": 22
 				}
 			]
 		},
 		{
-			"id": 782,
+			"id": 783,
 			"name": "State",
 			"kind": 64,
 			"kindString": "Function",
@@ -10846,7 +10637,7 @@
 			},
 			"signatures": [
 				{
-					"id": 783,
+					"id": 784,
 					"name": "State",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -10873,7 +10664,7 @@
 					},
 					"typeParameter": [
 						{
-							"id": 784,
+							"id": 785,
 							"name": "T",
 							"kind": 131072,
 							"kindString": "Type parameter",
@@ -10884,7 +10675,7 @@
 					],
 					"parameters": [
 						{
-							"id": 785,
+							"id": 786,
 							"name": "opts",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -10897,7 +10688,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 786,
+									"id": 787,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -10906,7 +10697,7 @@
 									},
 									"children": [
 										{
-											"id": 787,
+											"id": 788,
 											"name": "default",
 											"kind": 32,
 											"kindString": "Variable",
@@ -10917,7 +10708,7 @@
 											"sources": [
 												{
 													"fileName": "dist/VueExtraDecorators.d.ts",
-													"line": 2710,
+													"line": 2711,
 													"character": 11
 												}
 											],
@@ -10931,7 +10722,7 @@
 													{
 														"type": "reflection",
 														"declaration": {
-															"id": 788,
+															"id": 789,
 															"name": "__type",
 															"kind": 65536,
 															"kindString": "Type literal",
@@ -10940,7 +10731,7 @@
 															},
 															"signatures": [
 																{
-																	"id": 789,
+																	"id": 790,
 																	"name": "__call",
 																	"kind": 4096,
 																	"kindString": "Call signature",
@@ -10956,7 +10747,7 @@
 															"sources": [
 																{
 																	"fileName": "dist/VueExtraDecorators.d.ts",
-																	"line": 2710,
+																	"line": 2711,
 																	"character": 17
 																}
 															]
@@ -10966,7 +10757,7 @@
 											}
 										},
 										{
-											"id": 790,
+											"id": 791,
 											"name": "literal",
 											"kind": 32,
 											"kindString": "Variable",
@@ -10977,13 +10768,13 @@
 											"sources": [
 												{
 													"fileName": "dist/VueExtraDecorators.d.ts",
-													"line": 2711,
+													"line": 2712,
 													"character": 11
 												}
 											],
 											"type": {
 												"type": "reference",
-												"id": 784,
+												"id": 785,
 												"name": "T"
 											}
 										}
@@ -10993,15 +10784,15 @@
 											"title": "Variables",
 											"kind": 32,
 											"children": [
-												787,
-												790
+												788,
+												791
 											]
 										}
 									],
 									"sources": [
 										{
 											"fileName": "dist/VueExtraDecorators.d.ts",
-											"line": 2709,
+											"line": 2710,
 											"character": 37
 										}
 									]
@@ -11015,7 +10806,7 @@
 					}
 				},
 				{
-					"id": 791,
+					"id": 792,
 					"name": "State",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -11024,7 +10815,7 @@
 					},
 					"parameters": [
 						{
-							"id": 792,
+							"id": 793,
 							"name": "proto",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -11043,7 +10834,7 @@
 							}
 						},
 						{
-							"id": 793,
+							"id": 794,
 							"name": "key",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -11074,18 +10865,18 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 2709,
+					"line": 2710,
 					"character": 22
 				},
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 2739,
+					"line": 2740,
 					"character": 22
 				}
 			]
 		},
 		{
-			"id": 708,
+			"id": 709,
 			"name": "Watch",
 			"kind": 64,
 			"kindString": "Function",
@@ -11095,7 +10886,7 @@
 			},
 			"signatures": [
 				{
-					"id": 709,
+					"id": 710,
 					"name": "Watch",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -11118,7 +10909,7 @@
 					},
 					"parameters": [
 						{
-							"id": 710,
+							"id": 711,
 							"name": "property",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -11146,7 +10937,7 @@
 					}
 				},
 				{
-					"id": 711,
+					"id": 712,
 					"name": "Watch",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -11155,7 +10946,7 @@
 					},
 					"parameters": [
 						{
-							"id": 712,
+							"id": 713,
 							"name": "opts",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -11184,18 +10975,18 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 1567,
+					"line": 1568,
 					"character": 22
 				},
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 1588,
+					"line": 1589,
 					"character": 22
 				}
 			]
 		},
 		{
-			"id": 472,
+			"id": 473,
 			"name": "and",
 			"kind": 64,
 			"kindString": "Function",
@@ -11205,7 +10996,7 @@
 			},
 			"signatures": [
 				{
-					"id": 473,
+					"id": 474,
 					"name": "and",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -11229,7 +11020,7 @@
 					},
 					"parameters": [
 						{
-							"id": 474,
+							"id": 475,
 							"name": "fns",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -11270,13 +11061,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 649,
+					"line": 650,
 					"character": 20
 				}
 			]
 		},
 		{
-			"id": 620,
+			"id": 621,
 			"name": "composeConverter",
 			"kind": 64,
 			"kindString": "Function",
@@ -11286,7 +11077,7 @@
 			},
 			"signatures": [
 				{
-					"id": 621,
+					"id": 622,
 					"name": "composeConverter",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -11299,7 +11090,7 @@
 					},
 					"parameters": [
 						{
-							"id": 622,
+							"id": 623,
 							"name": "className",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -11330,7 +11121,7 @@
 							}
 						},
 						{
-							"id": 623,
+							"id": 624,
 							"name": "memberName",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -11364,7 +11155,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 624,
+							"id": 625,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -11373,7 +11164,7 @@
 							},
 							"signatures": [
 								{
-									"id": 625,
+									"id": 626,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -11382,7 +11173,7 @@
 									},
 									"parameters": [
 										{
-											"id": 626,
+											"id": 627,
 											"name": "name",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -11413,7 +11204,7 @@
 											}
 										},
 										{
-											"id": 627,
+											"id": 628,
 											"name": "member",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -11435,7 +11226,7 @@
 							"sources": [
 								{
 									"fileName": "dist/VueExtraDecorators.d.ts",
-									"line": 940,
+									"line": 941,
 									"character": 115
 								}
 							]
@@ -11446,13 +11237,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 940,
+					"line": 941,
 					"character": 33
 				}
 			]
 		},
 		{
-			"id": 417,
+			"id": 418,
 			"name": "isEqual",
 			"kind": 64,
 			"kindString": "Function",
@@ -11462,7 +11253,7 @@
 			},
 			"signatures": [
 				{
-					"id": 418,
+					"id": 419,
 					"name": "isEqual",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -11486,7 +11277,7 @@
 					},
 					"parameters": [
 						{
-							"id": 419,
+							"id": 420,
 							"name": "path",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -11502,7 +11293,7 @@
 							}
 						},
 						{
-							"id": 420,
+							"id": 421,
 							"name": "value",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -11521,7 +11312,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 421,
+							"id": 422,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -11530,7 +11321,7 @@
 							},
 							"signatures": [
 								{
-									"id": 422,
+									"id": 423,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -11539,7 +11330,7 @@
 									},
 									"parameters": [
 										{
-											"id": 423,
+											"id": 424,
 											"name": "data",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -11561,7 +11352,7 @@
 							"sources": [
 								{
 									"fileName": "dist/VueExtraDecorators.d.ts",
-									"line": 364,
+									"line": 365,
 									"character": 51
 								}
 							]
@@ -11572,13 +11363,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 364,
+					"line": 365,
 					"character": 24
 				}
 			]
 		},
 		{
-			"id": 431,
+			"id": 432,
 			"name": "isFirstChild",
 			"kind": 64,
 			"kindString": "Function",
@@ -11588,7 +11379,7 @@
 			},
 			"signatures": [
 				{
-					"id": 432,
+					"id": 433,
 					"name": "isFirstChild",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -11612,7 +11403,7 @@
 					},
 					"parameters": [
 						{
-							"id": 433,
+							"id": 434,
 							"name": "ev",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -11646,13 +11437,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 420,
+					"line": 421,
 					"character": 29
 				}
 			]
 		},
 		{
-			"id": 434,
+			"id": 435,
 			"name": "isFirstElementChild",
 			"kind": 64,
 			"kindString": "Function",
@@ -11662,7 +11453,7 @@
 			},
 			"signatures": [
 				{
-					"id": 435,
+					"id": 436,
 					"name": "isFirstElementChild",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -11686,7 +11477,7 @@
 					},
 					"parameters": [
 						{
-							"id": 436,
+							"id": 437,
 							"name": "ev",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -11720,13 +11511,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 448,
+					"line": 449,
 					"character": 36
 				}
 			]
 		},
 		{
-			"id": 458,
+			"id": 459,
 			"name": "isInPath",
 			"kind": 64,
 			"kindString": "Function",
@@ -11736,7 +11527,7 @@
 			},
 			"signatures": [
 				{
-					"id": 459,
+					"id": 460,
 					"name": "isInPath",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -11760,7 +11551,7 @@
 					},
 					"parameters": [
 						{
-							"id": 460,
+							"id": 461,
 							"name": "refs",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -11783,7 +11574,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 461,
+							"id": 462,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -11792,7 +11583,7 @@
 							},
 							"signatures": [
 								{
-									"id": 462,
+									"id": 463,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -11801,7 +11592,7 @@
 									},
 									"parameters": [
 										{
-											"id": 463,
+											"id": 464,
 											"name": "this",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -11815,7 +11606,7 @@
 											}
 										},
 										{
-											"id": 464,
+											"id": 465,
 											"name": "ev",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -11837,7 +11628,7 @@
 							"sources": [
 								{
 									"fileName": "dist/VueExtraDecorators.d.ts",
-									"line": 604,
+									"line": 605,
 									"character": 45
 								}
 							]
@@ -11848,13 +11639,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 604,
+					"line": 605,
 					"character": 25
 				}
 			]
 		},
 		{
-			"id": 437,
+			"id": 438,
 			"name": "isLastChild",
 			"kind": 64,
 			"kindString": "Function",
@@ -11864,7 +11655,7 @@
 			},
 			"signatures": [
 				{
-					"id": 438,
+					"id": 439,
 					"name": "isLastChild",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -11888,7 +11679,7 @@
 					},
 					"parameters": [
 						{
-							"id": 439,
+							"id": 440,
 							"name": "ev",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -11922,13 +11713,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 476,
+					"line": 477,
 					"character": 28
 				}
 			]
 		},
 		{
-			"id": 440,
+			"id": 441,
 			"name": "isLastElementChild",
 			"kind": 64,
 			"kindString": "Function",
@@ -11938,7 +11729,7 @@
 			},
 			"signatures": [
 				{
-					"id": 441,
+					"id": 442,
 					"name": "isLastElementChild",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -11962,7 +11753,7 @@
 					},
 					"parameters": [
 						{
-							"id": 442,
+							"id": 443,
 							"name": "ev",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -11996,13 +11787,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 504,
+					"line": 505,
 					"character": 35
 				}
 			]
 		},
 		{
-			"id": 465,
+			"id": 466,
 			"name": "isOneInPath",
 			"kind": 64,
 			"kindString": "Function",
@@ -12012,7 +11803,7 @@
 			},
 			"signatures": [
 				{
-					"id": 466,
+					"id": 467,
 					"name": "isOneInPath",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -12036,7 +11827,7 @@
 					},
 					"parameters": [
 						{
-							"id": 467,
+							"id": 468,
 							"name": "refs",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -12059,7 +11850,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 468,
+							"id": 469,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -12068,7 +11859,7 @@
 							},
 							"signatures": [
 								{
-									"id": 469,
+									"id": 470,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -12077,7 +11868,7 @@
 									},
 									"parameters": [
 										{
-											"id": 470,
+											"id": 471,
 											"name": "this",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -12091,7 +11882,7 @@
 											}
 										},
 										{
-											"id": 471,
+											"id": 472,
 											"name": "ev",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -12113,7 +11904,7 @@
 							"sources": [
 								{
 									"fileName": "dist/VueExtraDecorators.d.ts",
-									"line": 629,
+									"line": 630,
 									"character": 48
 								}
 							]
@@ -12124,13 +11915,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 629,
+					"line": 630,
 					"character": 28
 				}
 			]
 		},
 		{
-			"id": 424,
+			"id": 425,
 			"name": "isOneOf",
 			"kind": 64,
 			"kindString": "Function",
@@ -12140,7 +11931,7 @@
 			},
 			"signatures": [
 				{
-					"id": 425,
+					"id": 426,
 					"name": "isOneOf",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -12164,7 +11955,7 @@
 					},
 					"parameters": [
 						{
-							"id": 426,
+							"id": 427,
 							"name": "path",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -12180,7 +11971,7 @@
 							}
 						},
 						{
-							"id": 427,
+							"id": 428,
 							"name": "values",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -12203,7 +11994,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 428,
+							"id": 429,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -12212,7 +12003,7 @@
 							},
 							"signatures": [
 								{
-									"id": 429,
+									"id": 430,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -12221,7 +12012,7 @@
 									},
 									"parameters": [
 										{
-											"id": 430,
+											"id": 431,
 											"name": "data",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -12243,7 +12034,7 @@
 							"sources": [
 								{
 									"fileName": "dist/VueExtraDecorators.d.ts",
-									"line": 392,
+									"line": 393,
 									"character": 57
 								}
 							]
@@ -12254,13 +12045,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 392,
+					"line": 393,
 					"character": 24
 				}
 			]
 		},
 		{
-			"id": 922,
+			"id": 923,
 			"name": "isPromiseLike",
 			"kind": 64,
 			"kindString": "Function",
@@ -12269,7 +12060,7 @@
 			},
 			"signatures": [
 				{
-					"id": 923,
+					"id": 924,
 					"name": "isPromiseLike",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -12278,7 +12069,7 @@
 					},
 					"parameters": [
 						{
-							"id": 924,
+							"id": 925,
 							"name": "it",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -12311,13 +12102,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 3245,
+					"line": 3246,
 					"character": 30
 				}
 			]
 		},
 		{
-			"id": 919,
+			"id": 920,
 			"name": "isThenable",
 			"kind": 64,
 			"kindString": "Function",
@@ -12326,7 +12117,7 @@
 			},
 			"signatures": [
 				{
-					"id": 920,
+					"id": 921,
 					"name": "isThenable",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -12335,7 +12126,7 @@
 					},
 					"parameters": [
 						{
-							"id": 921,
+							"id": 922,
 							"name": "it",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -12368,13 +12159,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 3244,
+					"line": 3245,
 					"character": 27
 				}
 			]
 		},
 		{
-			"id": 443,
+			"id": 444,
 			"name": "keyMatches",
 			"kind": 64,
 			"kindString": "Function",
@@ -12384,7 +12175,7 @@
 			},
 			"signatures": [
 				{
-					"id": 444,
+					"id": 445,
 					"name": "keyMatches",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -12408,7 +12199,7 @@
 					},
 					"parameters": [
 						{
-							"id": 445,
+							"id": 446,
 							"name": "keys",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -12431,7 +12222,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 446,
+							"id": 447,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -12440,7 +12231,7 @@
 							},
 							"signatures": [
 								{
-									"id": 447,
+									"id": 448,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -12449,7 +12240,7 @@
 									},
 									"parameters": [
 										{
-											"id": 448,
+											"id": 449,
 											"name": "ev",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -12471,7 +12262,7 @@
 							"sources": [
 								{
 									"fileName": "dist/VueExtraDecorators.d.ts",
-									"line": 529,
+									"line": 530,
 									"character": 47
 								}
 							]
@@ -12482,13 +12273,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 529,
+					"line": 530,
 					"character": 27
 				}
 			]
 		},
 		{
-			"id": 449,
+			"id": 450,
 			"name": "mouseButtonMatches",
 			"kind": 64,
 			"kindString": "Function",
@@ -12498,7 +12289,7 @@
 			},
 			"signatures": [
 				{
-					"id": 450,
+					"id": 451,
 					"name": "mouseButtonMatches",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -12522,7 +12313,7 @@
 					},
 					"parameters": [
 						{
-							"id": 451,
+							"id": 452,
 							"name": "buttons",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -12545,7 +12336,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 452,
+							"id": 453,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -12554,7 +12345,7 @@
 							},
 							"signatures": [
 								{
-									"id": 453,
+									"id": 454,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -12563,7 +12354,7 @@
 									},
 									"parameters": [
 										{
-											"id": 454,
+											"id": 455,
 											"name": "ev",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -12585,7 +12376,7 @@
 							"sources": [
 								{
 									"fileName": "dist/VueExtraDecorators.d.ts",
-									"line": 554,
+									"line": 555,
 									"character": 63
 								}
 							]
@@ -12596,13 +12387,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 554,
+					"line": 555,
 					"character": 35
 				}
 			]
 		},
 		{
-			"id": 491,
+			"id": 492,
 			"name": "not",
 			"kind": 64,
 			"kindString": "Function",
@@ -12612,7 +12403,7 @@
 			},
 			"signatures": [
 				{
-					"id": 492,
+					"id": 493,
 					"name": "not",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -12636,7 +12427,7 @@
 					},
 					"parameters": [
 						{
-							"id": 493,
+							"id": 494,
 							"name": "fn",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -12673,13 +12464,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 705,
+					"line": 706,
 					"character": 20
 				}
 			]
 		},
 		{
-			"id": 494,
+			"id": 495,
 			"name": "or",
 			"kind": 64,
 			"kindString": "Function",
@@ -12689,7 +12480,7 @@
 			},
 			"signatures": [
 				{
-					"id": 495,
+					"id": 496,
 					"name": "or",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -12713,7 +12504,7 @@
 					},
 					"parameters": [
 						{
-							"id": 496,
+							"id": 497,
 							"name": "fns",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -12754,13 +12545,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 725,
+					"line": 726,
 					"character": 19
 				}
 			]
 		},
 		{
-			"id": 946,
+			"id": 947,
 			"name": "statusOf",
 			"kind": 64,
 			"kindString": "Function",
@@ -12769,7 +12560,7 @@
 			},
 			"signatures": [
 				{
-					"id": 947,
+					"id": 948,
 					"name": "statusOf",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -12778,7 +12569,7 @@
 					},
 					"parameters": [
 						{
-							"id": 948,
+							"id": 949,
 							"name": "obj",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -12809,13 +12600,13 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 3286,
+					"line": 3287,
 					"character": 25
 				}
 			]
 		},
 		{
-			"id": 455,
+			"id": 456,
 			"name": "wasPrevented",
 			"kind": 64,
 			"kindString": "Function",
@@ -12825,7 +12616,7 @@
 			},
 			"signatures": [
 				{
-					"id": 456,
+					"id": 457,
 					"name": "wasPrevented",
 					"kind": 4096,
 					"kindString": "Call signature",
@@ -12849,7 +12640,7 @@
 					},
 					"parameters": [
 						{
-							"id": 457,
+							"id": 458,
 							"name": "ev",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -12874,7 +12665,7 @@
 			"sources": [
 				{
 					"fileName": "dist/VueExtraDecorators.d.ts",
-					"line": 579,
+					"line": 580,
 					"character": 29
 				}
 			]
@@ -12905,14 +12696,14 @@
 			"title": "Type aliases",
 			"kind": 4194304,
 			"children": [
-				534,
-				525,
-				506,
-				726,
-				515,
+				535,
+				526,
+				507,
+				727,
+				516,
 				364,
-				883,
-				581
+				884,
+				582
 			]
 		},
 		{
@@ -12920,156 +12711,156 @@
 			"kind": 32,
 			"children": [
 				387,
-				886
+				887
 			]
 		},
 		{
 			"title": "Functions",
 			"kind": 64,
 			"children": [
-				739,
-				765,
-				774,
-				609,
-				628,
-				632,
-				636,
-				640,
-				742,
-				716,
-				722,
-				802,
-				794,
-				810,
-				652,
-				656,
-				664,
-				672,
-				681,
-				818,
-				826,
-				719,
-				713,
-				475,
-				483,
-				833,
-				736,
-				840,
-				847,
-				854,
-				690,
-				693,
-				696,
-				699,
-				702,
-				705,
-				660,
-				728,
-				745,
-				748,
-				754,
-				756,
-				760,
-				733,
-				782,
-				708,
-				472,
-				620,
-				417,
-				431,
-				434,
-				458,
-				437,
-				440,
-				465,
-				424,
-				922,
-				919,
-				443,
-				449,
-				491,
-				494,
-				946,
-				455
+				740,
+				766,
+				775,
+				610,
+				629,
+				633,
+				637,
+				641,
+				743,
+				717,
+				723,
+				803,
+				795,
+				811,
+				653,
+				657,
+				665,
+				673,
+				682,
+				819,
+				827,
+				720,
+				714,
+				476,
+				484,
+				834,
+				737,
+				841,
+				848,
+				855,
+				691,
+				694,
+				697,
+				700,
+				703,
+				706,
+				661,
+				729,
+				746,
+				749,
+				755,
+				757,
+				761,
+				734,
+				783,
+				709,
+				473,
+				621,
+				418,
+				432,
+				435,
+				459,
+				438,
+				441,
+				466,
+				425,
+				923,
+				920,
+				444,
+				450,
+				492,
+				495,
+				947,
+				456
 			],
 			"categories": [
 				{
 					"title": "Decorator",
 					"children": [
-						739,
-						765,
-						774,
-						609,
-						628,
-						632,
-						636,
-						640,
-						742,
-						716,
-						722,
-						802,
-						794,
-						810,
-						652,
-						656,
-						664,
-						672,
-						681,
-						818,
-						826,
-						719,
-						713,
-						475,
-						483,
-						833,
-						736,
-						840,
-						847,
-						854,
-						690,
-						693,
-						696,
-						699,
-						702,
-						705,
-						660,
-						728,
-						745,
-						748,
-						754,
-						756,
-						760,
-						733,
-						708
+						740,
+						766,
+						775,
+						610,
+						629,
+						633,
+						637,
+						641,
+						743,
+						717,
+						723,
+						803,
+						795,
+						811,
+						653,
+						657,
+						665,
+						673,
+						682,
+						819,
+						827,
+						720,
+						714,
+						476,
+						484,
+						834,
+						737,
+						841,
+						848,
+						855,
+						691,
+						694,
+						697,
+						700,
+						703,
+						706,
+						661,
+						729,
+						746,
+						749,
+						755,
+						757,
+						761,
+						734,
+						709
 					]
 				},
 				{
 					"title": "Other",
 					"children": [
-						782,
-						620,
-						922,
-						919,
-						946
+						783,
+						621,
+						923,
+						920,
+						947
 					]
 				},
 				{
 					"title": "Predicate",
 					"children": [
-						472,
-						417,
-						431,
-						434,
-						458,
-						437,
-						440,
-						465,
-						424,
-						443,
-						449,
-						491,
-						494,
-						455
+						473,
+						418,
+						432,
+						435,
+						459,
+						438,
+						441,
+						466,
+						425,
+						444,
+						450,
+						492,
+						495,
+						456
 					]
 				}
 			]

@@ -1,3 +1,15 @@
+# [2.8.0](https://github.com/rocketbase-io/vue-extra-decorators/compare/v2.7.0...v2.8.0) (2020-06-22)
+
+
+### Bug Fixes
+
+* specific import path for watch types ([ae9b848](https://github.com/rocketbase-io/vue-extra-decorators/commit/ae9b848e41c4880fc5e364dc15c9884a5c645aaf))
+
+
+### Features
+
+* externalize watch decorator creation ([b5e0944](https://github.com/rocketbase-io/vue-extra-decorators/commit/b5e09441a69348601bbf60ffbe490174700dfbb5))
+
 # [2.7.0](https://github.com/rocketbase-io/vue-extra-decorators/compare/v2.6.1...v2.7.0) (2020-06-18)
 
 

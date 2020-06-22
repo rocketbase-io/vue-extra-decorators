@@ -1,6 +1,7 @@
 import { getOrSetDefault } from "src/util/get-or-set-default";
 import { isPrototype } from "src/util/is-prototype";
 import { Snowflake } from "src/util/snowflake";
+import Vue from "vue";
 
 const BUSY_STATE = Symbol("Busy State");
 
@@ -24,14 +25,16 @@ export interface BusyStateSubscriber {
  */
 export type BusyStateMap = Record<string, BusyStateWrapper>;
 
-const globalBusyState: Record<string, BusyStateWrapper> = {};
+const globalBusyState: { states: Record<string, BusyStateWrapper> } = Vue.observable({ states: {} });
 
 /**
  * @internal
  */
 export function getBusyStateWrapper(instance: any, key = ""): BusyStateWrapper {
   if (isPrototype(instance)) throw new Error("Cannot create busy state on prototype objects");
-  const states: BusyStateMap = instance ? getOrSetDefault(instance, BUSY_STATE, () => ({})) : globalBusyState;
+  const states: BusyStateMap = instance
+    ? getOrSetDefault(instance, BUSY_STATE, () => Vue.observable({ states: {} })).states
+    : globalBusyState.states;
   return getOrSetDefault(states, key, () => ({ state: [], subscribers: [] }));
 }
 
@@ -54,7 +57,9 @@ export function getBusyState(instance: any, key = ""): Snowflake[] {
  */
 export function setBusyState(state: Snowflake[], instance: any, key = "") {
   if (isPrototype(instance)) throw new Error("Cannot create busy state on prototype objects");
-  const before = getBusyState(instance, key);
-  if (before !== state) before.splice(0, before.length, ...state);
+  const allStates: { states: BusyStateMap } = instance
+    ? getOrSetDefault(instance, BUSY_STATE, () => Vue.observable({ states: {} }))
+    : globalBusyState;
+  allStates.states = { ...allStates.states, [key]: { state, subscribers: allStates.states?.[key].subscribers ?? [] } };
   getBusyStateSubscribers(instance, key).forEach(subscriber => subscriber(state));
 }

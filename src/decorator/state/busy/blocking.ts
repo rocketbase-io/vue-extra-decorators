@@ -122,7 +122,7 @@ export function Blocking(
   return (prototype, key, desc) => {
     const { value } = desc!;
     desc!.value = async function(...args: any[]) {
-      const state = getBusyState(global ? undefined : this, id);
+      const state = getBusyState(global ? undefined : this, id).slice();
       if (state.length && !parallel) return;
       const flake = snowflake();
       state.push(flake);
@@ -130,7 +130,7 @@ export function Blocking(
       try {
         return await value!.call(this, ...args);
       } finally {
-        const state = getBusyState(global ? undefined : this, id);
+        const state = getBusyState(global ? undefined : this, id).slice();
         state.splice(state.indexOf(flake), 1);
         setBusyState(state, global ? undefined : this, id);
       }

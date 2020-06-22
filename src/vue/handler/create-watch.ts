@@ -1,4 +1,4 @@
-import { WatchHandler, WatchOptions } from "vue";
+import { WatchHandler, WatchOptions } from "vue/types/options";
 import { createDecorator } from "vue-class-component";
 
 /**

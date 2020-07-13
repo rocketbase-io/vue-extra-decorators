@@ -1,4 +1,4 @@
-import { Vue } from "vue/types/vue";
+import { ComponentPublicInstance } from "vue";
 
 /**
  * Creates a predicate that checks if its first parameter (assumed event) has
@@ -25,7 +25,7 @@ import { Vue } from "vue/types/vue";
  * @category Predicate
  */
 export function isInPath(...refs: string[]) {
-  return function(this: Vue, ev: Event) {
+  return function(this: ComponentPublicInstance, ev: Event) {
     if (!ev || !ev.composedPath) return false;
     if (!this.$refs) return refs.length === 0;
     const resolvedRefs = refs.map(ref => this.$refs[ref]) as any[];

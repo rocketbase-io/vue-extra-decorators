@@ -1,4 +1,4 @@
-import { WatchHandler, WatchOptions } from "vue/types/options";
+import { WatchOptions, WatchCallback } from "vue";
 import { createDecorator } from "vue-class-component";
 
 /**
@@ -8,7 +8,7 @@ import { createDecorator } from "vue-class-component";
  * @param handler - The handler function or property, if none are given, the decorated property will be used
  * @internal
  */
-export function createWatch(prop?: string, opts?: WatchOptions, handler?: string | WatchHandler<any>) {
+export function createWatch(prop?: string, opts?: WatchOptions, handler?: string | WatchCallback) {
   return createDecorator((options, key) => {
     const actualHandler = handler ?? key;
     const actualProp = prop ?? key;

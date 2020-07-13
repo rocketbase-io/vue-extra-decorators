@@ -1,9 +1,8 @@
-import Component from "vue-class-component";
-import { AnyFunction, TypedPropertyDecorator } from "../types";
-import { createListenerDecorator } from "./handler";
-import Vue from "vue";
+import { Options, Vue } from "vue-class-component";
+import { AnyFunction, TypedPropertyDecorator } from "src/types";
+import { createListenerDecorator } from "src/vue/handler";
 
-@Component
+@Options({})
 export class EventBus extends Vue {
   On(...events: string[]) {
     return createListenerDecorator(events, () => this);

@@ -1,6 +1,6 @@
 import { Constructor } from "src/types";
-import { RouteConfig } from "./routes";
-import { Vue } from "vue/types/vue";
+import { RouteConfig } from "src/vue/router/routes";
+import { ComponentInternalInstance } from "vue";
 
 /**
  * Normalizes a string / partial {@link RouteConfig} / class name into a {@link RouteConfig}
@@ -11,7 +11,7 @@ import { Vue } from "vue/types/vue";
  */
 export function normalizeRoute(
   it: Partial<RouteConfig> | string | undefined,
-  target: Constructor<Vue | any>
+  target: Constructor<ComponentInternalInstance | any>
 ): RouteConfig {
   // No route => assume class name
   if (it == null)

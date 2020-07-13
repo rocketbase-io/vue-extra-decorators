@@ -1,5 +1,5 @@
 import { getOrSetDefault } from "src/util/get-or-set-default";
-import Vue from "vue";
+import { reactive } from "vue";
 
 const STATE = Symbol("State");
 
@@ -12,7 +12,7 @@ const STATE = Symbol("State");
  * @internal
  */
 export function getState(obj: any, key: string | symbol, def: () => any, realm: string | symbol = STATE) {
-  const state = getOrSetDefault(obj, realm, () => Vue.observable({ properties: { [key]: def() ?? null } }));
+  const state = getOrSetDefault(obj, realm, () => reactive({ properties: { [key]: def() ?? null } }));
   if (!(key in state.properties)) state.properties = { ...state.properties, [key]: def() ?? null };
   return state.properties[key];
 }
@@ -26,6 +26,6 @@ export function getState(obj: any, key: string | symbol, def: () => any, realm: 
  * @internal
  */
 export function setState(obj: any, key: string | symbol, value: any, realm: string | symbol = STATE) {
-  const state = getOrSetDefault(obj, realm, () => Vue.observable({ properties: { [key]: null } }));
+  const state = getOrSetDefault(obj, realm, () => reactive({ properties: { [key]: null } }));
   state.properties = { ...state.properties, [key]: value ?? null };
 }

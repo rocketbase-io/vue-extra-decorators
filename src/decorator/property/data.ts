@@ -79,11 +79,12 @@ export function Data<T>(opts: DataOpts<T> = {}): TypedPropertyDecorator<T> {
       if (!Array.isArray(options.watch[key]))
         options.watch[key] = options.watch[key] == null ? ([] as any) : [options.watch[key]];
       (options.watch[key] as any).push({
-        handler(newVal: T, oldVal?: T) {
+        async handler(newVal: T, oldVal?: T) {
           if (this[block]) return;
           try {
             this[block] = true;
             this.$emit(event, newVal, oldVal);
+            await this.$nextTick();
           } finally {
             this[block] = false;
           }
@@ -92,11 +93,12 @@ export function Data<T>(opts: DataOpts<T> = {}): TypedPropertyDecorator<T> {
       if (!Array.isArray(options.watch[sync]))
         options.watch[sync] = options.watch[sync] == null ? ([] as any) : [options.watch[sync]];
       (options.watch[sync] as any).push({
-        handler(newVal: T) {
+        async handler(newVal: T) {
           if (this[block]) return;
           try {
             this[block] = true;
             (this as any)[key] = newVal;
+            await this.$nextTick();
           } finally {
             this[block] = false;
           }

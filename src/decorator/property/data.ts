@@ -28,6 +28,11 @@ export interface DataOpts<T> {
    * name of the property to sync with.
    */
   sync?: string;
+  /**
+   * Condition for applying sync changes to the related property,
+   * by default negated object equality is used (newVal !== oldVal).
+   */
+  syncCondition?: (newVal: T, oldVal?: T) => boolean;
 }
 
 /**
@@ -58,7 +63,8 @@ export function Data<T>(opts: DataOpts<T> = {}): TypedPropertyDecorator<T> {
   // Initialize values with null so they are reactive
   if (opts.default == null) opts.default = null as any;
 
-  const { default: def, sync } = opts;
+  const { default: def, sync, syncCondition } = opts;
+  const shouldSync = syncCondition ?? ((a: T, b?: T) => a !== b);
 
   // Normalize value of default to function always
   if (typeof opts.default !== "function")
@@ -80,7 +86,7 @@ export function Data<T>(opts: DataOpts<T> = {}): TypedPropertyDecorator<T> {
         options.watch[key] = options.watch[key] == null ? ([] as any) : [options.watch[key]];
       (options.watch[key] as any).push({
         async handler(newVal: T, oldVal?: T) {
-          if (this[block]) return;
+          if (this[block] && shouldSync.call(this, newVal, oldVal)) return;
           try {
             this[block] = true;
             this.$emit(event, newVal, oldVal);

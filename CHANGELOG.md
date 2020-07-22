@@ -1,3 +1,15 @@
+# [2.9.0](https://github.com/rocketbase-io/vue-extra-decorators/compare/v2.8.0...v2.9.0) (2020-07-22)
+
+
+### Bug Fixes
+
+* maintain sync blocks on synced data properties for another tick ([52b6419](https://github.com/rocketbase-io/vue-extra-decorators/commit/52b64199cb1471fd2c3fbacaf0d6fc8f3c1368e0))
+
+
+### Features
+
+* add syncCondition option to data decorators ([62e62f3](https://github.com/rocketbase-io/vue-extra-decorators/commit/62e62f3cd0d1965b92a816dc7449cc0987746e1c))
+
 # [2.8.0](https://github.com/rocketbase-io/vue-extra-decorators/compare/v2.7.0...v2.8.0) (2020-06-22)
 
 

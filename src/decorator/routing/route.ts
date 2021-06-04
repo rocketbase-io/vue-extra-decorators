@@ -13,7 +13,7 @@ import { getRoutes, normalizeRoute, RouteConfig } from "src/vue";
  * Only works if the file is imported before the router is initialized.
  * Requires "vue-router"
  *
- * If you're looking for binding route parameters or queries to memgers
+ * If you're looking for binding route parameters or queries to members
  * Use {@link RouteParam} {@link RouteQuery} {@link RouteName}.
  *
  * @example
